@@ -27,3 +27,7 @@ Record date, reviewer and decision for voice, transcript, storyboard, preview an
 ## Scene / preview
 - 2026-10-09: 04_scene/scene.js built. Stills are in 05_render/stills and sheets. The preview is served by `anim.py studio`. Decision: pending. Nobody has watched the preview with the voice yet.
 - 2026-10-09: the owner said "lets export it". This is recorded as the go-ahead to export. The chat did not say whether the preview was watched with sound.
+
+## Export
+- 2026-10-09: 05_render/meeting-note-explainer.mp4 rendered with `anim.py render --workers 1` and ANIM_OFFLINE=1. 1920x1080, 30 fps, H.264 + AAC mono 44.1 kHz, 33.66 s, 3.3 MB. FFmpeg decoded it with no errors, and the first, middle and last frames were inspected.
+- Decision: pending. Nobody has watched the MP4 with sound yet. The thumbnail and DESCRIPTION.md have not been made.
