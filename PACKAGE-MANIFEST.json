@@ -1,0 +1,216 @@
+{
+  "name": "Animation & Voice Workspace",
+  "version": "2026-09-29",
+  "status": "tested-starter",
+  "source_copies": [
+    {
+      "path": "anim.py",
+      "source_sha256": "38c5f1ebb4bad6dd786fdd6489eeca8b5114e7edfeff000d103ff4521a25a1c5"
+    },
+    {
+      "path": "_runtime/player.js",
+      "source_sha256": "62931c2d7873785d56bdb7fe6644e785365d648d999f099645cb5c5a8f5077e5"
+    },
+    {
+      "path": "_runtime/pixel.js",
+      "source_sha256": "25ee8c417d1cd1ea3a184c9e50639ff80439f3bdf12db2b089454cfc4c962a78"
+    },
+    {
+      "path": "_runtime/eduba.js",
+      "source_sha256": "902fc43ca96db2c0825bcbddb63be1d227eadcea4553fb6038ccb2109cf9490b"
+    },
+    {
+      "path": "_runtime/desk.js",
+      "source_sha256": "093f6a9ca2001576101f5c5b713435d326fc6ea0a8e541b8e1752e8cd1272a9e"
+    },
+    {
+      "path": "_runtime/looks.js",
+      "source_sha256": "679cbe40a3c0e90f2b61da00c250dbb7cc42ba4418c12d37cd349de537909c8f"
+    },
+    {
+      "path": "_runtime/line.js",
+      "source_sha256": "094630312d7f75d33cba4953cba4760a9a53688bd967175df5f0a27491c8e8e4"
+    },
+    {
+      "path": "_runtime/mix.js",
+      "source_sha256": "dc136672a551325b9803a42058dec8361cc6e926d26ea6f216e7785247224717"
+    },
+    {
+      "path": "_runtime/gallery.html",
+      "source_sha256": "5f231955c4f85301ac549e48dab66c13ad2d9bce869786256b2c24477c69dc22"
+    },
+    {
+      "path": "_runtime/gallery.js",
+      "source_sha256": "fdf8dd59f04b6c6d325bbdb1f8b395c18744d3a5c93576e8a7c8e2b2c48ab58b"
+    },
+    {
+      "path": "_runtime/line-gallery.html",
+      "source_sha256": "1a28608210bb9d1664b3e2521d327b9d9ae8b623178a940a64e84de6d50ecb4f"
+    },
+    {
+      "path": "_runtime/line-gallery.js",
+      "source_sha256": "253ee549070ac764813f206412a2031c69511c20ae5713a80c301b5e811c3469"
+    },
+    {
+      "path": "_runtime/chip.py",
+      "source_sha256": "e1eb954285d5eacaffd5c3a732e33fc4f644e529e6d5f8b4be0bfc52296f76f9"
+    },
+    {
+      "path": "_templates/scene-line-tall/index.html",
+      "source_sha256": "845dbd2eaacf7b02a0b36d1837f124d24f683e00276e2b8cca84cb6fb528352e"
+    },
+    {
+      "path": "_templates/scene-line-tall/scene.js",
+      "source_sha256": "a3c9b525b265c52e90437b6a36530c84377c6ebcadc273d47022241382979390"
+    },
+    {
+      "path": "_templates/scene-line-tall/thumbnail.html",
+      "source_sha256": "fca9fb88e5e8d8981972f4ee9532af4aa875f812a7442863e903a0faecfa4653"
+    },
+    {
+      "path": "_templates/scene-line-wide/index.html",
+      "source_sha256": "19685df99cbbddfd53a8c5f8fe545e1aa00c14b3ce3071141b29a61215220316"
+    },
+    {
+      "path": "_templates/scene-line-wide/scene.js",
+      "source_sha256": "0d9d72dc1f6bf920bf82bb4b4874c8a44076c92a5348126265256d65ef1f56da"
+    },
+    {
+      "path": "_templates/scene-line-wide/thumbnail.html",
+      "source_sha256": "26d5ddccf1a237b931557c7de7fa69cd47d1cb9e180688ca58e40b21021baadc"
+    },
+    {
+      "path": "_templates/scene-line-wide/thumbnail.js",
+      "source_sha256": "778d1186950711f40e821ff786fb7a2531f97a98ed236a471117ec01da5adaaa"
+    },
+    {
+      "path": "_templates/scene-tall/index.html",
+      "source_sha256": "8070fe9e1a425d3159144e3d216c76d0328b471c73ba1e7396c4578a1e75723e"
+    },
+    {
+      "path": "_templates/scene-tall/scene.js",
+      "source_sha256": "779ce108be4bcde4a09e7eea28f7adb860cb2673bdc905fce94120fda31188c9"
+    },
+    {
+      "path": "_templates/scene-tall/thumbnail.html",
+      "source_sha256": "d68cf9f15c4cbfb589da2f1091c7b071134a8b92f7b754c1446f5694b9c5013e"
+    },
+    {
+      "path": "_templates/scene-wide/index.html",
+      "source_sha256": "3d4190a159a930b63e27d41ee32f753a86e1c94505548a53607b4aa010159d16"
+    },
+    {
+      "path": "_templates/scene-wide/scene.js",
+      "source_sha256": "4c8ceca74ef726178e78b36b678dcecc1057bf0dfa21a2c5df5e552e594d4373"
+    },
+    {
+      "path": "_templates/scene-wide/thumbnail.html",
+      "source_sha256": "f335c630e5a3e52fbbc6fcb542e952a82984da3bc6068a0de5c51d8f818f4e5a"
+    },
+    {
+      "path": "_templates/scene-wide/thumbnail.js",
+      "source_sha256": "cbad13e53ba328d94877151d6543ed96bb856ed064b5ecb40c39c5ed232d9411"
+    },
+    {
+      "path": "_templates/video/01_voice/brief.md",
+      "source_sha256": "2ed02dd0e9a1534c75d40178fa48f4a1c53ace97ca35d6322e0e7aed0370b310"
+    },
+    {
+      "path": "_templates/video/01_voice/script.md",
+      "source_sha256": "49cb7d9c39af7a1c96e03abc730735e56acc54d176d9df3d450e26425eedc00b"
+    },
+    {
+      "path": "_templates/video/03_cues/cues.md",
+      "source_sha256": "5730629172510cee6198402981bfff0415cc17ef463d93051ae5df63ed5af9b4"
+    },
+    {
+      "path": "_templates/video/05_render/DESCRIPTION.md",
+      "source_sha256": "ff5c59fea52451cbefe804d6e3772156751393bfeed853f4a3543b89d24ddf8e"
+    },
+    {
+      "path": "_shared/kit.md",
+      "source_sha256": "dcda4a791dbc5eaa3ab6621b2ddf5f5645a074d7a738ebddc8040625702ba4f7"
+    },
+    {
+      "path": "_shared/line.md",
+      "source_sha256": "4f4e1395d4fcd595b96416f5efcccd519725f4ea1849f1371263df8979fb5546"
+    },
+    {
+      "path": "_shared/desk.md",
+      "source_sha256": "c9dc23d0e9c24af1d8bd37452dec4866bbbb8525621234385b7840f0c3b0b086"
+    },
+    {
+      "path": "_shared/mix.md",
+      "source_sha256": "8e1beb8ace57c2da47688d794979a537cbcf044964e71b8650cd47b9cefb40d2"
+    }
+  ],
+  "package_changes": [
+    "Licensed local fonts replace remote requests",
+    "Placeholder voice setup and generic contracts",
+    "Private example references removed",
+    "Vertical thumbnail starters completed",
+    "Synthetic silent example and doctor",
+    "Slug access validation",
+    "Silent audio produces zero envelope",
+    "ANIM_OFFLINE blocks external requests during tests",
+    "Scene startup errors fail immediately",
+    "No fallback to an owner-specific/default voice model",
+    "Advanced mixed-style reference explicitly labelled a non-runnable API sketch",
+    "START-HERE Windows examples explicitly use the virtual-environment interpreter after bootstrap"
+  ],
+  "excluded": [
+    ".env",
+    "owner voice config/ID",
+    "private projects/source/voice samples",
+    ".claude",
+    "history",
+    "archives",
+    "publishing automation",
+    "cover.py"
+  ],
+  "validation": {
+    "report": "SMOKE-TEST.md",
+    "passed": true,
+    "preview": {
+      "preview_loaded": true,
+      "preview_next_cue_control": true,
+      "same_frame_after_seek_back": true,
+      "different_frame_at_next_stage": true,
+      "page_errors": [],
+      "external_requests": []
+    },
+    "export": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_frames": "240",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0",
+          "nb_frames": "126"
+        }
+      ],
+      "format": {
+        "duration": "8.000000"
+      }
+    },
+    "not_tested": [
+      "TTS/API calls",
+      "Whisper/model downloads",
+      "external or command capture",
+      "all gallery primitives",
+      "Mac/Linux",
+      "clean-machine install"
+    ]
+  },
+  "documentation_revision": "2026-09-29-venv-paths"
+}

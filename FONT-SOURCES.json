@@ -1,0 +1,80 @@
+[
+  {
+    "path": "_runtime/fonts/silkscreen/Silkscreen-Regular.ttf",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/silkscreen/Silkscreen-Regular.ttf",
+    "upstream_git_blob": "8caff819d666217fe8240ede768ef86d086b453b",
+    "sha256": "c845473330b94c2079ce9af01c51ac8ba2d99c24f4d14c039843bbb8e642ebd8"
+  },
+  {
+    "path": "_runtime/fonts/silkscreen/Silkscreen-Bold.ttf",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/silkscreen/Silkscreen-Bold.ttf",
+    "upstream_git_blob": "6771252683388362e64aaea6e0d5d991e417c9fb",
+    "sha256": "768476aa712d4f5c3e18d3bce80f980a8bd3f72b7094d22ec5e768df3acfed61"
+  },
+  {
+    "path": "_runtime/fonts/silkscreen/OFL.txt",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/silkscreen/OFL.txt",
+    "upstream_git_blob": "3dd7cfb722960e05a39c20cc0f0c9a4f43f55848",
+    "sha256": "86c5e9c9382cdcc5948704fdfe60f2aa164a719746931219a42736ecd9cefbd3"
+  },
+  {
+    "path": "_runtime/fonts/pixelifysans/PixelifySans[wght].ttf",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/pixelifysans/PixelifySans%5Bwght%5D.ttf",
+    "upstream_git_blob": "2d7eb388ee499fbcf3e992723ec409c095640104",
+    "sha256": "9ba86cd010a4de309d263ceff8e8044092c9db7efda869620cb9ff1c4389e8a5"
+  },
+  {
+    "path": "_runtime/fonts/pixelifysans/OFL.txt",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/pixelifysans/OFL.txt",
+    "upstream_git_blob": "6aa5bfbae9e8654b83e5fff942b9540830403022",
+    "sha256": "b66ba46f511a851ab09998b5a5a9fdbb102545a3864cb993095e1745996873a7"
+  },
+  {
+    "path": "_runtime/fonts/vt323/VT323-Regular.ttf",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/vt323/VT323-Regular.ttf",
+    "upstream_git_blob": "afa69098f15bf64849d397f133d9467486904053",
+    "sha256": "cf4de751ada78ceac033dbe16a687742939995b77bc2a052ae17a4957958594d"
+  },
+  {
+    "path": "_runtime/fonts/vt323/OFL.txt",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/vt323/OFL.txt",
+    "upstream_git_blob": "bcb092f7e62f6e0455177e95e75cf8a6b822911f",
+    "sha256": "27d9af34210253e7ca1251fbace86c6f65b40031d6ce1a75493a1b2093631298"
+  },
+  {
+    "path": "_runtime/fonts/inter/Inter[opsz,wght].ttf",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/Inter%5Bopsz%2Cwght%5D.ttf",
+    "upstream_git_blob": "047c92f6e2212473dc436020afed689527076d44",
+    "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+  },
+  {
+    "path": "_runtime/fonts/inter/OFL.txt",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt",
+    "upstream_git_blob": "21f6aff961064c2e429f570995e446bcdd555422",
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "path": "_runtime/fonts/jetbrainsmono/JetBrainsMono[wght].ttf",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/jetbrainsmono/JetBrainsMono%5Bwght%5D.ttf",
+    "upstream_git_blob": "aa310be8b717fe3774f9444dd89d5f4101cc6d10",
+    "sha256": "48715a42ec242c21e9f02692891e147d022299a52e48d5e413e1a942193ffeda"
+  },
+  {
+    "path": "_runtime/fonts/jetbrainsmono/OFL.txt",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/jetbrainsmono/OFL.txt",
+    "upstream_git_blob": "821a3dac22aff15a1f1c9689a1d79c45bb58ca39",
+    "sha256": "b2fe5e8987594e9ffd1d2ca52a2f5d73eb8335243893c5d6254b5ad69269591d"
+  },
+  {
+    "path": "_runtime/fonts/caveat/Caveat[wght].ttf",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat%5Bwght%5D.ttf",
+    "upstream_git_blob": "f84acf2ce2d1b3329b194749530dbaec047e6df6",
+    "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+  },
+  {
+    "path": "_runtime/fonts/caveat/OFL.txt",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/OFL.txt",
+    "upstream_git_blob": "6e5220c9576d98dfc684e550ddf0d87f68b3edc5",
+    "sha256": "1f9d81d094273d82f3898a1ee8b598a717d050ecbf5ff7bede105b704880157b"
+  }
+]

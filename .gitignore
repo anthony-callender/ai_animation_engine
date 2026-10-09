@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+videos/*/01_voice/takes/
+videos/*/05_render/_segments/

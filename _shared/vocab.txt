@@ -1,0 +1,3 @@
+# Project-specific names, one per line.
+SVG
+JavaScript
