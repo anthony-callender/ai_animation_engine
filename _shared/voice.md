@@ -1,8 +1,8 @@
 ---
-voice_id: YOUR_PERMITTED_VOICE_ID
-model: YOUR_SUPPORTED_MODEL_ID
+voice_id: onwK4e9ZLuTAKqWW03F9
+model: eleven_v4
 stability: natural
-format: mp3_44100_192
+format: mp3_44100_128
 ---
 # Your voice setup
 

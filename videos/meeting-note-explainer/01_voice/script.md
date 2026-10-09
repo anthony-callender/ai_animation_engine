@@ -16,4 +16,4 @@ Each field comes straight from the note's own words.
 Nothing was added. No calendar date, and no extra work.
 ```
 
-Review: draft only. Not approved and no audio made yet.
+Review: script approved as written on 2026-10-09 (see REVIEW.md). No audio made yet.
