@@ -18,3 +18,12 @@ Record date, reviewer and decision for voice, transcript, storyboard, preview an
 
 ## Storyboard
 - 2026-10-09: draft in 03_cues/cues.md. It has not been compiled. Decision: pending.
+
+## Cues (compiled)
+- 2026-10-09: on the owner's instruction to build the scene, `anim.py cues` was run. All 19 phrases matched exactly; there were no fuzzy or missing matches.
+- check.due was given a +0.6 s offset in cues.md (24.30 to 24.90) to fit the measured audio. words.json is unchanged.
+- No explicit approval of the transcript or storyboard was recorded in chat. They were treated as reviewed because the owner asked for the scene to be built.
+
+## Scene / preview
+- 2026-10-09: 04_scene/scene.js built. Stills are in 05_render/stills and sheets. The preview is served by `anim.py studio`. Decision: pending. Nobody has watched the preview with the voice yet.
+- 2026-10-09: the owner said "lets export it". This is recorded as the go-ahead to export. The chat did not say whether the preview was watched with sound.
