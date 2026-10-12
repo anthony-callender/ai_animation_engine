@@ -1,5 +1,5 @@
 ---
-voice_id: onwK4e9ZLuTAKqWW03F9
+voice_id: cjVigY5qzO86Huf0OWal
 model: eleven_v4
 stability: natural
 format: mp3_44100_128
