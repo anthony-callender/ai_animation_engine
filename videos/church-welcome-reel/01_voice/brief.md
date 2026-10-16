@@ -1,0 +1,13 @@
+# Brief: Reel A, "Church Digital Welcome System"
+- Format: Instagram reel, 9:16, 1080x1920, about 90 s. Inspired by the "Comment BUILD" reel: a dark agent-node canvas with a pan from node to node, a fixed headline, step pills with day and time, word-by-word captions, and a comment CTA.
+- Offer (Tony's playbook): the Church Digital Welcome System. It turns the church website into a 24/7 digital front door that helps first-time guests know what to expect, answers common questions, gives them a clear next step, and keeps sermon content working during the week, without adding busywork for staff.
+- Audience: pastors and church leaders (and the agencies that serve them).
+- Story: one first-time family, followed from a 9 PM website visit to their next step, then the flywheel that brings the next family.
+- Built today (from the allsaints repo): a WordPress site, an AI website assistant grounded in approved Church Knowledge (OpenAI), and the Sermon Flywheel (YouTube → transcript → notes → WordPress draft, with human review).
+- Shown as built but planned (Tony, 2026-10-14): Plan-a-Visit booking, welcome and reminder texts, greeter heads-up and people-database intake, follow-up, the FAQ/strategy agent, the GEO check and the social agent. Stack inferred from Tony: FastAPI + Pydantic + OpenAI/Anthropic APIs.
+- PUBLISH GATE: do not post until every agent shown is built and live, and any result claimed (for example "in the answer") has really happened for a client church. Tony plans to publish only after that.
+- Church: anonymous. A fictional family and church, labelled as an illustration. No real names or logos.
+- CTA: "Comment BUILD." The reward is the "Get your church found" checklist PDF (to be made from _shared/research/geo-for-churches.md).
+- GEO wording is limited to _shared/research/geo-for-churches.md: no promise of always appearing in ChatGPT.
+- Voice: Eric (ElevenLabs). Posting needs a commercial plan (Starter or higher).
+- Review decision: pending.

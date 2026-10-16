@@ -1,0 +1,1187 @@
+{
+ "voice": "voice.mp3",
+ "duration": 92.839,
+ "model": "small",
+ "words": [
+  {
+   "text": "Ask",
+   "start": 0.0,
+   "end": 0.34
+  },
+  {
+   "text": "ChatGPT",
+   "start": 0.34,
+   "end": 1.32
+  },
+  {
+   "text": "for",
+   "start": 1.32,
+   "end": 1.62
+  },
+  {
+   "text": "a",
+   "start": 1.62,
+   "end": 1.84
+  },
+  {
+   "text": "church",
+   "start": 1.84,
+   "end": 2.04
+  },
+  {
+   "text": "near",
+   "start": 2.04,
+   "end": 2.28
+  },
+  {
+   "text": "you",
+   "start": 2.28,
+   "end": 2.6
+  },
+  {
+   "text": "with",
+   "start": 2.6,
+   "end": 2.84
+  },
+  {
+   "text": "a",
+   "start": 2.84,
+   "end": 3.02
+  },
+  {
+   "text": "great",
+   "start": 3.02,
+   "end": 3.28
+  },
+  {
+   "text": "kids",
+   "start": 3.28,
+   "end": 3.58
+  },
+  {
+   "text": "ministry.",
+   "start": 3.58,
+   "end": 4.0
+  },
+  {
+   "text": "Is",
+   "start": 4.6,
+   "end": 4.8
+  },
+  {
+   "text": "your",
+   "start": 4.8,
+   "end": 4.94
+  },
+  {
+   "text": "church",
+   "start": 4.94,
+   "end": 5.24
+  },
+  {
+   "text": "in",
+   "start": 5.24,
+   "end": 5.36
+  },
+  {
+   "text": "the",
+   "start": 5.36,
+   "end": 5.48
+  },
+  {
+   "text": "answer?",
+   "start": 5.48,
+   "end": 5.68
+  },
+  {
+   "text": "Everyone's",
+   "start": 6.62,
+   "end": 7.24
+  },
+  {
+   "text": "selling",
+   "start": 7.24,
+   "end": 7.46
+  },
+  {
+   "text": "GEO,",
+   "start": 7.46,
+   "end": 8.4
+  },
+  {
+   "text": "generative",
+   "start": 8.8,
+   "end": 9.3
+  },
+  {
+   "text": "engine",
+   "start": 9.3,
+   "end": 9.66
+  },
+  {
+   "text": "optimization,",
+   "start": 9.66,
+   "end": 10.5
+  },
+  {
+   "text": "like",
+   "start": 10.76,
+   "end": 10.92
+  },
+  {
+   "text": "it's",
+   "start": 10.92,
+   "end": 11.1
+  },
+  {
+   "text": "a",
+   "start": 11.1,
+   "end": 11.2
+  },
+  {
+   "text": "secret",
+   "start": 11.2,
+   "end": 11.48
+  },
+  {
+   "text": "trick.",
+   "start": 11.48,
+   "end": 11.86
+  },
+  {
+   "text": "It",
+   "start": 12.48,
+   "end": 12.6
+  },
+  {
+   "text": "isn't.",
+   "start": 12.6,
+   "end": 12.98
+  },
+  {
+   "text": "Google",
+   "start": 13.44,
+   "end": 13.74
+  },
+  {
+   "text": "literally",
+   "start": 13.74,
+   "end": 14.24
+  },
+  {
+   "text": "says",
+   "start": 14.24,
+   "end": 14.76
+  },
+  {
+   "text": "it's",
+   "start": 14.76,
+   "end": 15.2
+  },
+  {
+   "text": "still",
+   "start": 15.2,
+   "end": 15.44
+  },
+  {
+   "text": "SEO.",
+   "start": 15.44,
+   "end": 15.94
+  },
+  {
+   "text": "Here's",
+   "start": 16.7,
+   "end": 17.06
+  },
+  {
+   "text": "what",
+   "start": 17.06,
+   "end": 17.18
+  },
+  {
+   "text": "actually",
+   "start": 17.18,
+   "end": 17.64
+  },
+  {
+   "text": "works.",
+   "start": 17.64,
+   "end": 18.04
+  },
+  {
+   "text": "Step",
+   "start": 18.74,
+   "end": 18.94
+  },
+  {
+   "text": "one.",
+   "start": 18.94,
+   "end": 19.32
+  },
+  {
+   "text": "Make",
+   "start": 19.86,
+   "end": 20.02
+  },
+  {
+   "text": "sure",
+   "start": 20.02,
+   "end": 20.34
+  },
+  {
+   "text": "AI",
+   "start": 20.34,
+   "end": 20.7
+  },
+  {
+   "text": "can",
+   "start": 20.7,
+   "end": 21.02
+  },
+  {
+   "text": "find",
+   "start": 21.02,
+   "end": 21.34
+  },
+  {
+   "text": "you.",
+   "start": 21.34,
+   "end": 21.6
+  },
+  {
+   "text": "Your",
+   "start": 22.1,
+   "end": 22.24
+  },
+  {
+   "text": "site",
+   "start": 22.24,
+   "end": 22.5
+  },
+  {
+   "text": "has",
+   "start": 22.5,
+   "end": 22.88
+  },
+  {
+   "text": "to",
+   "start": 22.88,
+   "end": 23.08
+  },
+  {
+   "text": "be",
+   "start": 23.08,
+   "end": 23.26
+  },
+  {
+   "text": "in",
+   "start": 23.26,
+   "end": 23.36
+  },
+  {
+   "text": "Google,",
+   "start": 23.36,
+   "end": 23.62
+  },
+  {
+   "text": "and",
+   "start": 23.62,
+   "end": 24.02
+  },
+  {
+   "text": "it",
+   "start": 24.02,
+   "end": 24.16
+  },
+  {
+   "text": "can't",
+   "start": 24.16,
+   "end": 24.5
+  },
+  {
+   "text": "block",
+   "start": 24.5,
+   "end": 24.7
+  },
+  {
+   "text": "OpenAI's",
+   "start": 24.7,
+   "end": 25.5
+  },
+  {
+   "text": "search",
+   "start": 25.5,
+   "end": 25.72
+  },
+  {
+   "text": "crawler,",
+   "start": 25.72,
+   "end": 26.16
+  },
+  {
+   "text": "or",
+   "start": 26.16,
+   "end": 26.46
+  },
+  {
+   "text": "ChatGPT",
+   "start": 26.46,
+   "end": 27.3
+  },
+  {
+   "text": "search",
+   "start": 27.3,
+   "end": 27.6
+  },
+  {
+   "text": "won't",
+   "start": 27.6,
+   "end": 27.94
+  },
+  {
+   "text": "show",
+   "start": 27.94,
+   "end": 28.16
+  },
+  {
+   "text": "it.",
+   "start": 28.16,
+   "end": 28.32
+  },
+  {
+   "text": "Step",
+   "start": 28.32,
+   "end": 29.14
+  },
+  {
+   "text": "two.",
+   "start": 29.14,
+   "end": 29.5
+  },
+  {
+   "text": "Fill",
+   "start": 29.92,
+   "end": 30.22
+  },
+  {
+   "text": "out",
+   "start": 30.22,
+   "end": 30.38
+  },
+  {
+   "text": "your",
+   "start": 30.38,
+   "end": 30.54
+  },
+  {
+   "text": "Google",
+   "start": 30.54,
+   "end": 30.8
+  },
+  {
+   "text": "Business",
+   "start": 30.8,
+   "end": 31.18
+  },
+  {
+   "text": "Profile,",
+   "start": 31.18,
+   "end": 31.72
+  },
+  {
+   "text": "with",
+   "start": 31.72,
+   "end": 32.14
+  },
+  {
+   "text": "service",
+   "start": 32.14,
+   "end": 32.42
+  },
+  {
+   "text": "times,",
+   "start": 32.42,
+   "end": 32.78
+  },
+  {
+   "text": "photos",
+   "start": 33.14,
+   "end": 33.36
+  },
+  {
+   "text": "and",
+   "start": 33.7,
+   "end": 33.92
+  },
+  {
+   "text": "your",
+   "start": 33.92,
+   "end": 34.06
+  },
+  {
+   "text": "website.",
+   "start": 34.06,
+   "end": 34.44
+  },
+  {
+   "text": "Google",
+   "start": 34.94,
+   "end": 35.18
+  },
+  {
+   "text": "says",
+   "start": 35.18,
+   "end": 35.48
+  },
+  {
+   "text": "it",
+   "start": 35.48,
+   "end": 35.68
+  },
+  {
+   "text": "helps",
+   "start": 35.68,
+   "end": 35.88
+  },
+  {
+   "text": "you",
+   "start": 35.88,
+   "end": 36.06
+  },
+  {
+   "text": "show",
+   "start": 36.06,
+   "end": 36.28
+  },
+  {
+   "text": "up",
+   "start": 36.28,
+   "end": 36.54
+  },
+  {
+   "text": "in",
+   "start": 36.54,
+   "end": 36.64
+  },
+  {
+   "text": "AI",
+   "start": 36.64,
+   "end": 36.92
+  },
+  {
+   "text": "answers.",
+   "start": 36.92,
+   "end": 37.4
+  },
+  {
+   "text": "And",
+   "start": 37.92,
+   "end": 38.22
+  },
+  {
+   "text": "keep",
+   "start": 38.22,
+   "end": 38.52
+  },
+  {
+   "text": "your",
+   "start": 38.52,
+   "end": 38.74
+  },
+  {
+   "text": "listings",
+   "start": 38.74,
+   "end": 39.02
+  },
+  {
+   "text": "matching",
+   "start": 39.02,
+   "end": 39.48
+  },
+  {
+   "text": "everywhere.",
+   "start": 39.48,
+   "end": 40.12
+  },
+  {
+   "text": "Step",
+   "start": 40.86,
+   "end": 41.1
+  },
+  {
+   "text": "three.",
+   "start": 41.1,
+   "end": 41.46
+  },
+  {
+   "text": "Answer",
+   "start": 42.2,
+   "end": 42.46
+  },
+  {
+   "text": "the",
+   "start": 42.46,
+   "end": 42.64
+  },
+  {
+   "text": "questions",
+   "start": 42.64,
+   "end": 42.98
+  },
+  {
+   "text": "families",
+   "start": 42.98,
+   "end": 43.52
+  },
+  {
+   "text": "actually",
+   "start": 43.52,
+   "end": 44.18
+  },
+  {
+   "text": "ask,",
+   "start": 44.18,
+   "end": 44.62
+  },
+  {
+   "text": "in",
+   "start": 44.92,
+   "end": 45.1
+  },
+  {
+   "text": "plain",
+   "start": 45.1,
+   "end": 45.36
+  },
+  {
+   "text": "words.",
+   "start": 45.36,
+   "end": 45.84
+  },
+  {
+   "text": "What",
+   "start": 46.52,
+   "end": 46.66
+  },
+  {
+   "text": "time",
+   "start": 46.66,
+   "end": 46.86
+  },
+  {
+   "text": "is",
+   "start": 46.86,
+   "end": 47.0
+  },
+  {
+   "text": "service?",
+   "start": 47.0,
+   "end": 47.28
+  },
+  {
+   "text": "What",
+   "start": 47.92,
+   "end": 48.1
+  },
+  {
+   "text": "about",
+   "start": 48.1,
+   "end": 48.26
+  },
+  {
+   "text": "my",
+   "start": 48.26,
+   "end": 48.44
+  },
+  {
+   "text": "kids?",
+   "start": 48.44,
+   "end": 48.72
+  },
+  {
+   "text": "Where",
+   "start": 49.3,
+   "end": 49.5
+  },
+  {
+   "text": "do",
+   "start": 49.5,
+   "end": 49.6
+  },
+  {
+   "text": "I",
+   "start": 49.6,
+   "end": 49.72
+  },
+  {
+   "text": "park?",
+   "start": 49.72,
+   "end": 50.02
+  },
+  {
+   "text": "What",
+   "start": 50.58,
+   "end": 50.76
+  },
+  {
+   "text": "should",
+   "start": 50.76,
+   "end": 50.9
+  },
+  {
+   "text": "I",
+   "start": 50.9,
+   "end": 51.04
+  },
+  {
+   "text": "wear?",
+   "start": 51.04,
+   "end": 51.34
+  },
+  {
+   "text": "Step",
+   "start": 52.1,
+   "end": 52.42
+  },
+  {
+   "text": "four.",
+   "start": 52.42,
+   "end": 52.8
+  },
+  {
+   "text": "Post",
+   "start": 53.44,
+   "end": 53.7
+  },
+  {
+   "text": "what",
+   "start": 53.7,
+   "end": 53.96
+  },
+  {
+   "text": "only",
+   "start": 53.96,
+   "end": 54.38
+  },
+  {
+   "text": "your",
+   "start": 54.38,
+   "end": 54.68
+  },
+  {
+   "text": "church",
+   "start": 54.68,
+   "end": 54.96
+  },
+  {
+   "text": "has.",
+   "start": 54.96,
+   "end": 55.34
+  },
+  {
+   "text": "Your",
+   "start": 55.34,
+   "end": 55.94
+  },
+  {
+   "text": "sermons,",
+   "start": 55.94,
+   "end": 56.46
+  },
+  {
+   "text": "your",
+   "start": 56.78,
+   "end": 56.86
+  },
+  {
+   "text": "stories,",
+   "start": 56.86,
+   "end": 57.34
+  },
+  {
+   "text": "your",
+   "start": 57.74,
+   "end": 57.84
+  },
+  {
+   "text": "events.",
+   "start": 57.84,
+   "end": 58.18
+  },
+  {
+   "text": "Google",
+   "start": 58.82,
+   "end": 59.14
+  },
+  {
+   "text": "says",
+   "start": 59.14,
+   "end": 59.48
+  },
+  {
+   "text": "don't",
+   "start": 59.88,
+   "end": 59.98
+  },
+  {
+   "text": "just",
+   "start": 59.98,
+   "end": 60.16
+  },
+  {
+   "text": "recycle",
+   "start": 60.16,
+   "end": 60.66
+  },
+  {
+   "text": "what",
+   "start": 60.66,
+   "end": 60.9
+  },
+  {
+   "text": "everyone",
+   "start": 60.9,
+   "end": 61.24
+  },
+  {
+   "text": "else",
+   "start": 61.24,
+   "end": 61.46
+  },
+  {
+   "text": "says.",
+   "start": 61.46,
+   "end": 61.86
+  },
+  {
+   "text": "Step",
+   "start": 62.5,
+   "end": 62.74
+  },
+  {
+   "text": "five.",
+   "start": 62.74,
+   "end": 63.2
+  },
+  {
+   "text": "Earn",
+   "start": 63.66,
+   "end": 63.92
+  },
+  {
+   "text": "real",
+   "start": 63.92,
+   "end": 64.3
+  },
+  {
+   "text": "reviews",
+   "start": 64.3,
+   "end": 64.84
+  },
+  {
+   "text": "and",
+   "start": 64.84,
+   "end": 65.12
+  },
+  {
+   "text": "real",
+   "start": 65.12,
+   "end": 65.48
+  },
+  {
+   "text": "mentions,",
+   "start": 65.48,
+   "end": 65.9
+  },
+  {
+   "text": "like",
+   "start": 66.26,
+   "end": 66.48
+  },
+  {
+   "text": "local",
+   "start": 66.48,
+   "end": 66.76
+  },
+  {
+   "text": "news",
+   "start": 66.76,
+   "end": 67.14
+  },
+  {
+   "text": "and",
+   "start": 67.14,
+   "end": 67.36
+  },
+  {
+   "text": "community",
+   "start": 67.36,
+   "end": 67.74
+  },
+  {
+   "text": "events.",
+   "start": 67.74,
+   "end": 68.18
+  },
+  {
+   "text": "Never",
+   "start": 68.7,
+   "end": 69.02
+  },
+  {
+   "text": "fake",
+   "start": 69.02,
+   "end": 69.4
+  },
+  {
+   "text": "them.",
+   "start": 69.4,
+   "end": 69.6
+  },
+  {
+   "text": "Google",
+   "start": 70.06,
+   "end": 70.28
+  },
+  {
+   "text": "says",
+   "start": 70.28,
+   "end": 70.56
+  },
+  {
+   "text": "fake",
+   "start": 70.56,
+   "end": 70.94
+  },
+  {
+   "text": "mentions",
+   "start": 70.94,
+   "end": 71.38
+  },
+  {
+   "text": "don't",
+   "start": 71.38,
+   "end": 71.86
+  },
+  {
+   "text": "help.",
+   "start": 71.86,
+   "end": 72.16
+  },
+  {
+   "text": "And",
+   "start": 72.66,
+   "end": 72.92
+  },
+  {
+   "text": "skip",
+   "start": 72.92,
+   "end": 73.32
+  },
+  {
+   "text": "the",
+   "start": 73.32,
+   "end": 73.56
+  },
+  {
+   "text": "hype.",
+   "start": 73.56,
+   "end": 73.76
+  },
+  {
+   "text": "You",
+   "start": 74.2,
+   "end": 74.34
+  },
+  {
+   "text": "don't",
+   "start": 74.34,
+   "end": 74.66
+  },
+  {
+   "text": "need",
+   "start": 74.66,
+   "end": 74.86
+  },
+  {
+   "text": "a",
+   "start": 74.86,
+   "end": 74.98
+  },
+  {
+   "text": "special",
+   "start": 74.98,
+   "end": 75.22
+  },
+  {
+   "text": "AI",
+   "start": 75.22,
+   "end": 75.54
+  },
+  {
+   "text": "file",
+   "start": 75.54,
+   "end": 75.98
+  },
+  {
+   "text": "for",
+   "start": 75.98,
+   "end": 76.18
+  },
+  {
+   "text": "Google,",
+   "start": 76.18,
+   "end": 76.46
+  },
+  {
+   "text": "and",
+   "start": 76.68,
+   "end": 76.9
+  },
+  {
+   "text": "nobody",
+   "start": 76.9,
+   "end": 77.3
+  },
+  {
+   "text": "can",
+   "start": 77.3,
+   "end": 77.52
+  },
+  {
+   "text": "guarantee",
+   "start": 77.52,
+   "end": 77.9
+  },
+  {
+   "text": "you'll",
+   "start": 77.9,
+   "end": 78.26
+  },
+  {
+   "text": "show",
+   "start": 78.26,
+   "end": 78.42
+  },
+  {
+   "text": "up",
+   "start": 78.42,
+   "end": 78.62
+  },
+  {
+   "text": "in",
+   "start": 78.62,
+   "end": 78.72
+  },
+  {
+   "text": "ChatGPT.",
+   "start": 78.72,
+   "end": 79.54
+  },
+  {
+   "text": "Then",
+   "start": 80.12,
+   "end": 80.42
+  },
+  {
+   "text": "test",
+   "start": 80.72,
+   "end": 80.94
+  },
+  {
+   "text": "it.",
+   "start": 80.94,
+   "end": 81.16
+  },
+  {
+   "text": "Ask",
+   "start": 81.16,
+   "end": 81.76
+  },
+  {
+   "text": "ChatGPT",
+   "start": 81.76,
+   "end": 82.64
+  },
+  {
+   "text": "and",
+   "start": 82.64,
+   "end": 82.96
+  },
+  {
+   "text": "Google",
+   "start": 82.96,
+   "end": 83.24
+  },
+  {
+   "text": "the",
+   "start": 83.24,
+   "end": 83.44
+  },
+  {
+   "text": "questions",
+   "start": 83.44,
+   "end": 83.82
+  },
+  {
+   "text": "a",
+   "start": 83.82,
+   "end": 84.1
+  },
+  {
+   "text": "new",
+   "start": 84.1,
+   "end": 84.34
+  },
+  {
+   "text": "family",
+   "start": 84.34,
+   "end": 84.66
+  },
+  {
+   "text": "would",
+   "start": 84.66,
+   "end": 84.88
+  },
+  {
+   "text": "ask,",
+   "start": 84.88,
+   "end": 85.18
+  },
+  {
+   "text": "and",
+   "start": 85.46,
+   "end": 85.54
+  },
+  {
+   "text": "see",
+   "start": 85.54,
+   "end": 85.72
+  },
+  {
+   "text": "if",
+   "start": 85.72,
+   "end": 85.84
+  },
+  {
+   "text": "your",
+   "start": 85.84,
+   "end": 85.96
+  },
+  {
+   "text": "church",
+   "start": 85.96,
+   "end": 86.18
+  },
+  {
+   "text": "shows",
+   "start": 86.18,
+   "end": 86.42
+  },
+  {
+   "text": "up.",
+   "start": 86.42,
+   "end": 86.7
+  },
+  {
+   "text": "I",
+   "start": 87.18,
+   "end": 87.3
+  },
+  {
+   "text": "made",
+   "start": 87.3,
+   "end": 87.44
+  },
+  {
+   "text": "a",
+   "start": 87.44,
+   "end": 87.56
+  },
+  {
+   "text": "checklist",
+   "start": 87.56,
+   "end": 87.88
+  },
+  {
+   "text": "that",
+   "start": 87.88,
+   "end": 88.2
+  },
+  {
+   "text": "walks",
+   "start": 88.2,
+   "end": 88.42
+  },
+  {
+   "text": "your",
+   "start": 88.42,
+   "end": 88.62
+  },
+  {
+   "text": "church",
+   "start": 88.62,
+   "end": 88.94
+  },
+  {
+   "text": "through",
+   "start": 88.94,
+   "end": 89.14
+  },
+  {
+   "text": "all",
+   "start": 89.14,
+   "end": 89.48
+  },
+  {
+   "text": "five",
+   "start": 89.48,
+   "end": 89.76
+  },
+  {
+   "text": "steps.",
+   "start": 89.76,
+   "end": 90.16
+  },
+  {
+   "text": "Comment",
+   "start": 90.56,
+   "end": 90.86
+  },
+  {
+   "text": "FOUND",
+   "start": 91.1,
+   "end": 91.26
+  },
+  {
+   "text": "and",
+   "start": 91.58,
+   "end": 91.64
+  },
+  {
+   "text": "I'll",
+   "start": 91.64,
+   "end": 91.74
+  },
+  {
+   "text": "send",
+   "start": 91.74,
+   "end": 91.94
+  },
+  {
+   "text": "it",
+   "start": 91.94,
+   "end": 92.02
+  },
+  {
+   "text": "to",
+   "start": 92.02,
+   "end": 92.18
+  },
+  {
+   "text": "you.",
+   "start": 92.18,
+   "end": 92.32
+  }
+ ]
+}

@@ -33,3 +33,8 @@ Record date, reviewer and decision for voice, transcript, storyboard, preview an
   - Preview decision: pending.
 - 2026-10-12, update: Tony asked to add the text report with its numbers blurred. C4 (04_scene/assets/c4-report.png) stacks three report sections (overview and status table, monthly completions, "How These Numbers Are Defined"). Every figure is gaussian-blurred, and the diocese tables and named notes are excluded. It scrolls in a window from "The answer comes back" to "the code it read", labelled REAL REPORT / NUMBERS BLURRED. Charts: only the status chart is used, because the others have overlapping axis labels (the diocese charts) or would need more blurring. Preview decision: pending.
 - 2026-10-12, reviewer: Tony. Decision: the preview is approved ("Perfect!"). Export is deferred. Still open before publishing: replace the scratch voice, get permission to show the client's system, decide whether the blurred real data is acceptable, and the Upwork URL.
+
+## Export (PRELIMINARY)
+- 2026-10-12, at Tony's request: rendered 05_render/code-grounded-analytics-agent.mp4 with `render --workers 1` and ANIM_OFFLINE=1. 1920x1080, 30 fps, H.264 + AAC mono. FFmpeg decoded it with no errors, and the capture frames were spot-checked.
+- PRELIMINARY, not for publishing: it uses the free-plan scratch voice and the client-permission gate is open. Thumbnail and description not made yet. Decision on the export: pending. Nobody has watched it with sound yet.
+- 2026-10-12: thumbnails made at Tony's request. 05_render/upwork-thumbnail-4x3.png (1440x1080, for Upwork) and 05_render/thumbnail-1.png (1280x720), from 04_scene/thumbnail.js. Decision: pending.

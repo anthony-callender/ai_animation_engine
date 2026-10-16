@@ -38,3 +38,8 @@ Record date, reviewer and decision for voice, transcript, storyboard, preview an
 - The storyboard was rewritten (24 cues, all exact matches). The canvas is labelled "ILLUSTRATED RUN / NOT A RECORDING" and "Simplified: step order is illustrative". The rerun lights only the source-supported steps (start, then duplicate check skipped, then no new post).
 - Decision on the script wording, storyboard and preview: pending.
 - 2026-10-12, reviewer: Tony. Decision: the preview is approved ("perfect"), including the new engineer design (medium-brown skin, afro, sand sweater). Export is deferred by Tony's choice. Still open before publishing: replace the scratch voice, get permission to show the client site (C1), and the Upwork URL.
+
+## Export (PRELIMINARY)
+- 2026-10-12, at Tony's request: rendered 05_render/sermon-publishing-workflow.mp4 with `render --workers 1` and ANIM_OFFLINE=1. 1920x1080, 30 fps, H.264 + AAC mono. FFmpeg decoded it with no errors, and the capture frames were spot-checked.
+- PRELIMINARY, not for publishing: it uses the free-plan scratch voice and the client-permission gate is open. Thumbnail and description not made yet. Decision on the export: pending. Nobody has watched it with sound yet.
+- 2026-10-12: thumbnails made at Tony's request. 05_render/upwork-thumbnail-4x3.png (1440x1080, for Upwork) and 05_render/thumbnail-1.png (1280x720), from 04_scene/thumbnail.js. Decision: pending.
