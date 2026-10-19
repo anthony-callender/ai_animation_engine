@@ -1,0 +1,7 @@
+[
+ {"slug": "sermon-flywheel-reel", "t": 42.9, "art": [240, 700, 840, 1310],
+  "lines": [["MY AI TURNS", "white"], ["SUNDAY'S SERMON", "coral"], ["INTO A WEBSITE POST", "white"]]},
+ {"slug": "church-assistant-reel", "t": 30.4, "art": [222, 712, 858, 1258],
+  "lines": [["MY AI CHURCH", "white"], ["ASSISTANT", "coral"], ["ANSWERS AT 9 PM", "white"]]},
+ {"slug": "church-geo-reel", "t": 16.8, "title_t": 0.8, "paper": true}
+]
