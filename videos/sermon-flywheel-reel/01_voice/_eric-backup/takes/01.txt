@@ -1,0 +1,5 @@
+Every Sunday, a church records its service. Then someone has to turn the sermon into a website post by hand. Here's how my AI does it.
+
+My sermon worker spots the new service video and pulls the transcript.
+
+Then it finds where the sermon starts and ends inside the full service, using the liturgy as markers.

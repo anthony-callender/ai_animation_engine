@@ -1,0 +1,3 @@
+My social agent turns the sermon into posts for Instagram and Facebook.
+
+Then my strategy agent reads what visitors asked the assistant, finds questions the website never answers, and drafts an FAQ for each one. My GEO agent checks them against Google and ChatGPT guidelines before they go live.

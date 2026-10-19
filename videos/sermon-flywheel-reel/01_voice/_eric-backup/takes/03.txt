@@ -1,0 +1,5 @@
+Then it creates a draft post in WordPress, with the audio, the notes and the readings. If it runs twice, duplicate checks stop a second post.
+
+An editor reviews the draft and hits publish. Nothing goes live without a person.
+
+Thirteen manual steps became one review. If you run a church or a church agency, comment BUILD and I'll send you a free teardown of your church website.

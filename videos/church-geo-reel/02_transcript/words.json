@@ -1,1187 +1,1187 @@
 {
  "voice": "voice.mp3",
- "duration": 92.839,
+ "duration": 85.708,
  "model": "small",
  "words": [
   {
    "text": "Ask",
    "start": 0.0,
-   "end": 0.34
+   "end": 0.3
   },
   {
    "text": "ChatGPT",
-   "start": 0.34,
-   "end": 1.32
+   "start": 0.3,
+   "end": 1.1
   },
   {
    "text": "for",
-   "start": 1.32,
+   "start": 1.1,
+   "end": 1.38
+  },
+  {
+   "text": "a",
+   "start": 1.38,
    "end": 1.62
   },
   {
-   "text": "a",
-   "start": 1.62,
-   "end": 1.84
-  },
-  {
    "text": "church",
-   "start": 1.84,
-   "end": 2.04
+   "start": 1.62,
+   "end": 1.8
   },
   {
    "text": "near",
-   "start": 2.04,
-   "end": 2.28
+   "start": 1.8,
+   "end": 2.02
   },
   {
    "text": "you",
-   "start": 2.28,
+   "start": 2.02,
+   "end": 2.34
+  },
+  {
+   "text": "with",
+   "start": 2.34,
    "end": 2.6
   },
   {
-   "text": "with",
-   "start": 2.6,
-   "end": 2.84
-  },
-  {
    "text": "a",
-   "start": 2.84,
-   "end": 3.02
+   "start": 2.6,
+   "end": 2.76
   },
   {
    "text": "great",
-   "start": 3.02,
-   "end": 3.28
+   "start": 2.76,
+   "end": 3.0
   },
   {
    "text": "kids",
-   "start": 3.28,
-   "end": 3.58
+   "start": 3.0,
+   "end": 3.28
   },
   {
    "text": "ministry.",
-   "start": 3.58,
-   "end": 4.0
+   "start": 3.28,
+   "end": 3.7
   },
   {
    "text": "Is",
-   "start": 4.6,
+   "start": 4.18,
+   "end": 4.36
+  },
+  {
+   "text": "your",
+   "start": 4.36,
+   "end": 4.54
+  },
+  {
+   "text": "church",
+   "start": 4.54,
    "end": 4.8
   },
   {
-   "text": "your",
-   "start": 4.8,
-   "end": 4.94
-  },
-  {
-   "text": "church",
-   "start": 4.94,
-   "end": 5.24
-  },
-  {
    "text": "in",
-   "start": 5.24,
-   "end": 5.36
+   "start": 4.8,
+   "end": 4.9
   },
   {
    "text": "the",
-   "start": 5.36,
-   "end": 5.48
+   "start": 4.9,
+   "end": 5.0
   },
   {
    "text": "answer?",
-   "start": 5.48,
-   "end": 5.68
+   "start": 5.0,
+   "end": 5.22
   },
   {
    "text": "Everyone's",
-   "start": 6.62,
-   "end": 7.24
+   "start": 5.98,
+   "end": 6.54
   },
   {
    "text": "selling",
-   "start": 7.24,
-   "end": 7.46
+   "start": 6.54,
+   "end": 6.74
   },
   {
    "text": "GEO,",
-   "start": 7.46,
-   "end": 8.4
+   "start": 6.74,
+   "end": 7.58
   },
   {
    "text": "generative",
-   "start": 8.8,
-   "end": 9.3
+   "start": 7.86,
+   "end": 8.4
   },
   {
    "text": "engine",
-   "start": 9.3,
-   "end": 9.66
+   "start": 8.4,
+   "end": 8.74
   },
   {
    "text": "optimization,",
-   "start": 9.66,
-   "end": 10.5
+   "start": 8.74,
+   "end": 9.48
   },
   {
    "text": "like",
-   "start": 10.76,
-   "end": 10.92
+   "start": 9.78,
+   "end": 9.9
   },
   {
    "text": "it's",
-   "start": 10.92,
-   "end": 11.1
+   "start": 9.9,
+   "end": 10.08
   },
   {
    "text": "a",
-   "start": 11.1,
-   "end": 11.2
+   "start": 10.08,
+   "end": 10.14
   },
   {
    "text": "secret",
-   "start": 11.2,
-   "end": 11.48
+   "start": 10.14,
+   "end": 10.46
   },
   {
    "text": "trick.",
-   "start": 11.48,
-   "end": 11.86
+   "start": 10.46,
+   "end": 10.8
   },
   {
    "text": "It",
-   "start": 12.48,
-   "end": 12.6
+   "start": 11.34,
+   "end": 11.42
   },
   {
    "text": "isn't.",
-   "start": 12.6,
-   "end": 12.98
+   "start": 11.42,
+   "end": 11.9
   },
   {
    "text": "Google",
-   "start": 13.44,
-   "end": 13.74
+   "start": 12.3,
+   "end": 12.52
   },
   {
    "text": "literally",
-   "start": 13.74,
-   "end": 14.24
+   "start": 12.52,
+   "end": 13.0
   },
   {
    "text": "says",
-   "start": 14.24,
-   "end": 14.76
+   "start": 13.0,
+   "end": 13.48
   },
   {
    "text": "it's",
-   "start": 14.76,
-   "end": 15.2
+   "start": 13.48,
+   "end": 13.86
   },
   {
    "text": "still",
-   "start": 15.2,
-   "end": 15.44
+   "start": 13.86,
+   "end": 14.14
   },
   {
    "text": "SEO.",
-   "start": 15.44,
-   "end": 15.94
+   "start": 14.14,
+   "end": 14.64
   },
   {
    "text": "Here's",
-   "start": 16.7,
-   "end": 17.06
+   "start": 15.28,
+   "end": 15.56
   },
   {
    "text": "what",
-   "start": 17.06,
-   "end": 17.18
+   "start": 15.56,
+   "end": 15.66
   },
   {
    "text": "actually",
-   "start": 17.18,
-   "end": 17.64
+   "start": 15.66,
+   "end": 16.1
   },
   {
    "text": "works.",
-   "start": 17.64,
-   "end": 18.04
+   "start": 16.1,
+   "end": 16.46
   },
   {
    "text": "Step",
-   "start": 18.74,
-   "end": 18.94
+   "start": 17.14,
+   "end": 17.32
   },
   {
    "text": "one.",
-   "start": 18.94,
-   "end": 19.32
+   "start": 17.32,
+   "end": 17.68
   },
   {
    "text": "Make",
-   "start": 19.86,
-   "end": 20.02
+   "start": 18.22,
+   "end": 18.42
   },
   {
    "text": "sure",
-   "start": 20.02,
-   "end": 20.34
+   "start": 18.42,
+   "end": 18.68
   },
   {
    "text": "AI",
-   "start": 20.34,
-   "end": 20.7
+   "start": 18.68,
+   "end": 18.94
   },
   {
    "text": "can",
-   "start": 20.7,
-   "end": 21.02
+   "start": 18.94,
+   "end": 19.18
   },
   {
    "text": "find",
-   "start": 21.02,
-   "end": 21.34
+   "start": 19.18,
+   "end": 19.52
   },
   {
    "text": "you.",
-   "start": 21.34,
-   "end": 21.6
+   "start": 19.52,
+   "end": 19.8
   },
   {
    "text": "Your",
-   "start": 22.1,
-   "end": 22.24
+   "start": 20.28,
+   "end": 20.4
   },
   {
    "text": "site",
-   "start": 22.24,
-   "end": 22.5
+   "start": 20.4,
+   "end": 20.62
   },
   {
    "text": "has",
-   "start": 22.5,
-   "end": 22.88
+   "start": 20.62,
+   "end": 20.96
   },
   {
    "text": "to",
-   "start": 22.88,
-   "end": 23.08
+   "start": 20.96,
+   "end": 21.16
   },
   {
    "text": "be",
-   "start": 23.08,
-   "end": 23.26
+   "start": 21.16,
+   "end": 21.32
   },
   {
    "text": "in",
-   "start": 23.26,
-   "end": 23.36
+   "start": 21.32,
+   "end": 21.4
   },
   {
    "text": "Google,",
-   "start": 23.36,
-   "end": 23.62
+   "start": 21.4,
+   "end": 21.66
   },
   {
    "text": "and",
-   "start": 23.62,
-   "end": 24.02
+   "start": 21.66,
+   "end": 22.08
   },
   {
    "text": "it",
-   "start": 24.02,
-   "end": 24.16
+   "start": 22.08,
+   "end": 22.24
   },
   {
    "text": "can't",
-   "start": 24.16,
-   "end": 24.5
+   "start": 22.24,
+   "end": 22.58
   },
   {
    "text": "block",
-   "start": 24.5,
-   "end": 24.7
+   "start": 22.58,
+   "end": 22.74
   },
   {
    "text": "OpenAI's",
-   "start": 24.7,
-   "end": 25.5
+   "start": 22.74,
+   "end": 23.46
   },
   {
    "text": "search",
-   "start": 25.5,
-   "end": 25.72
+   "start": 23.46,
+   "end": 23.58
   },
   {
    "text": "crawler,",
-   "start": 25.72,
-   "end": 26.16
+   "start": 23.58,
+   "end": 24.04
   },
   {
    "text": "or",
-   "start": 26.16,
-   "end": 26.46
+   "start": 24.04,
+   "end": 24.32
   },
   {
    "text": "ChatGPT",
-   "start": 26.46,
-   "end": 27.3
+   "start": 24.32,
+   "end": 24.98
   },
   {
    "text": "search",
-   "start": 27.3,
-   "end": 27.6
+   "start": 24.98,
+   "end": 25.24
   },
   {
    "text": "won't",
-   "start": 27.6,
-   "end": 27.94
+   "start": 25.24,
+   "end": 25.6
   },
   {
    "text": "show",
-   "start": 27.94,
-   "end": 28.16
+   "start": 25.6,
+   "end": 25.82
   },
   {
    "text": "it.",
-   "start": 28.16,
-   "end": 28.32
+   "start": 25.82,
+   "end": 26.0
   },
   {
    "text": "Step",
-   "start": 28.32,
-   "end": 29.14
+   "start": 26.48,
+   "end": 26.7
   },
   {
    "text": "two.",
-   "start": 29.14,
-   "end": 29.5
+   "start": 26.7,
+   "end": 27.04
   },
   {
    "text": "Fill",
-   "start": 29.92,
-   "end": 30.22
+   "start": 27.5,
+   "end": 27.74
   },
   {
    "text": "out",
-   "start": 30.22,
-   "end": 30.38
+   "start": 27.74,
+   "end": 27.88
   },
   {
    "text": "your",
-   "start": 30.38,
-   "end": 30.54
+   "start": 27.88,
+   "end": 28.0
   },
   {
    "text": "Google",
-   "start": 30.54,
-   "end": 30.8
+   "start": 28.0,
+   "end": 28.2
   },
   {
    "text": "Business",
-   "start": 30.8,
-   "end": 31.18
+   "start": 28.2,
+   "end": 28.54
   },
   {
    "text": "Profile,",
-   "start": 31.18,
-   "end": 31.72
+   "start": 28.54,
+   "end": 29.08
   },
   {
    "text": "with",
-   "start": 31.72,
-   "end": 32.14
+   "start": 29.08,
+   "end": 29.46
   },
   {
    "text": "service",
-   "start": 32.14,
-   "end": 32.42
+   "start": 29.46,
+   "end": 29.76
   },
   {
    "text": "times,",
-   "start": 32.42,
-   "end": 32.78
+   "start": 29.76,
+   "end": 30.14
   },
   {
    "text": "photos",
-   "start": 33.14,
-   "end": 33.36
+   "start": 30.52,
+   "end": 30.74
   },
   {
    "text": "and",
-   "start": 33.7,
-   "end": 33.92
+   "start": 31.14,
+   "end": 31.36
   },
   {
    "text": "your",
-   "start": 33.92,
-   "end": 34.06
+   "start": 31.36,
+   "end": 31.46
   },
   {
    "text": "website.",
-   "start": 34.06,
-   "end": 34.44
+   "start": 31.46,
+   "end": 31.82
   },
   {
    "text": "Google",
-   "start": 34.94,
-   "end": 35.18
+   "start": 32.28,
+   "end": 32.44
   },
   {
    "text": "says",
-   "start": 35.18,
-   "end": 35.48
+   "start": 32.44,
+   "end": 32.7
   },
   {
    "text": "it",
-   "start": 35.48,
-   "end": 35.68
+   "start": 32.7,
+   "end": 32.84
   },
   {
    "text": "helps",
-   "start": 35.68,
-   "end": 35.88
+   "start": 32.84,
+   "end": 33.02
   },
   {
    "text": "you",
-   "start": 35.88,
-   "end": 36.06
+   "start": 33.02,
+   "end": 33.16
   },
   {
    "text": "show",
-   "start": 36.06,
-   "end": 36.28
+   "start": 33.16,
+   "end": 33.38
   },
   {
    "text": "up",
-   "start": 36.28,
-   "end": 36.54
+   "start": 33.38,
+   "end": 33.56
   },
   {
    "text": "in",
-   "start": 36.54,
-   "end": 36.64
+   "start": 33.56,
+   "end": 33.64
   },
   {
    "text": "AI",
-   "start": 36.64,
-   "end": 36.92
+   "start": 33.64,
+   "end": 33.86
   },
   {
    "text": "answers.",
-   "start": 36.92,
-   "end": 37.4
+   "start": 33.86,
+   "end": 34.32
   },
   {
    "text": "And",
-   "start": 37.92,
-   "end": 38.22
+   "start": 34.9,
+   "end": 35.2
   },
   {
    "text": "keep",
-   "start": 38.22,
-   "end": 38.52
+   "start": 35.2,
+   "end": 35.54
   },
   {
    "text": "your",
-   "start": 38.52,
-   "end": 38.74
+   "start": 35.54,
+   "end": 35.74
   },
   {
    "text": "listings",
-   "start": 38.74,
-   "end": 39.02
+   "start": 35.74,
+   "end": 36.0
   },
   {
    "text": "matching",
-   "start": 39.02,
-   "end": 39.48
+   "start": 36.0,
+   "end": 36.44
   },
   {
    "text": "everywhere.",
-   "start": 39.48,
-   "end": 40.12
+   "start": 36.44,
+   "end": 37.08
   },
   {
    "text": "Step",
-   "start": 40.86,
-   "end": 41.1
+   "start": 37.82,
+   "end": 38.02
   },
   {
    "text": "three.",
-   "start": 41.1,
-   "end": 41.46
+   "start": 38.02,
+   "end": 38.36
   },
   {
    "text": "Answer",
-   "start": 42.2,
-   "end": 42.46
+   "start": 38.9,
+   "end": 39.16
   },
   {
    "text": "the",
-   "start": 42.46,
-   "end": 42.64
+   "start": 39.16,
+   "end": 39.3
   },
   {
    "text": "questions",
-   "start": 42.64,
-   "end": 42.98
+   "start": 39.3,
+   "end": 39.6
   },
   {
    "text": "families",
-   "start": 42.98,
-   "end": 43.52
+   "start": 39.6,
+   "end": 40.1
   },
   {
    "text": "actually",
-   "start": 43.52,
-   "end": 44.18
+   "start": 40.1,
+   "end": 40.74
   },
   {
    "text": "ask,",
-   "start": 44.18,
-   "end": 44.62
+   "start": 40.74,
+   "end": 41.22
   },
   {
    "text": "in",
-   "start": 44.92,
-   "end": 45.1
+   "start": 41.22,
+   "end": 41.64
   },
   {
    "text": "plain",
-   "start": 45.1,
-   "end": 45.36
+   "start": 41.64,
+   "end": 41.9
   },
   {
    "text": "words.",
-   "start": 45.36,
-   "end": 45.84
+   "start": 41.9,
+   "end": 42.32
   },
   {
    "text": "What",
-   "start": 46.52,
-   "end": 46.66
+   "start": 42.86,
+   "end": 43.02
   },
   {
    "text": "time",
-   "start": 46.66,
-   "end": 46.86
+   "start": 43.02,
+   "end": 43.22
   },
   {
    "text": "is",
-   "start": 46.86,
-   "end": 47.0
+   "start": 43.22,
+   "end": 43.34
   },
   {
    "text": "service?",
-   "start": 47.0,
-   "end": 47.28
+   "start": 43.34,
+   "end": 43.66
   },
   {
    "text": "What",
-   "start": 47.92,
-   "end": 48.1
+   "start": 44.24,
+   "end": 44.42
   },
   {
    "text": "about",
-   "start": 48.1,
-   "end": 48.26
+   "start": 44.42,
+   "end": 44.56
   },
   {
    "text": "my",
-   "start": 48.26,
-   "end": 48.44
+   "start": 44.56,
+   "end": 44.74
   },
   {
    "text": "kids?",
-   "start": 48.44,
-   "end": 48.72
+   "start": 44.74,
+   "end": 45.02
   },
   {
    "text": "Where",
-   "start": 49.3,
-   "end": 49.5
+   "start": 45.62,
+   "end": 45.76
   },
   {
    "text": "do",
-   "start": 49.5,
-   "end": 49.6
+   "start": 45.76,
+   "end": 45.86
   },
   {
    "text": "I",
-   "start": 49.6,
-   "end": 49.72
+   "start": 45.86,
+   "end": 45.96
   },
   {
    "text": "park?",
-   "start": 49.72,
-   "end": 50.02
+   "start": 45.96,
+   "end": 46.28
   },
   {
    "text": "What",
-   "start": 50.58,
-   "end": 50.76
+   "start": 46.82,
+   "end": 46.98
   },
   {
    "text": "should",
-   "start": 50.76,
-   "end": 50.9
+   "start": 46.98,
+   "end": 47.08
   },
   {
    "text": "I",
-   "start": 50.9,
-   "end": 51.04
+   "start": 47.08,
+   "end": 47.22
   },
   {
    "text": "wear?",
-   "start": 51.04,
-   "end": 51.34
+   "start": 47.22,
+   "end": 47.46
   },
   {
    "text": "Step",
-   "start": 52.1,
-   "end": 52.42
+   "start": 48.14,
+   "end": 48.36
   },
   {
    "text": "four.",
-   "start": 52.42,
-   "end": 52.8
+   "start": 48.36,
+   "end": 48.76
   },
   {
    "text": "Post",
-   "start": 53.44,
-   "end": 53.7
+   "start": 49.24,
+   "end": 49.5
   },
   {
    "text": "what",
-   "start": 53.7,
-   "end": 53.96
+   "start": 49.5,
+   "end": 49.74
   },
   {
    "text": "only",
-   "start": 53.96,
-   "end": 54.38
+   "start": 49.74,
+   "end": 50.18
   },
   {
    "text": "your",
-   "start": 54.38,
-   "end": 54.68
+   "start": 50.18,
+   "end": 50.5
   },
   {
    "text": "church",
-   "start": 54.68,
-   "end": 54.96
+   "start": 50.5,
+   "end": 50.78
   },
   {
    "text": "has.",
-   "start": 54.96,
-   "end": 55.34
+   "start": 50.78,
+   "end": 51.16
   },
   {
    "text": "Your",
-   "start": 55.34,
-   "end": 55.94
+   "start": 51.6,
+   "end": 51.76
   },
   {
    "text": "sermons,",
-   "start": 55.94,
-   "end": 56.46
+   "start": 51.76,
+   "end": 52.22
   },
   {
    "text": "your",
-   "start": 56.78,
-   "end": 56.86
+   "start": 52.52,
+   "end": 52.6
   },
   {
    "text": "stories,",
-   "start": 56.86,
-   "end": 57.34
+   "start": 52.6,
+   "end": 53.06
   },
   {
    "text": "your",
-   "start": 57.74,
-   "end": 57.84
+   "start": 53.42,
+   "end": 53.54
   },
   {
    "text": "events.",
-   "start": 57.84,
-   "end": 58.18
+   "start": 53.54,
+   "end": 53.84
   },
   {
    "text": "Google",
-   "start": 58.82,
-   "end": 59.14
+   "start": 54.4,
+   "end": 54.72
   },
   {
    "text": "says",
-   "start": 59.14,
-   "end": 59.48
+   "start": 54.72,
+   "end": 55.08
   },
   {
    "text": "don't",
-   "start": 59.88,
-   "end": 59.98
+   "start": 55.08,
+   "end": 55.56
   },
   {
    "text": "just",
-   "start": 59.98,
-   "end": 60.16
+   "start": 55.56,
+   "end": 55.72
   },
   {
    "text": "recycle",
-   "start": 60.16,
-   "end": 60.66
+   "start": 55.72,
+   "end": 56.18
   },
   {
    "text": "what",
-   "start": 60.66,
-   "end": 60.9
+   "start": 56.18,
+   "end": 56.38
   },
   {
    "text": "everyone",
-   "start": 60.9,
-   "end": 61.24
+   "start": 56.38,
+   "end": 56.76
   },
   {
    "text": "else",
-   "start": 61.24,
-   "end": 61.46
+   "start": 56.76,
+   "end": 56.98
   },
   {
    "text": "says.",
-   "start": 61.46,
-   "end": 61.86
+   "start": 56.98,
+   "end": 57.36
   },
   {
    "text": "Step",
-   "start": 62.5,
-   "end": 62.74
+   "start": 57.36,
+   "end": 58.14
   },
   {
    "text": "five.",
-   "start": 62.74,
-   "end": 63.2
+   "start": 58.14,
+   "end": 58.58
   },
   {
    "text": "Earn",
-   "start": 63.66,
-   "end": 63.92
+   "start": 59.02,
+   "end": 59.34
   },
   {
    "text": "real",
-   "start": 63.92,
-   "end": 64.3
+   "start": 59.34,
+   "end": 59.7
   },
   {
    "text": "reviews",
-   "start": 64.3,
-   "end": 64.84
+   "start": 59.7,
+   "end": 60.12
   },
   {
    "text": "and",
-   "start": 64.84,
-   "end": 65.12
+   "start": 60.12,
+   "end": 60.46
   },
   {
    "text": "real",
-   "start": 65.12,
-   "end": 65.48
+   "start": 60.46,
+   "end": 60.8
   },
   {
    "text": "mentions,",
-   "start": 65.48,
-   "end": 65.9
+   "start": 60.8,
+   "end": 61.2
   },
   {
    "text": "like",
-   "start": 66.26,
-   "end": 66.48
+   "start": 61.7,
+   "end": 61.8
   },
   {
    "text": "local",
-   "start": 66.48,
-   "end": 66.76
+   "start": 61.8,
+   "end": 62.06
   },
   {
    "text": "news",
-   "start": 66.76,
-   "end": 67.14
+   "start": 62.06,
+   "end": 62.42
   },
   {
    "text": "and",
-   "start": 67.14,
-   "end": 67.36
+   "start": 62.42,
+   "end": 62.62
   },
   {
    "text": "community",
-   "start": 67.36,
-   "end": 67.74
+   "start": 62.62,
+   "end": 62.98
   },
   {
    "text": "events.",
-   "start": 67.74,
-   "end": 68.18
+   "start": 62.98,
+   "end": 63.48
   },
   {
    "text": "Never",
-   "start": 68.7,
-   "end": 69.02
+   "start": 63.96,
+   "end": 64.28
   },
   {
    "text": "fake",
-   "start": 69.02,
-   "end": 69.4
+   "start": 64.28,
+   "end": 64.64
   },
   {
    "text": "them.",
-   "start": 69.4,
-   "end": 69.6
+   "start": 64.64,
+   "end": 64.86
   },
   {
    "text": "Google",
-   "start": 70.06,
-   "end": 70.28
+   "start": 65.3,
+   "end": 65.46
   },
   {
    "text": "says",
-   "start": 70.28,
-   "end": 70.56
+   "start": 65.46,
+   "end": 65.7
   },
   {
    "text": "fake",
-   "start": 70.56,
-   "end": 70.94
+   "start": 65.7,
+   "end": 66.0
   },
   {
    "text": "mentions",
-   "start": 70.94,
-   "end": 71.38
+   "start": 66.0,
+   "end": 66.38
   },
   {
    "text": "don't",
-   "start": 71.38,
-   "end": 71.86
+   "start": 66.38,
+   "end": 66.76
   },
   {
    "text": "help.",
-   "start": 71.86,
-   "end": 72.16
+   "start": 66.76,
+   "end": 67.04
   },
   {
    "text": "And",
-   "start": 72.66,
-   "end": 72.92
+   "start": 67.46,
+   "end": 67.58
   },
   {
    "text": "skip",
-   "start": 72.92,
-   "end": 73.32
+   "start": 67.58,
+   "end": 67.8
   },
   {
    "text": "the",
-   "start": 73.32,
-   "end": 73.56
+   "start": 67.8,
+   "end": 67.98
   },
   {
    "text": "hype.",
-   "start": 73.56,
-   "end": 73.76
+   "start": 67.98,
+   "end": 68.18
   },
   {
    "text": "You",
-   "start": 74.2,
-   "end": 74.34
+   "start": 68.6,
+   "end": 68.72
   },
   {
    "text": "don't",
-   "start": 74.34,
-   "end": 74.66
+   "start": 68.72,
+   "end": 69.04
   },
   {
    "text": "need",
-   "start": 74.66,
-   "end": 74.86
+   "start": 69.04,
+   "end": 69.2
   },
   {
    "text": "a",
-   "start": 74.86,
-   "end": 74.98
+   "start": 69.2,
+   "end": 69.3
   },
   {
    "text": "special",
-   "start": 74.98,
-   "end": 75.22
+   "start": 69.3,
+   "end": 69.52
   },
   {
    "text": "AI",
-   "start": 75.22,
-   "end": 75.54
+   "start": 69.52,
+   "end": 69.8
   },
   {
    "text": "file",
-   "start": 75.54,
-   "end": 75.98
+   "start": 69.8,
+   "end": 70.18
   },
   {
    "text": "for",
-   "start": 75.98,
-   "end": 76.18
+   "start": 70.18,
+   "end": 70.36
   },
   {
    "text": "Google,",
-   "start": 76.18,
-   "end": 76.46
+   "start": 70.36,
+   "end": 70.62
   },
   {
    "text": "and",
-   "start": 76.68,
-   "end": 76.9
+   "start": 70.96,
+   "end": 71.12
   },
   {
    "text": "nobody",
-   "start": 76.9,
-   "end": 77.3
+   "start": 71.12,
+   "end": 71.5
   },
   {
    "text": "can",
-   "start": 77.3,
-   "end": 77.52
+   "start": 71.5,
+   "end": 71.7
   },
   {
    "text": "guarantee",
-   "start": 77.52,
-   "end": 77.9
+   "start": 71.7,
+   "end": 72.08
   },
   {
    "text": "you'll",
-   "start": 77.9,
-   "end": 78.26
+   "start": 72.08,
+   "end": 72.38
   },
   {
    "text": "show",
-   "start": 78.26,
-   "end": 78.42
+   "start": 72.38,
+   "end": 72.52
   },
   {
    "text": "up",
-   "start": 78.42,
-   "end": 78.62
+   "start": 72.52,
+   "end": 72.7
   },
   {
    "text": "in",
-   "start": 78.62,
-   "end": 78.72
+   "start": 72.7,
+   "end": 72.8
   },
   {
    "text": "ChatGPT.",
-   "start": 78.72,
-   "end": 79.54
+   "start": 72.8,
+   "end": 73.46
   },
   {
    "text": "Then",
-   "start": 80.12,
-   "end": 80.42
+   "start": 74.04,
+   "end": 74.3
   },
   {
    "text": "test",
-   "start": 80.72,
-   "end": 80.94
+   "start": 74.3,
+   "end": 74.76
   },
   {
    "text": "it.",
-   "start": 80.94,
-   "end": 81.16
+   "start": 74.76,
+   "end": 74.96
   },
   {
    "text": "Ask",
-   "start": 81.16,
-   "end": 81.76
+   "start": 75.38,
+   "end": 75.6
   },
   {
    "text": "ChatGPT",
-   "start": 81.76,
-   "end": 82.64
+   "start": 75.6,
+   "end": 76.34
   },
   {
    "text": "and",
-   "start": 82.64,
-   "end": 82.96
+   "start": 76.34,
+   "end": 76.54
   },
   {
    "text": "Google",
-   "start": 82.96,
-   "end": 83.24
+   "start": 76.54,
+   "end": 76.8
   },
   {
    "text": "the",
-   "start": 83.24,
-   "end": 83.44
+   "start": 76.8,
+   "end": 77.02
   },
   {
    "text": "questions",
-   "start": 83.44,
-   "end": 83.82
+   "start": 77.02,
+   "end": 77.36
   },
   {
    "text": "a",
-   "start": 83.82,
-   "end": 84.1
+   "start": 77.36,
+   "end": 77.6
   },
   {
    "text": "new",
-   "start": 84.1,
-   "end": 84.34
+   "start": 77.6,
+   "end": 77.78
   },
   {
    "text": "family",
-   "start": 84.34,
-   "end": 84.66
+   "start": 77.78,
+   "end": 78.1
   },
   {
    "text": "would",
-   "start": 84.66,
-   "end": 84.88
+   "start": 78.1,
+   "end": 78.28
   },
   {
    "text": "ask,",
-   "start": 84.88,
-   "end": 85.18
+   "start": 78.28,
+   "end": 78.6
   },
   {
    "text": "and",
-   "start": 85.46,
-   "end": 85.54
+   "start": 78.86,
+   "end": 78.94
   },
   {
    "text": "see",
-   "start": 85.54,
-   "end": 85.72
+   "start": 78.94,
+   "end": 79.1
   },
   {
    "text": "if",
-   "start": 85.72,
-   "end": 85.84
+   "start": 79.1,
+   "end": 79.22
   },
   {
    "text": "your",
-   "start": 85.84,
-   "end": 85.96
+   "start": 79.22,
+   "end": 79.32
   },
   {
    "text": "church",
-   "start": 85.96,
-   "end": 86.18
+   "start": 79.32,
+   "end": 79.54
   },
   {
    "text": "shows",
-   "start": 86.18,
-   "end": 86.42
+   "start": 79.54,
+   "end": 79.74
   },
   {
    "text": "up.",
-   "start": 86.42,
-   "end": 86.7
+   "start": 79.74,
+   "end": 80.02
   },
   {
    "text": "I",
-   "start": 87.18,
-   "end": 87.3
+   "start": 80.4,
+   "end": 80.5
   },
   {
    "text": "made",
-   "start": 87.3,
-   "end": 87.44
+   "start": 80.5,
+   "end": 80.64
   },
   {
    "text": "a",
-   "start": 87.44,
-   "end": 87.56
+   "start": 80.64,
+   "end": 80.74
   },
   {
    "text": "checklist",
-   "start": 87.56,
-   "end": 87.88
+   "start": 80.74,
+   "end": 81.04
   },
   {
    "text": "that",
-   "start": 87.88,
-   "end": 88.2
+   "start": 81.04,
+   "end": 81.34
   },
   {
    "text": "walks",
-   "start": 88.2,
-   "end": 88.42
+   "start": 81.34,
+   "end": 81.54
   },
   {
    "text": "your",
-   "start": 88.42,
-   "end": 88.62
+   "start": 81.54,
+   "end": 81.74
   },
   {
    "text": "church",
-   "start": 88.62,
-   "end": 88.94
+   "start": 81.74,
+   "end": 82.0
   },
   {
    "text": "through",
-   "start": 88.94,
-   "end": 89.14
+   "start": 82.0,
+   "end": 82.2
   },
   {
    "text": "all",
-   "start": 89.14,
-   "end": 89.48
+   "start": 82.2,
+   "end": 82.5
   },
   {
    "text": "five",
-   "start": 89.48,
-   "end": 89.76
+   "start": 82.5,
+   "end": 82.76
   },
   {
    "text": "steps.",
-   "start": 89.76,
-   "end": 90.16
+   "start": 82.76,
+   "end": 83.14
   },
   {
    "text": "Comment",
-   "start": 90.56,
-   "end": 90.86
+   "start": 83.48,
+   "end": 83.82
   },
   {
    "text": "FOUND",
-   "start": 91.1,
-   "end": 91.26
+   "start": 83.82,
+   "end": 84.26
   },
   {
    "text": "and",
-   "start": 91.58,
-   "end": 91.64
+   "start": 84.26,
+   "end": 84.58
   },
   {
    "text": "I'll",
-   "start": 91.64,
-   "end": 91.74
+   "start": 84.58,
+   "end": 84.72
   },
   {
    "text": "send",
-   "start": 91.74,
-   "end": 91.94
+   "start": 84.72,
+   "end": 84.86
   },
   {
    "text": "it",
-   "start": 91.94,
-   "end": 92.02
+   "start": 84.86,
+   "end": 84.96
   },
   {
    "text": "to",
-   "start": 92.02,
-   "end": 92.18
+   "start": 84.96,
+   "end": 85.1
   },
   {
    "text": "you.",
-   "start": 92.18,
-   "end": 92.32
+   "start": 85.1,
+   "end": 85.22
   }
  ]
 }

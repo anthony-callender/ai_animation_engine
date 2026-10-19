@@ -1,0 +1,3 @@
+Step one. Make sure AI can find you. Your site has to be in Google, and it can't block OpenAI's search crawler, or ChatGPT search won't show it.
+
+Step two. Fill out your Google Business Profile, with service times, photos and your website. Google says it helps you show up in AI answers. And keep your listings matching everywhere.

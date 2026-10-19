@@ -1,6 +1,6 @@
 {
  "meta": {
-  "duration": 91.376,
+  "duration": 86.1,
   "voice": "../01_voice/voice.mp3",
   "slug": "church-welcome-reel",
   "music": null,
@@ -10,8 +10,8 @@
   {
    "id": "step1",
    "start": 0.0,
-   "end": 14.88,
-   "phraseEnd": 1.46,
+   "end": 14.34,
+   "phraseEnd": 1.4,
    "phrase": "At 9pm, a mom",
    "text": "At 9pm, a mom",
    "note": "STEP 1 · First question · Day 1 · 9:04 PM. A phone node \"Visitor\" lights up, and a chat bubble types: \"What time is service? Anything for my kids?\"",
@@ -20,9 +20,9 @@
   },
   {
    "id": "step1.answer",
-   "start": 8.06,
-   "end": 14.88,
-   "phraseEnd": 9.44,
+   "start": 7.78,
+   "end": 14.34,
+   "phraseEnd": 9.1,
    "phrase": "In seconds, my church",
    "text": "In seconds, my church",
    "note": "The \"Church assistant\" node (subtitle: approved church info) runs, then gets its check. Reply bubble: \"Sundays at 10 AM. Kids church during the service.\" A button below it: \"Plan a visit?\"",
@@ -31,9 +31,9 @@
   },
   {
    "id": "step2",
-   "start": 14.88,
-   "end": 20.74,
-   "phraseEnd": 15.98,
+   "start": 14.34,
+   "end": 19.86,
+   "phraseEnd": 15.34,
    "phrase": "My plan-a-visit agent",
    "text": "My plan-a-visit agent",
    "note": "STEP 2 · Plan a visit · Day 1 · 9:06 PM. The camera pans to the \"Plan-a-visit agent\". Chips: \"Family of 4\", \"2 kids\", \"10 AM\". A text bubble: \"You're all set for Sunday!\"",
@@ -42,9 +42,9 @@
   },
   {
    "id": "step3",
-   "start": 20.74,
-   "end": 28.46,
-   "phraseEnd": 22.4,
+   "start": 19.86,
+   "end": 27.22,
+   "phraseEnd": 21.5,
    "phrase": "Saturday evening, my welcome",
    "text": "Saturday evening, my welcome",
    "note": "STEP 3 · Welcome · Day 5 · 6 PM. The \"Welcome agent\" sends three child nodes: Parking, Kids check-in, Pastor video (a thumbnail with a play icon).",
@@ -53,9 +53,9 @@
   },
   {
    "id": "step4",
-   "start": 28.46,
-   "end": 35.82,
-   "phraseEnd": 29.64,
+   "start": 27.22,
+   "end": 34.14,
+   "phraseEnd": 28.26,
    "phrase": "greeter agent puts her",
    "text": "greeter agent puts her",
    "note": "STEP 4 · Greeter · Day 5 · 6:05 PM. The \"Greeter agent\" leads to a \"People database\" card (Family file: 4 people, 10 AM) and a notification: \"Welcome team: new family Sunday\".",
@@ -64,9 +64,9 @@
   },
   {
    "id": "step5",
-   "start": 35.82,
-   "end": 46.84,
-   "phraseEnd": 37.32,
+   "start": 34.14,
+   "end": 44.38,
+   "phraseEnd": 35.52,
    "phrase": "On Monday, my follow-up",
    "text": "On Monday, my follow-up",
    "note": "STEP 5 · Follow-up · Day 8 · 10 AM. The \"Follow-up agent\" sends a text bubble: \"Thanks for coming! How was Sunday?\"",
@@ -75,9 +75,9 @@
   },
   {
    "id": "step5.loved",
-   "start": 40.34,
-   "end": 43.46,
-   "phraseEnd": 41.1,
+   "start": 38.24,
+   "end": 41.26,
+   "phraseEnd": 38.98,
    "phrase": "If they loved it",
    "text": "If they loved it,",
    "note": "The green branch leads to \"Newcomers lunch\" (an invite card).",
@@ -86,9 +86,9 @@
   },
   {
    "id": "step5.wrong",
-   "start": 43.46,
-   "end": 46.84,
-   "phraseEnd": 44.4,
+   "start": 41.26,
+   "end": 44.38,
+   "phraseEnd": 42.08,
    "phrase": "If something went wrong",
    "text": "If something went wrong,",
    "note": "The amber branch, with a warning icon, leads to \"Tell the pastor first\".",
@@ -97,9 +97,9 @@
   },
   {
    "id": "step6",
-   "start": 46.84,
-   "end": 58.98,
-   "phraseEnd": 48.26,
+   "start": 44.38,
+   "end": 55.34,
+   "phraseEnd": 45.78,
    "phrase": "Meanwhile, my sermon agent",
    "text": "Meanwhile, my sermon agent",
    "note": "STEP 6 · Sermon · Day 7 · 1 PM. The \"Sermon agent\" chain: Video → Transcript → Notes → Website post (DRAFT), then \"Editor approves\" gets a check.",
@@ -108,9 +108,9 @@
   },
   {
    "id": "step6.social",
-   "start": 53.9,
-   "end": 58.98,
-   "phraseEnd": 55.64,
+   "start": 51.68,
+   "end": 55.34,
+   "phraseEnd": 52.86,
    "phrase": "My social agent turns",
    "text": "My social agent turns",
    "note": "The \"Social agent\" leads to Instagram and Facebook post cards.",
@@ -119,9 +119,9 @@
   },
   {
    "id": "step7",
-   "start": 58.98,
-   "end": 73.08,
-   "phraseEnd": 60.36,
+   "start": 55.34,
+   "end": 69.28,
+   "phraseEnd": 57.4,
    "phrase": "Then my strategy agent",
    "text": "Then my strategy agent",
    "note": "STEP 7 · Get found · Day 10. The \"Strategy agent\" reads the chat log, a red tag reads \"3 questions not answered\", and three FAQ draft cards appear.",
@@ -130,9 +130,9 @@
   },
   {
    "id": "step7.geo",
-   "start": 67.9,
-   "end": 73.08,
-   "phraseEnd": 69.06,
+   "start": 64.4,
+   "end": 69.28,
+   "phraseEnd": 65.48,
    "phrase": "My GEO agent checks",
    "text": "My GEO agent checks",
    "note": "The \"GEO agent\" checks: Google ✓ ChatGPT ✓, then \"LIVE on your website\".",
@@ -141,9 +141,9 @@
   },
   {
    "id": "payoff",
-   "start": 73.08,
-   "end": 80.78,
-   "phraseEnd": 74.08,
+   "start": 69.28,
+   "end": 76.36,
+   "phraseEnd": 70.16,
    "phrase": "So when the next family",
    "text": "So when the next family",
    "note": "An AI chat card (labelled ILLUSTRATION): \"Churches near you with a great kids ministry…\" Your church's card slides into the answer: \"ready to be the answer\".",
@@ -152,9 +152,9 @@
   },
   {
    "id": "loop",
-   "start": 80.78,
-   "end": 82.58,
-   "phraseEnd": 81.88,
+   "start": 76.36,
+   "end": 78.5,
+   "phraseEnd": 77.4,
    "phrase": "and the whole flywheel",
    "text": "and the whole flywheel",
    "note": "The camera pulls back to show the whole canvas glowing, then a quick return to Step 1.",
@@ -163,9 +163,9 @@
   },
   {
    "id": "cta",
-   "start": 82.58,
-   "end": 91.376,
-   "phraseEnd": 84.02,
+   "start": 78.5,
+   "end": 86.1,
+   "phraseEnd": 79.3,
    "phrase": "We built a system",
    "text": "We built a system",
    "note": "A clean card: \"Turn your church website into this digital front door\". A comment box types \"BUILD\", then \"Post\". Small line: \"(for church leaders)\".",
@@ -177,8 +177,8 @@
   "step1": {
    "id": "step1",
    "start": 0.0,
-   "end": 14.88,
-   "phraseEnd": 1.46,
+   "end": 14.34,
+   "phraseEnd": 1.4,
    "phrase": "At 9pm, a mom",
    "text": "At 9pm, a mom",
    "note": "STEP 1 · First question · Day 1 · 9:04 PM. A phone node \"Visitor\" lights up, and a chat bubble types: \"What time is service? Anything for my kids?\"",
@@ -187,9 +187,9 @@
   },
   "step1.answer": {
    "id": "step1.answer",
-   "start": 8.06,
-   "end": 14.88,
-   "phraseEnd": 9.44,
+   "start": 7.78,
+   "end": 14.34,
+   "phraseEnd": 9.1,
    "phrase": "In seconds, my church",
    "text": "In seconds, my church",
    "note": "The \"Church assistant\" node (subtitle: approved church info) runs, then gets its check. Reply bubble: \"Sundays at 10 AM. Kids church during the service.\" A button below it: \"Plan a visit?\"",
@@ -198,9 +198,9 @@
   },
   "step2": {
    "id": "step2",
-   "start": 14.88,
-   "end": 20.74,
-   "phraseEnd": 15.98,
+   "start": 14.34,
+   "end": 19.86,
+   "phraseEnd": 15.34,
    "phrase": "My plan-a-visit agent",
    "text": "My plan-a-visit agent",
    "note": "STEP 2 · Plan a visit · Day 1 · 9:06 PM. The camera pans to the \"Plan-a-visit agent\". Chips: \"Family of 4\", \"2 kids\", \"10 AM\". A text bubble: \"You're all set for Sunday!\"",
@@ -209,9 +209,9 @@
   },
   "step3": {
    "id": "step3",
-   "start": 20.74,
-   "end": 28.46,
-   "phraseEnd": 22.4,
+   "start": 19.86,
+   "end": 27.22,
+   "phraseEnd": 21.5,
    "phrase": "Saturday evening, my welcome",
    "text": "Saturday evening, my welcome",
    "note": "STEP 3 · Welcome · Day 5 · 6 PM. The \"Welcome agent\" sends three child nodes: Parking, Kids check-in, Pastor video (a thumbnail with a play icon).",
@@ -220,9 +220,9 @@
   },
   "step4": {
    "id": "step4",
-   "start": 28.46,
-   "end": 35.82,
-   "phraseEnd": 29.64,
+   "start": 27.22,
+   "end": 34.14,
+   "phraseEnd": 28.26,
    "phrase": "greeter agent puts her",
    "text": "greeter agent puts her",
    "note": "STEP 4 · Greeter · Day 5 · 6:05 PM. The \"Greeter agent\" leads to a \"People database\" card (Family file: 4 people, 10 AM) and a notification: \"Welcome team: new family Sunday\".",
@@ -231,9 +231,9 @@
   },
   "step5": {
    "id": "step5",
-   "start": 35.82,
-   "end": 46.84,
-   "phraseEnd": 37.32,
+   "start": 34.14,
+   "end": 44.38,
+   "phraseEnd": 35.52,
    "phrase": "On Monday, my follow-up",
    "text": "On Monday, my follow-up",
    "note": "STEP 5 · Follow-up · Day 8 · 10 AM. The \"Follow-up agent\" sends a text bubble: \"Thanks for coming! How was Sunday?\"",
@@ -242,9 +242,9 @@
   },
   "step5.loved": {
    "id": "step5.loved",
-   "start": 40.34,
-   "end": 43.46,
-   "phraseEnd": 41.1,
+   "start": 38.24,
+   "end": 41.26,
+   "phraseEnd": 38.98,
    "phrase": "If they loved it",
    "text": "If they loved it,",
    "note": "The green branch leads to \"Newcomers lunch\" (an invite card).",
@@ -253,9 +253,9 @@
   },
   "step5.wrong": {
    "id": "step5.wrong",
-   "start": 43.46,
-   "end": 46.84,
-   "phraseEnd": 44.4,
+   "start": 41.26,
+   "end": 44.38,
+   "phraseEnd": 42.08,
    "phrase": "If something went wrong",
    "text": "If something went wrong,",
    "note": "The amber branch, with a warning icon, leads to \"Tell the pastor first\".",
@@ -264,9 +264,9 @@
   },
   "step6": {
    "id": "step6",
-   "start": 46.84,
-   "end": 58.98,
-   "phraseEnd": 48.26,
+   "start": 44.38,
+   "end": 55.34,
+   "phraseEnd": 45.78,
    "phrase": "Meanwhile, my sermon agent",
    "text": "Meanwhile, my sermon agent",
    "note": "STEP 6 · Sermon · Day 7 · 1 PM. The \"Sermon agent\" chain: Video → Transcript → Notes → Website post (DRAFT), then \"Editor approves\" gets a check.",
@@ -275,9 +275,9 @@
   },
   "step6.social": {
    "id": "step6.social",
-   "start": 53.9,
-   "end": 58.98,
-   "phraseEnd": 55.64,
+   "start": 51.68,
+   "end": 55.34,
+   "phraseEnd": 52.86,
    "phrase": "My social agent turns",
    "text": "My social agent turns",
    "note": "The \"Social agent\" leads to Instagram and Facebook post cards.",
@@ -286,9 +286,9 @@
   },
   "step7": {
    "id": "step7",
-   "start": 58.98,
-   "end": 73.08,
-   "phraseEnd": 60.36,
+   "start": 55.34,
+   "end": 69.28,
+   "phraseEnd": 57.4,
    "phrase": "Then my strategy agent",
    "text": "Then my strategy agent",
    "note": "STEP 7 · Get found · Day 10. The \"Strategy agent\" reads the chat log, a red tag reads \"3 questions not answered\", and three FAQ draft cards appear.",
@@ -297,9 +297,9 @@
   },
   "step7.geo": {
    "id": "step7.geo",
-   "start": 67.9,
-   "end": 73.08,
-   "phraseEnd": 69.06,
+   "start": 64.4,
+   "end": 69.28,
+   "phraseEnd": 65.48,
    "phrase": "My GEO agent checks",
    "text": "My GEO agent checks",
    "note": "The \"GEO agent\" checks: Google ✓ ChatGPT ✓, then \"LIVE on your website\".",
@@ -308,9 +308,9 @@
   },
   "payoff": {
    "id": "payoff",
-   "start": 73.08,
-   "end": 80.78,
-   "phraseEnd": 74.08,
+   "start": 69.28,
+   "end": 76.36,
+   "phraseEnd": 70.16,
    "phrase": "So when the next family",
    "text": "So when the next family",
    "note": "An AI chat card (labelled ILLUSTRATION): \"Churches near you with a great kids ministry…\" Your church's card slides into the answer: \"ready to be the answer\".",
@@ -319,9 +319,9 @@
   },
   "loop": {
    "id": "loop",
-   "start": 80.78,
-   "end": 82.58,
-   "phraseEnd": 81.88,
+   "start": 76.36,
+   "end": 78.5,
+   "phraseEnd": 77.4,
    "phrase": "and the whole flywheel",
    "text": "and the whole flywheel",
    "note": "The camera pulls back to show the whole canvas glowing, then a quick return to Step 1.",
@@ -330,9 +330,9 @@
   },
   "cta": {
    "id": "cta",
-   "start": 82.58,
-   "end": 91.376,
-   "phraseEnd": 84.02,
+   "start": 78.5,
+   "end": 86.1,
+   "phraseEnd": 79.3,
    "phrase": "We built a system",
    "text": "We built a system",
    "note": "A clean card: \"Turn your church website into this digital front door\". A comment box types \"BUILD\", then \"Post\". Small line: \"(for church leaders)\".",
@@ -344,1357 +344,1357 @@
   {
    "text": "At",
    "start": 0.0,
-   "end": 0.18
+   "end": 0.14
   },
   {
    "text": "9pm,",
-   "start": 0.18,
-   "end": 0.76
+   "start": 0.14,
+   "end": 0.7
   },
   {
    "text": "a",
-   "start": 1.08,
-   "end": 1.28
+   "start": 1.12,
+   "end": 1.26
   },
   {
    "text": "mom",
-   "start": 1.28,
-   "end": 1.46
+   "start": 1.26,
+   "end": 1.4
   },
   {
    "text": "lands",
-   "start": 1.46,
-   "end": 1.76
+   "start": 1.4,
+   "end": 1.72
   },
   {
    "text": "on",
-   "start": 1.76,
-   "end": 1.94
+   "start": 1.72,
+   "end": 1.88
   },
   {
    "text": "a",
-   "start": 1.94,
-   "end": 2.1
+   "start": 1.88,
+   "end": 2.02
   },
   {
    "text": "church",
-   "start": 2.1,
-   "end": 2.26
+   "start": 2.02,
+   "end": 2.16
   },
   {
    "text": "website",
-   "start": 2.26,
-   "end": 2.76
+   "start": 2.16,
+   "end": 2.62
   },
   {
    "text": "for",
-   "start": 2.76,
-   "end": 2.94
+   "start": 2.62,
+   "end": 2.8
   },
   {
    "text": "the",
-   "start": 2.94,
-   "end": 3.06
+   "start": 2.8,
+   "end": 2.92
   },
   {
    "text": "first",
-   "start": 3.06,
-   "end": 3.34
+   "start": 2.92,
+   "end": 3.2
   },
   {
    "text": "time",
-   "start": 3.34,
-   "end": 3.74
+   "start": 3.2,
+   "end": 3.6
   },
   {
    "text": "and",
-   "start": 3.74,
-   "end": 3.98
+   "start": 3.6,
+   "end": 3.76
   },
   {
    "text": "asks,",
-   "start": 3.98,
-   "end": 4.3
+   "start": 3.76,
+   "end": 4.12
   },
   {
    "text": "what",
-   "start": 4.74,
-   "end": 4.82
+   "start": 4.54,
+   "end": 4.6
   },
   {
    "text": "time",
-   "start": 4.82,
-   "end": 5.06
+   "start": 4.6,
+   "end": 4.82
   },
   {
    "text": "is",
-   "start": 5.06,
-   "end": 5.18
+   "start": 4.82,
+   "end": 4.96
   },
   {
    "text": "service,",
-   "start": 5.18,
-   "end": 5.52
+   "start": 4.96,
+   "end": 5.28
   },
   {
    "text": "and",
-   "start": 5.9,
-   "end": 6.06
+   "start": 5.7,
+   "end": 5.94
   },
   {
    "text": "is",
-   "start": 6.06,
-   "end": 6.44
+   "start": 5.94,
+   "end": 6.26
   },
   {
    "text": "there",
-   "start": 6.44,
-   "end": 6.56
+   "start": 6.26,
+   "end": 6.38
   },
   {
    "text": "anything",
-   "start": 6.56,
+   "start": 6.38,
+   "end": 6.58
+  },
+  {
+   "text": "for",
+   "start": 6.58,
    "end": 6.8
   },
   {
-   "text": "for",
-   "start": 6.8,
-   "end": 7.06
-  },
-  {
    "text": "my",
-   "start": 7.06,
-   "end": 7.18
+   "start": 6.8,
+   "end": 6.94
   },
   {
    "text": "kids?",
-   "start": 7.18,
-   "end": 7.4
+   "start": 6.94,
+   "end": 7.16
   },
   {
    "text": "In",
-   "start": 8.06,
-   "end": 8.2
+   "start": 7.78,
+   "end": 7.96
   },
   {
    "text": "seconds,",
-   "start": 8.2,
-   "end": 8.66
+   "start": 7.96,
+   "end": 8.36
   },
   {
    "text": "my",
-   "start": 9.06,
-   "end": 9.18
+   "start": 8.76,
+   "end": 8.88
   },
   {
    "text": "church",
-   "start": 9.18,
-   "end": 9.44
+   "start": 8.88,
+   "end": 9.1
   },
   {
    "text": "assistant",
-   "start": 9.44,
-   "end": 9.76
+   "start": 9.1,
+   "end": 9.34
   },
   {
    "text": "answers",
-   "start": 9.76,
+   "start": 9.34,
+   "end": 9.88
+  },
+  {
+   "text": "from",
+   "start": 9.88,
+   "end": 10.14
+  },
+  {
+   "text": "the",
+   "start": 10.14,
    "end": 10.26
   },
   {
-   "text": "from",
-   "start": 10.26,
-   "end": 10.56
-  },
-  {
-   "text": "the",
-   "start": 10.56,
-   "end": 10.68
-  },
-  {
    "text": "church's",
-   "start": 10.68,
-   "end": 11.1
+   "start": 10.26,
+   "end": 10.66
   },
   {
    "text": "own",
-   "start": 11.1,
-   "end": 11.4
+   "start": 10.66,
+   "end": 11.0
   },
   {
    "text": "approved",
-   "start": 11.4,
-   "end": 11.76
+   "start": 11.0,
+   "end": 11.36
   },
   {
    "text": "info,",
-   "start": 11.76,
-   "end": 12.24
+   "start": 11.36,
+   "end": 11.82
   },
   {
    "text": "then",
-   "start": 12.6,
-   "end": 12.82
+   "start": 12.2,
+   "end": 12.38
   },
   {
    "text": "asks",
-   "start": 12.82,
-   "end": 13.18
+   "start": 12.38,
+   "end": 12.74
   },
   {
    "text": "if",
-   "start": 13.18,
-   "end": 13.4
+   "start": 12.74,
+   "end": 12.9
   },
   {
    "text": "she'd",
-   "start": 13.4,
-   "end": 13.62
+   "start": 12.9,
+   "end": 13.1
   },
   {
    "text": "like",
-   "start": 13.62,
-   "end": 13.72
+   "start": 13.1,
+   "end": 13.2
   },
   {
    "text": "to",
-   "start": 13.72,
-   "end": 13.86
+   "start": 13.2,
+   "end": 13.32
   },
   {
    "text": "plan",
-   "start": 13.86,
-   "end": 14.02
+   "start": 13.32,
+   "end": 13.46
   },
   {
    "text": "a",
-   "start": 14.02,
-   "end": 14.12
+   "start": 13.46,
+   "end": 13.58
   },
   {
    "text": "visit.",
-   "start": 14.12,
-   "end": 14.32
+   "start": 13.58,
+   "end": 13.76
   },
   {
    "text": "My",
-   "start": 14.88,
-   "end": 15.02
+   "start": 14.34,
+   "end": 14.46
   },
   {
    "text": "plan-a-visit",
-   "start": 15.02,
-   "end": 15.68
+   "start": 14.46,
+   "end": 15.06
   },
   {
    "text": "agent",
-   "start": 15.68,
-   "end": 15.98
+   "start": 15.06,
+   "end": 15.34
   },
   {
    "text": "saves",
-   "start": 15.98,
-   "end": 16.36
+   "start": 15.34,
+   "end": 15.68
   },
   {
    "text": "her",
-   "start": 16.36,
-   "end": 16.58
+   "start": 15.68,
+   "end": 15.88
   },
   {
    "text": "family's",
-   "start": 16.58,
-   "end": 17.02
+   "start": 15.88,
+   "end": 16.28
   },
   {
    "text": "details",
-   "start": 17.02,
-   "end": 17.36
+   "start": 16.28,
+   "end": 16.64
   },
   {
    "text": "and",
-   "start": 17.36,
-   "end": 17.72
+   "start": 16.64,
+   "end": 16.98
   },
   {
    "text": "texts",
-   "start": 17.72,
-   "end": 18.02
+   "start": 16.98,
+   "end": 17.26
   },
   {
    "text": "her",
-   "start": 18.02,
-   "end": 18.22
+   "start": 17.26,
+   "end": 17.42
   },
   {
    "text": "a",
-   "start": 18.22,
-   "end": 18.34
+   "start": 17.42,
+   "end": 17.54
   },
   {
    "text": "confirmation",
-   "start": 18.34,
-   "end": 18.64
+   "start": 17.54,
+   "end": 17.84
   },
   {
    "text": "for",
-   "start": 18.64,
-   "end": 19.12
+   "start": 17.84,
+   "end": 18.28
   },
   {
    "text": "the",
-   "start": 19.12,
-   "end": 19.24
+   "start": 18.28,
+   "end": 18.38
   },
   {
    "text": "10am",
-   "start": 19.24,
-   "end": 19.62
+   "start": 18.38,
+   "end": 18.74
   },
   {
    "text": "service.",
-   "start": 19.62,
-   "end": 20.06
+   "start": 18.74,
+   "end": 19.2
   },
   {
    "text": "Saturday",
-   "start": 20.74,
-   "end": 21.1
+   "start": 19.86,
+   "end": 20.2
   },
   {
    "text": "evening,",
-   "start": 21.1,
-   "end": 21.56
+   "start": 20.2,
+   "end": 20.66
   },
   {
    "text": "my",
-   "start": 22.0,
-   "end": 22.14
+   "start": 21.14,
+   "end": 21.26
   },
   {
    "text": "welcome",
-   "start": 22.14,
-   "end": 22.4
+   "start": 21.26,
+   "end": 21.5
   },
   {
    "text": "agent",
-   "start": 22.4,
-   "end": 22.7
+   "start": 21.5,
+   "end": 21.82
   },
   {
    "text": "texts",
-   "start": 22.7,
-   "end": 23.1
+   "start": 21.82,
+   "end": 22.16
   },
   {
    "text": "her",
-   "start": 23.1,
-   "end": 23.36
+   "start": 22.16,
+   "end": 22.38
   },
   {
    "text": "where",
-   "start": 23.36,
-   "end": 23.54
+   "start": 22.38,
+   "end": 22.6
   },
   {
    "text": "to",
-   "start": 23.54,
-   "end": 23.66
+   "start": 22.6,
+   "end": 22.74
   },
   {
    "text": "park,",
-   "start": 23.66,
-   "end": 23.96
+   "start": 22.74,
+   "end": 23.06
   },
   {
    "text": "where",
-   "start": 24.28,
-   "end": 24.46
+   "start": 23.38,
+   "end": 23.56
   },
   {
    "text": "kids",
-   "start": 24.46,
-   "end": 24.76
+   "start": 23.56,
+   "end": 23.86
   },
   {
    "text": "check",
-   "start": 24.76,
-   "end": 25.0
+   "start": 23.86,
+   "end": 24.1
   },
   {
    "text": "in,",
-   "start": 25.0,
-   "end": 25.24
+   "start": 24.1,
+   "end": 24.36
   },
   {
    "text": "and",
-   "start": 25.6,
-   "end": 25.9
+   "start": 24.7,
+   "end": 24.86
   },
   {
    "text": "a",
-   "start": 25.9,
-   "end": 26.1
+   "start": 24.86,
+   "end": 25.0
   },
   {
    "text": "short",
-   "start": 26.1,
-   "end": 26.24
+   "start": 25.0,
+   "end": 25.12
   },
   {
    "text": "welcome",
-   "start": 26.24,
-   "end": 26.58
+   "start": 25.12,
+   "end": 25.42
   },
   {
    "text": "video",
-   "start": 26.58,
-   "end": 26.98
+   "start": 25.42,
+   "end": 25.78
   },
   {
    "text": "from",
-   "start": 26.98,
-   "end": 27.18
+   "start": 25.78,
+   "end": 25.96
   },
   {
    "text": "the",
-   "start": 27.18,
-   "end": 27.34
+   "start": 25.96,
+   "end": 26.1
   },
   {
    "text": "pastor.",
-   "start": 27.34,
-   "end": 27.64
+   "start": 26.1,
+   "end": 26.42
   },
   {
    "text": "My",
-   "start": 27.64,
-   "end": 28.46
+   "start": 26.42,
+   "end": 27.22
   },
   {
    "text": "greeter",
-   "start": 28.46,
-   "end": 28.82
+   "start": 27.22,
+   "end": 27.54
   },
   {
    "text": "agent",
-   "start": 28.82,
-   "end": 29.18
+   "start": 27.54,
+   "end": 27.86
   },
   {
    "text": "puts",
-   "start": 29.18,
-   "end": 29.46
+   "start": 27.86,
+   "end": 28.08
   },
   {
    "text": "her",
-   "start": 29.46,
-   "end": 29.64
+   "start": 28.08,
+   "end": 28.26
   },
   {
    "text": "family",
-   "start": 29.64,
-   "end": 29.98
+   "start": 28.26,
+   "end": 28.58
   },
   {
    "text": "into",
-   "start": 29.98,
-   "end": 30.26
+   "start": 28.58,
+   "end": 28.82
   },
   {
    "text": "the",
-   "start": 30.26,
-   "end": 30.46
+   "start": 28.82,
+   "end": 29.0
   },
   {
    "text": "church's",
-   "start": 30.46,
-   "end": 30.84
+   "start": 29.0,
+   "end": 29.36
   },
   {
    "text": "people",
-   "start": 30.84,
-   "end": 31.12
+   "start": 29.36,
+   "end": 29.64
   },
   {
    "text": "database",
-   "start": 31.12,
-   "end": 31.62
+   "start": 29.64,
+   "end": 30.1
   },
   {
    "text": "and",
-   "start": 31.62,
-   "end": 32.12
+   "start": 30.1,
+   "end": 30.56
   },
   {
    "text": "gives",
-   "start": 32.12,
-   "end": 32.34
+   "start": 30.56,
+   "end": 30.76
   },
   {
    "text": "the",
-   "start": 32.34,
-   "end": 32.5
+   "start": 30.76,
+   "end": 30.92
   },
   {
    "text": "welcome",
-   "start": 32.5,
-   "end": 32.78
+   "start": 30.92,
+   "end": 31.14
   },
   {
    "text": "team",
-   "start": 32.78,
-   "end": 33.08
+   "start": 31.14,
+   "end": 31.4
   },
   {
    "text": "a",
-   "start": 33.08,
-   "end": 33.24
+   "start": 31.4,
+   "end": 31.54
   },
   {
    "text": "heads",
-   "start": 33.24,
-   "end": 33.4
+   "start": 31.54,
+   "end": 31.7
   },
   {
    "text": "up,",
-   "start": 33.4,
-   "end": 33.66
+   "start": 31.7,
+   "end": 31.98
   },
   {
    "text": "so",
-   "start": 33.66,
-   "end": 33.98
+   "start": 32.18,
+   "end": 32.4
   },
   {
    "text": "someone",
-   "start": 33.98,
-   "end": 34.34
+   "start": 32.4,
+   "end": 32.76
   },
   {
    "text": "is",
-   "start": 34.34,
-   "end": 34.5
+   "start": 32.76,
+   "end": 32.9
   },
   {
    "text": "waiting",
-   "start": 34.5,
-   "end": 34.72
+   "start": 32.9,
+   "end": 33.08
   },
   {
    "text": "at",
-   "start": 34.72,
-   "end": 34.9
+   "start": 33.08,
+   "end": 33.26
   },
   {
    "text": "the",
-   "start": 34.9,
-   "end": 34.98
+   "start": 33.26,
+   "end": 33.34
   },
   {
    "text": "door.",
-   "start": 34.98,
-   "end": 35.26
+   "start": 33.34,
+   "end": 33.58
   },
   {
    "text": "On",
-   "start": 35.82,
-   "end": 35.96
+   "start": 34.14,
+   "end": 34.28
   },
   {
    "text": "Monday,",
-   "start": 35.96,
-   "end": 36.34
+   "start": 34.28,
+   "end": 34.6
   },
   {
    "text": "my",
-   "start": 36.72,
-   "end": 36.8
+   "start": 34.98,
+   "end": 35.1
   },
   {
    "text": "follow-up",
-   "start": 36.8,
-   "end": 37.32
+   "start": 35.1,
+   "end": 35.52
   },
   {
    "text": "agent",
-   "start": 37.32,
-   "end": 37.58
+   "start": 35.52,
+   "end": 35.78
   },
   {
    "text": "texts",
-   "start": 37.58,
-   "end": 37.92
+   "start": 35.78,
+   "end": 36.1
   },
   {
    "text": "a",
-   "start": 37.92,
-   "end": 38.14
+   "start": 36.1,
+   "end": 36.28
   },
   {
    "text": "thank",
-   "start": 38.14,
-   "end": 38.36
+   "start": 36.28,
+   "end": 36.48
   },
   {
    "text": "you",
-   "start": 38.36,
-   "end": 38.6
+   "start": 36.48,
+   "end": 36.74
   },
   {
    "text": "and",
-   "start": 38.6,
-   "end": 38.92
+   "start": 36.74,
+   "end": 36.96
   },
   {
    "text": "asks",
-   "start": 38.92,
-   "end": 39.26
+   "start": 36.96,
+   "end": 37.24
   },
   {
    "text": "how",
-   "start": 39.26,
-   "end": 39.48
+   "start": 37.24,
+   "end": 37.48
   },
   {
    "text": "it",
-   "start": 39.48,
-   "end": 39.6
+   "start": 37.48,
+   "end": 37.58
   },
   {
    "text": "went.",
-   "start": 39.6,
-   "end": 39.8
+   "start": 37.58,
+   "end": 37.76
   },
   {
    "text": "If",
-   "start": 40.34,
-   "end": 40.46
+   "start": 38.24,
+   "end": 38.4
   },
   {
    "text": "they",
-   "start": 40.46,
-   "end": 40.6
+   "start": 38.4,
+   "end": 38.52
   },
   {
    "text": "loved",
-   "start": 40.6,
-   "end": 40.88
+   "start": 38.52,
+   "end": 38.8
   },
   {
    "text": "it,",
-   "start": 40.88,
-   "end": 41.1
+   "start": 38.8,
+   "end": 38.98
   },
   {
    "text": "it",
-   "start": 41.3,
-   "end": 41.42
+   "start": 39.24,
+   "end": 39.34
   },
   {
    "text": "invites",
-   "start": 41.42,
-   "end": 41.76
+   "start": 39.34,
+   "end": 39.66
   },
   {
    "text": "them",
-   "start": 41.76,
-   "end": 41.94
+   "start": 39.66,
+   "end": 39.84
   },
   {
    "text": "to",
-   "start": 41.94,
-   "end": 42.12
+   "start": 39.84,
+   "end": 40.0
   },
   {
    "text": "a",
-   "start": 42.12,
-   "end": 42.24
+   "start": 40.0,
+   "end": 40.1
   },
   {
    "text": "newcomers",
-   "start": 42.24,
-   "end": 42.74
+   "start": 40.1,
+   "end": 40.58
   },
   {
    "text": "lunch.",
-   "start": 42.74,
-   "end": 42.94
+   "start": 40.58,
+   "end": 40.8
   },
   {
    "text": "If",
-   "start": 43.46,
-   "end": 43.62
+   "start": 41.26,
+   "end": 41.38
   },
   {
    "text": "something",
-   "start": 43.62,
-   "end": 43.84
+   "start": 41.38,
+   "end": 41.58
   },
   {
    "text": "went",
-   "start": 43.84,
-   "end": 44.08
+   "start": 41.58,
+   "end": 41.78
   },
   {
    "text": "wrong,",
-   "start": 44.08,
-   "end": 44.4
+   "start": 41.78,
+   "end": 42.08
   },
   {
    "text": "it",
-   "start": 44.76,
-   "end": 44.92
+   "start": 42.44,
+   "end": 42.58
   },
   {
    "text": "tells",
-   "start": 44.92,
-   "end": 45.12
+   "start": 42.58,
+   "end": 42.78
   },
   {
    "text": "the",
-   "start": 45.12,
-   "end": 45.34
+   "start": 42.78,
+   "end": 42.96
   },
   {
    "text": "pastor",
-   "start": 45.34,
-   "end": 45.72
+   "start": 42.96,
+   "end": 43.28
   },
   {
    "text": "first.",
-   "start": 45.72,
-   "end": 46.2
+   "start": 43.28,
+   "end": 43.72
   },
   {
    "text": "Meanwhile,",
-   "start": 46.84,
-   "end": 47.18
+   "start": 44.38,
+   "end": 44.68
   },
   {
    "text": "my",
-   "start": 47.54,
-   "end": 47.62
+   "start": 45.1,
+   "end": 45.24
   },
   {
    "text": "sermon",
-   "start": 47.62,
-   "end": 47.94
+   "start": 45.24,
+   "end": 45.48
   },
   {
    "text": "agent",
-   "start": 47.94,
-   "end": 48.26
+   "start": 45.48,
+   "end": 45.78
   },
   {
    "text": "turns",
-   "start": 48.26,
-   "end": 48.6
+   "start": 45.78,
+   "end": 46.12
   },
   {
    "text": "Sunday's",
-   "start": 48.6,
-   "end": 49.1
+   "start": 46.12,
+   "end": 46.6
   },
   {
    "text": "video",
-   "start": 49.1,
-   "end": 49.42
+   "start": 46.6,
+   "end": 46.88
   },
   {
    "text": "into",
-   "start": 49.42,
-   "end": 49.66
+   "start": 46.88,
+   "end": 47.12
   },
   {
    "text": "a",
-   "start": 49.66,
-   "end": 49.9
+   "start": 47.12,
+   "end": 47.34
   },
   {
    "text": "transcript,",
-   "start": 49.9,
-   "end": 50.2
+   "start": 47.34,
+   "end": 47.66
   },
   {
    "text": "notes",
-   "start": 50.6,
-   "end": 50.96
+   "start": 48.06,
+   "end": 48.46
   },
   {
    "text": "and",
-   "start": 51.2,
-   "end": 51.26
+   "start": 48.72,
+   "end": 48.86
   },
   {
    "text": "a",
-   "start": 51.26,
-   "end": 51.38
+   "start": 48.86,
+   "end": 48.98
   },
   {
    "text": "website",
-   "start": 51.38,
-   "end": 51.58
+   "start": 48.98,
+   "end": 49.18
   },
   {
    "text": "post,",
-   "start": 51.58,
-   "end": 52.02
+   "start": 49.18,
+   "end": 49.62
   },
   {
    "text": "and",
-   "start": 52.02,
-   "end": 52.68
+   "start": 49.62,
+   "end": 50.16
   },
   {
    "text": "an",
-   "start": 52.68,
-   "end": 52.94
+   "start": 50.16,
+   "end": 50.34
   },
   {
    "text": "editor",
-   "start": 52.94,
-   "end": 53.22
+   "start": 50.34,
+   "end": 50.58
   },
   {
    "text": "approves",
-   "start": 53.22,
-   "end": 53.74
+   "start": 50.58,
+   "end": 51.06
   },
   {
    "text": "it.",
-   "start": 53.74,
-   "end": 53.9
+   "start": 51.06,
+   "end": 51.22
   },
   {
    "text": "My",
-   "start": 53.9,
-   "end": 54.6
+   "start": 51.68,
+   "end": 51.86
   },
   {
    "text": "social",
-   "start": 54.6,
-   "end": 54.86
+   "start": 51.86,
+   "end": 52.1
   },
   {
    "text": "agent",
-   "start": 54.86,
-   "end": 55.3
+   "start": 52.1,
+   "end": 52.54
   },
   {
    "text": "turns",
-   "start": 55.3,
-   "end": 55.64
+   "start": 52.54,
+   "end": 52.86
   },
   {
    "text": "the",
-   "start": 55.64,
-   "end": 55.9
+   "start": 52.86,
+   "end": 53.06
   },
   {
    "text": "sermon",
-   "start": 55.9,
-   "end": 56.12
+   "start": 53.06,
+   "end": 53.32
   },
   {
    "text": "into",
-   "start": 56.12,
-   "end": 56.4
+   "start": 53.32,
+   "end": 53.58
   },
   {
    "text": "posts",
-   "start": 56.4,
-   "end": 56.82
+   "start": 53.58,
+   "end": 53.98
   },
   {
    "text": "for",
-   "start": 56.82,
-   "end": 57.08
+   "start": 53.98,
+   "end": 54.24
   },
   {
    "text": "Instagram",
-   "start": 57.08,
-   "end": 57.52
+   "start": 54.24,
+   "end": 54.66
   },
   {
    "text": "and",
-   "start": 57.52,
-   "end": 57.86
+   "start": 54.66,
+   "end": 54.96
   },
   {
    "text": "Facebook.",
-   "start": 57.86,
-   "end": 58.26
+   "start": 54.96,
+   "end": 55.34
   },
   {
    "text": "Then",
-   "start": 58.98,
-   "end": 59.22
+   "start": 55.34,
+   "end": 56.16
   },
   {
    "text": "my",
-   "start": 59.4,
-   "end": 59.5
+   "start": 56.48,
+   "end": 56.6
   },
   {
    "text": "strategy",
-   "start": 59.5,
-   "end": 59.92
+   "start": 56.6,
+   "end": 56.98
   },
   {
    "text": "agent",
-   "start": 59.92,
-   "end": 60.36
+   "start": 56.98,
+   "end": 57.4
   },
   {
    "text": "reads",
-   "start": 60.36,
-   "end": 60.68
+   "start": 57.4,
+   "end": 57.74
   },
   {
    "text": "what",
-   "start": 60.68,
-   "end": 60.9
+   "start": 57.74,
+   "end": 57.96
   },
   {
    "text": "visitors",
-   "start": 60.9,
-   "end": 61.24
+   "start": 57.96,
+   "end": 58.26
   },
   {
    "text": "asked",
-   "start": 61.24,
-   "end": 61.66
+   "start": 58.26,
+   "end": 58.66
   },
   {
    "text": "the",
-   "start": 61.66,
-   "end": 61.88
+   "start": 58.66,
+   "end": 58.84
   },
   {
    "text": "assistant,",
-   "start": 61.88,
-   "end": 62.3
+   "start": 58.84,
+   "end": 59.26
   },
   {
    "text": "finds",
-   "start": 62.74,
-   "end": 62.98
+   "start": 59.74,
+   "end": 59.96
   },
   {
    "text": "questions",
-   "start": 62.98,
-   "end": 63.36
+   "start": 59.96,
+   "end": 60.3
   },
   {
    "text": "the",
-   "start": 63.36,
-   "end": 63.66
+   "start": 60.3,
+   "end": 60.56
   },
   {
    "text": "website",
-   "start": 63.66,
-   "end": 63.98
+   "start": 60.56,
+   "end": 60.84
   },
   {
    "text": "never",
-   "start": 63.98,
-   "end": 64.38
+   "start": 60.84,
+   "end": 61.24
   },
   {
    "text": "answers,",
-   "start": 64.38,
-   "end": 64.76
+   "start": 61.24,
+   "end": 61.64
   },
   {
    "text": "and",
-   "start": 65.2,
-   "end": 65.44
+   "start": 62.1,
+   "end": 62.22
   },
   {
    "text": "drafts",
-   "start": 65.44,
-   "end": 65.84
+   "start": 62.22,
+   "end": 62.56
   },
   {
    "text": "an",
-   "start": 65.84,
-   "end": 65.94
+   "start": 62.56,
+   "end": 62.62
   },
   {
    "text": "FAQ",
-   "start": 65.94,
-   "end": 66.58
+   "start": 62.62,
+   "end": 63.2
   },
   {
    "text": "for",
-   "start": 66.58,
-   "end": 66.8
+   "start": 63.2,
+   "end": 63.38
   },
   {
    "text": "each",
-   "start": 66.8,
-   "end": 67.06
+   "start": 63.38,
+   "end": 63.6
   },
   {
    "text": "one.",
-   "start": 67.06,
-   "end": 67.32
+   "start": 63.6,
+   "end": 63.86
   },
   {
    "text": "My",
-   "start": 67.9,
-   "end": 68.06
+   "start": 64.4,
+   "end": 64.52
   },
   {
    "text": "GEO",
-   "start": 68.06,
-   "end": 68.33
+   "start": 64.52,
+   "end": 64.775
   },
   {
    "text": "agent",
-   "start": 68.33,
-   "end": 68.78
+   "start": 64.775,
+   "end": 65.2
   },
   {
    "text": "checks",
-   "start": 68.78,
-   "end": 69.06
+   "start": 65.2,
+   "end": 65.48
   },
   {
    "text": "them",
-   "start": 69.06,
-   "end": 69.26
+   "start": 65.48,
+   "end": 65.66
   },
   {
    "text": "against",
-   "start": 69.26,
-   "end": 69.52
+   "start": 65.66,
+   "end": 65.9
   },
   {
    "text": "Google",
-   "start": 69.52,
-   "end": 69.86
+   "start": 65.9,
+   "end": 66.24
   },
   {
    "text": "and",
+   "start": 66.24,
+   "end": 66.48
+  },
+  {
+   "text": "ChatGPT",
+   "start": 66.48,
+   "end": 67.14
+  },
+  {
+   "text": "guidelines",
+   "start": 67.14,
+   "end": 67.52
+  },
+  {
+   "text": "before",
+   "start": 67.52,
+   "end": 68.0
+  },
+  {
+   "text": "they",
+   "start": 68.0,
+   "end": 68.26
+  },
+  {
+   "text": "go",
+   "start": 68.26,
+   "end": 68.4
+  },
+  {
+   "text": "live.",
+   "start": 68.4,
+   "end": 68.7
+  },
+  {
+   "text": "So",
+   "start": 69.28,
+   "end": 69.44
+  },
+  {
+   "text": "when",
+   "start": 69.44,
+   "end": 69.58
+  },
+  {
+   "text": "the",
+   "start": 69.58,
+   "end": 69.68
+  },
+  {
+   "text": "next",
+   "start": 69.68,
+   "end": 69.86
+  },
+  {
+   "text": "family",
    "start": 69.86,
    "end": 70.16
   },
   {
-   "text": "ChatGPT",
+   "text": "asks",
    "start": 70.16,
-   "end": 70.96
+   "end": 70.56
   },
   {
-   "text": "guidelines",
-   "start": 70.96,
+   "text": "ChatGPT",
+   "start": 70.56,
    "end": 71.38
   },
   {
-   "text": "before",
-   "start": 71.38,
-   "end": 71.84
-  },
-  {
-   "text": "they",
-   "start": 71.84,
-   "end": 72.08
-  },
-  {
-   "text": "go",
-   "start": 72.08,
-   "end": 72.22
-  },
-  {
-   "text": "live.",
-   "start": 72.22,
-   "end": 72.54
-  },
-  {
-   "text": "So",
-   "start": 73.08,
-   "end": 73.3
-  },
-  {
-   "text": "when",
-   "start": 73.3,
-   "end": 73.46
-  },
-  {
-   "text": "the",
-   "start": 73.46,
-   "end": 73.56
-  },
-  {
-   "text": "next",
-   "start": 73.56,
-   "end": 73.76
-  },
-  {
-   "text": "family",
-   "start": 73.76,
-   "end": 74.08
-  },
-  {
-   "text": "asks",
-   "start": 74.08,
-   "end": 74.48
-  },
-  {
-   "text": "ChatGPT",
-   "start": 74.48,
-   "end": 75.44
-  },
-  {
    "text": "for",
-   "start": 75.44,
-   "end": 75.7
+   "start": 71.38,
+   "end": 71.62
   },
   {
    "text": "a",
-   "start": 75.7,
-   "end": 75.88
+   "start": 71.62,
+   "end": 71.78
   },
   {
    "text": "church",
-   "start": 75.88,
-   "end": 76.12
+   "start": 71.78,
+   "end": 71.96
   },
   {
    "text": "near",
-   "start": 76.12,
-   "end": 76.34
+   "start": 71.96,
+   "end": 72.18
   },
   {
    "text": "them",
-   "start": 76.34,
-   "end": 76.58
+   "start": 72.18,
+   "end": 72.46
   },
   {
    "text": "with",
-   "start": 76.58,
-   "end": 76.74
+   "start": 72.46,
+   "end": 72.62
   },
   {
    "text": "a",
-   "start": 76.74,
-   "end": 76.88
+   "start": 72.62,
+   "end": 72.78
   },
   {
    "text": "great",
-   "start": 76.88,
-   "end": 77.18
+   "start": 72.78,
+   "end": 73.02
   },
   {
    "text": "kids",
-   "start": 77.18,
-   "end": 77.48
+   "start": 73.02,
+   "end": 73.3
   },
   {
    "text": "ministry,",
-   "start": 77.48,
-   "end": 77.92
+   "start": 73.3,
+   "end": 73.72
   },
   {
    "text": "your",
-   "start": 78.44,
-   "end": 78.64
+   "start": 74.2,
+   "end": 74.4
   },
   {
    "text": "church",
-   "start": 78.64,
-   "end": 79.02
+   "start": 74.4,
+   "end": 74.76
   },
   {
    "text": "is",
-   "start": 79.02,
-   "end": 79.24
+   "start": 74.76,
+   "end": 74.96
   },
   {
    "text": "ready",
-   "start": 79.24,
-   "end": 79.56
+   "start": 74.96,
+   "end": 75.26
   },
   {
    "text": "to",
-   "start": 79.56,
-   "end": 79.76
+   "start": 75.26,
+   "end": 75.42
   },
   {
    "text": "be",
-   "start": 79.76,
-   "end": 79.88
+   "start": 75.42,
+   "end": 75.56
   },
   {
    "text": "the",
-   "start": 79.88,
-   "end": 80.04
+   "start": 75.56,
+   "end": 75.7
   },
   {
    "text": "answer,",
-   "start": 80.04,
-   "end": 80.32
+   "start": 75.7,
+   "end": 75.96
   },
   {
    "text": "and",
-   "start": 80.78,
-   "end": 80.96
+   "start": 76.36,
+   "end": 76.54
   },
   {
    "text": "the",
-   "start": 80.96,
-   "end": 81.06
+   "start": 76.54,
+   "end": 76.66
   },
   {
    "text": "whole",
-   "start": 81.06,
-   "end": 81.36
+   "start": 76.66,
+   "end": 76.94
   },
   {
    "text": "flywheel",
-   "start": 81.36,
-   "end": 81.88
+   "start": 76.94,
+   "end": 77.4
   },
   {
    "text": "starts",
-   "start": 81.88,
-   "end": 82.22
+   "start": 77.4,
+   "end": 77.7
   },
   {
    "text": "again.",
-   "start": 82.22,
-   "end": 82.58
+   "start": 77.7,
+   "end": 78.04
   },
   {
    "text": "We",
-   "start": 82.58,
-   "end": 83.3
+   "start": 78.5,
+   "end": 78.64
   },
   {
    "text": "built",
-   "start": 83.3,
-   "end": 83.58
+   "start": 78.64,
+   "end": 78.86
   },
   {
    "text": "a",
-   "start": 83.58,
-   "end": 83.68
+   "start": 78.86,
+   "end": 78.96
   },
   {
    "text": "system",
-   "start": 83.68,
-   "end": 84.02
+   "start": 78.96,
+   "end": 79.3
   },
   {
    "text": "that",
-   "start": 84.02,
-   "end": 84.22
+   "start": 79.3,
+   "end": 79.48
   },
   {
    "text": "turns",
-   "start": 84.22,
-   "end": 84.54
+   "start": 79.48,
+   "end": 79.76
   },
   {
    "text": "your",
-   "start": 84.54,
-   "end": 84.7
+   "start": 79.76,
+   "end": 79.92
   },
   {
    "text": "church",
-   "start": 84.7,
-   "end": 84.96
+   "start": 79.92,
+   "end": 80.16
   },
   {
    "text": "website",
-   "start": 84.96,
-   "end": 85.42
+   "start": 80.16,
+   "end": 80.6
   },
   {
    "text": "into",
-   "start": 85.42,
-   "end": 85.76
+   "start": 80.6,
+   "end": 80.88
   },
   {
    "text": "this",
-   "start": 85.76,
-   "end": 86.0
+   "start": 80.88,
+   "end": 81.1
   },
   {
    "text": "digital",
-   "start": 86.0,
-   "end": 86.44
+   "start": 81.1,
+   "end": 81.5
   },
   {
    "text": "front",
-   "start": 86.44,
-   "end": 86.76
+   "start": 81.5,
+   "end": 81.82
   },
   {
    "text": "door.",
-   "start": 86.76,
-   "end": 87.08
+   "start": 81.82,
+   "end": 82.14
   },
   {
    "text": "If",
-   "start": 87.66,
-   "end": 87.8
+   "start": 82.14,
+   "end": 82.76
   },
   {
    "text": "you",
-   "start": 87.8,
-   "end": 87.92
+   "start": 82.76,
+   "end": 82.88
   },
   {
    "text": "lead",
-   "start": 87.92,
-   "end": 88.1
+   "start": 82.88,
+   "end": 83.04
   },
   {
    "text": "a",
-   "start": 88.1,
-   "end": 88.2
+   "start": 83.04,
+   "end": 83.12
   },
   {
    "text": "church,",
-   "start": 88.2,
-   "end": 88.48
+   "start": 83.12,
+   "end": 83.36
   },
   {
    "text": "comment",
-   "start": 88.86,
-   "end": 89.18
+   "start": 83.7,
+   "end": 84.02
   },
   {
    "text": "BUILD",
-   "start": 89.54,
-   "end": 89.64
+   "start": 84.02,
+   "end": 84.48
   },
   {
    "text": "and",
-   "start": 90.0,
-   "end": 90.1
+   "start": 84.48,
+   "end": 84.9
   },
   {
    "text": "I'll",
-   "start": 90.1,
-   "end": 90.24
+   "start": 84.9,
+   "end": 85.04
   },
   {
    "text": "send",
-   "start": 90.24,
-   "end": 90.4
+   "start": 85.04,
+   "end": 85.18
   },
   {
    "text": "it",
-   "start": 90.4,
-   "end": 90.54
+   "start": 85.18,
+   "end": 85.32
   },
   {
    "text": "over.",
-   "start": 90.54,
-   "end": 90.74
+   "start": 85.32,
+   "end": 85.48
   }
  ]
 }

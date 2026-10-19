@@ -1,0 +1,5 @@
+When a question comes in, the assistant pulls the approved knowledge that matches it.
+
+Then it answers like a friendly person texting back, using only those facts. And it remembers the conversation, so follow-up questions just work.
+
+If the answer isn't in the church's knowledge, it says it's not sure and points them to the church office, instead of guessing.

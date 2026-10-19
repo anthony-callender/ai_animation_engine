@@ -1,0 +1,5 @@
+It cuts the sermon audio into an MP3, so people can listen on the website.
+
+Next, my notes agent writes a summary and study notes, and flags anything the preacher didn't actually say.
+
+The title, preacher and scripture come from the church's approved details, not from AI.
