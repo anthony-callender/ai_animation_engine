@@ -1,0 +1,156 @@
+{
+ "template": "flywheel",
+ "headline": [
+  "SELL YOUR ",
+  "CHURCH CLIENTS",
+  "THESE 3 AI SYSTEMS"
+ ],
+ "label": "Example church · illustration",
+ "keyword": "AGENCY",
+ "cta": [
+  "Get the AI service menu",
+  "for church agencies"
+ ],
+ "ctaPhrase": "Comment AGENCY and",
+ "ctaSub": "Comment AGENCY and I'll send it 🙌",
+ "ctaNote": "(white-label: your brand, my build)",
+ "loop": false,
+ "host": {
+  "image": "assets/tony-head.png",
+  "bubbles": [
+   {
+    "text": "Can you add AI to our website?",
+    "word": "ask"
+   }
+  ]
+ },
+ "nodes": [
+  {
+   "phrase": "A website assistant that",
+   "pill": [
+    "SELL 1",
+    "Website assistant",
+    "9 PM"
+   ],
+   "title": "Website assistant",
+   "sub": "Only approved facts",
+   "emoji": "💬",
+   "tint": "#1d2b22",
+   "panel": {
+    "type": "chat",
+    "title": "Church website · chat",
+    "edge": "green",
+    "height": 420,
+    "messages": [
+     {
+      "who": "visitor",
+      "text": "What time is service?",
+      "word": "visitors"
+     },
+     {
+      "who": "bot",
+      "text": "Sundays at 10 AM 🙂",
+      "word": "approved"
+     },
+     {
+      "who": "visitor",
+      "text": "Can I book the hall?",
+      "word": "sure"
+     },
+     {
+      "who": "bot",
+      "text": "The church office can help!",
+      "word": "office"
+     }
+    ]
+   }
+  },
+  {
+   "phrase": "A sermon workflow",
+   "pill": [
+    "SELL 2",
+    "Sermon workflow",
+    "Every Sunday"
+   ],
+   "title": "Sermon workflow",
+   "sub": "Video in, draft out",
+   "emoji": "🎥",
+   "tint": "#2d2619",
+   "panel": {
+    "type": "media",
+    "title": "Sunday service video",
+    "scanSeconds": 3,
+    "working": "Finding the sermon…",
+    "ready": "Sermon post ready ✓",
+    "pills": [
+     [
+      "Sermon post",
+      "post"
+     ],
+     [
+      "WordPress draft",
+      "draft"
+     ]
+    ],
+    "final": {
+     "text": "A person hits publish ✓",
+     "word": "publish"
+    }
+   }
+  },
+  {
+   "phrase": "AI search readiness",
+   "pill": [
+    "SELL 3",
+    "AI search readiness",
+    "Always on"
+   ],
+   "title": "Found by AI",
+   "sub": "ChatGPT + Google AI",
+   "emoji": "🔍",
+   "tint": "#172a2a",
+   "panel": {
+    "type": "answer",
+    "title": "AI answer · illustration",
+    "question": "Church near me with a great kids ministry?",
+    "result": {
+     "title": "Example Church",
+     "sub": "Clear answers families need",
+     "word": "find",
+     "emoji": "⛪"
+    }
+   }
+  },
+  {
+   "phrase": "You don't need to",
+   "pill": [
+    "",
+    "Your brand, my build",
+    ""
+   ],
+   "title": "For agencies",
+   "sub": "White-label",
+   "emoji": "🤝",
+   "tint": "#1c2134",
+   "panel": {
+    "type": "checklist",
+    "title": "How it works for your agency",
+    "height": 330,
+    "items": [
+     [
+      "No developers to hire",
+      "developers"
+     ],
+     [
+      "Built for agencies",
+      "agencies"
+     ],
+     [
+      "Under your brand",
+      "brand"
+     ]
+    ]
+   }
+  }
+ ]
+}

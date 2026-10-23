@@ -1,0 +1,714 @@
+{
+ "meta": {
+  "duration": 42.318,
+  "voice": "../01_voice/voice.mp3",
+  "slug": "ai-search-myths-reel",
+  "music": null,
+  "music_gain": 0.25
+ },
+ "cueList": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "end": 3.16,
+   "phraseEnd": 1.2,
+   "phrase": "Three myths about getting",
+   "text": "Three myths about getting",
+   "note": "Opening title. Stamp 3 MYTHS; three tilted MYTH cards fan in.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "m1",
+   "start": 3.16,
+   "end": 11.4,
+   "phraseEnd": 4.64,
+   "phrase": "Myth one: you need",
+   "text": "Myth one: you need",
+   "note": "MYTH 1. A file card \"llms.txt (for Google)\". Red X when Google \"doesn't use them\"; tags DOESN'T HELP / DOESN'T HURT.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "m2",
+   "start": 11.4,
+   "end": 20.18,
+   "phraseEnd": 12.84,
+   "phrase": "Myth two: you have",
+   "text": "Myth two: you have",
+   "note": "MYTH 2. A card \"✨ Special AI language ✨\" and a ruler \"ideal page length?\". Red X on \"no\"; tags NO IDEAL LENGTH, NO MAGIC PHRASING.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "m3",
+   "start": 20.18,
+   "end": 28.8,
+   "phraseEnd": 21.86,
+   "phrase": "Myth three: someone can",
+   "text": "Myth three: someone can",
+   "note": "MYTH 3. A gold badge \"GUARANTEED #1 IN CHATGPT\". Red X on \"controls\"; tag GOOGLE WARNS ABOUT THIS.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "works",
+   "start": 28.8,
+   "end": 33.86,
+   "phraseEnd": 30.9,
+   "phrase": "So what actually works?",
+   "text": "So what actually works?",
+   "note": "The Google quote card with STILL SEO highlighted (Google Search Central, May 2026).",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "do",
+   "start": 33.86,
+   "end": 39.5,
+   "phraseEnd": 35.04,
+   "phrase": "Be findable, keep",
+   "text": "Be findable, keep",
+   "note": "A checklist card: Be findable, Complete Business Profile, Answer real questions, each ticking as spoken.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "cta",
+   "start": 39.5,
+   "end": 42.318,
+   "phraseEnd": 40.58,
+   "phrase": "Comment FOUND and",
+   "text": "Comment FOUND and",
+   "note": "The FOUND checklist card and a comment box typing FOUND.",
+   "score": 1.0,
+   "sfx": []
+  }
+ ],
+ "cues": {
+  "hook": {
+   "id": "hook",
+   "start": 0.0,
+   "end": 3.16,
+   "phraseEnd": 1.2,
+   "phrase": "Three myths about getting",
+   "text": "Three myths about getting",
+   "note": "Opening title. Stamp 3 MYTHS; three tilted MYTH cards fan in.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "m1": {
+   "id": "m1",
+   "start": 3.16,
+   "end": 11.4,
+   "phraseEnd": 4.64,
+   "phrase": "Myth one: you need",
+   "text": "Myth one: you need",
+   "note": "MYTH 1. A file card \"llms.txt (for Google)\". Red X when Google \"doesn't use them\"; tags DOESN'T HELP / DOESN'T HURT.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "m2": {
+   "id": "m2",
+   "start": 11.4,
+   "end": 20.18,
+   "phraseEnd": 12.84,
+   "phrase": "Myth two: you have",
+   "text": "Myth two: you have",
+   "note": "MYTH 2. A card \"✨ Special AI language ✨\" and a ruler \"ideal page length?\". Red X on \"no\"; tags NO IDEAL LENGTH, NO MAGIC PHRASING.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "m3": {
+   "id": "m3",
+   "start": 20.18,
+   "end": 28.8,
+   "phraseEnd": 21.86,
+   "phrase": "Myth three: someone can",
+   "text": "Myth three: someone can",
+   "note": "MYTH 3. A gold badge \"GUARANTEED #1 IN CHATGPT\". Red X on \"controls\"; tag GOOGLE WARNS ABOUT THIS.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "works": {
+   "id": "works",
+   "start": 28.8,
+   "end": 33.86,
+   "phraseEnd": 30.9,
+   "phrase": "So what actually works?",
+   "text": "So what actually works?",
+   "note": "The Google quote card with STILL SEO highlighted (Google Search Central, May 2026).",
+   "score": 1.0,
+   "sfx": []
+  },
+  "do": {
+   "id": "do",
+   "start": 33.86,
+   "end": 39.5,
+   "phraseEnd": 35.04,
+   "phrase": "Be findable, keep",
+   "text": "Be findable, keep",
+   "note": "A checklist card: Be findable, Complete Business Profile, Answer real questions, each ticking as spoken.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "cta": {
+   "id": "cta",
+   "start": 39.5,
+   "end": 42.318,
+   "phraseEnd": 40.58,
+   "phrase": "Comment FOUND and",
+   "text": "Comment FOUND and",
+   "note": "The FOUND checklist card and a comment box typing FOUND.",
+   "score": 1.0,
+   "sfx": []
+  }
+ },
+ "words": [
+  {
+   "text": "Three",
+   "start": 0.0,
+   "end": 0.26
+  },
+  {
+   "text": "myths",
+   "start": 0.26,
+   "end": 0.72
+  },
+  {
+   "text": "about",
+   "start": 0.72,
+   "end": 0.9
+  },
+  {
+   "text": "getting",
+   "start": 0.9,
+   "end": 1.2
+  },
+  {
+   "text": "your",
+   "start": 1.2,
+   "end": 1.38
+  },
+  {
+   "text": "church",
+   "start": 1.38,
+   "end": 1.7
+  },
+  {
+   "text": "found",
+   "start": 1.7,
+   "end": 1.98
+  },
+  {
+   "text": "by",
+   "start": 1.98,
+   "end": 2.24
+  },
+  {
+   "text": "AI.",
+   "start": 2.24,
+   "end": 2.56
+  },
+  {
+   "text": "Myth",
+   "start": 3.16,
+   "end": 3.46
+  },
+  {
+   "text": "one:",
+   "start": 3.46,
+   "end": 3.78
+  },
+  {
+   "text": "you",
+   "start": 4.36,
+   "end": 4.46
+  },
+  {
+   "text": "need",
+   "start": 4.46,
+   "end": 4.64
+  },
+  {
+   "text": "an",
+   "start": 4.64,
+   "end": 4.78
+  },
+  {
+   "text": "llms.txt",
+   "start": 4.78,
+   "end": 5.92
+  },
+  {
+   "text": "file.",
+   "start": 5.92,
+   "end": 6.28
+  },
+  {
+   "text": "Google",
+   "start": 6.86,
+   "end": 7.04
+  },
+  {
+   "text": "says",
+   "start": 7.04,
+   "end": 7.34
+  },
+  {
+   "text": "its",
+   "start": 7.34,
+   "end": 7.54
+  },
+  {
+   "text": "search",
+   "start": 7.54,
+   "end": 7.84
+  },
+  {
+   "text": "doesn't",
+   "start": 7.84,
+   "end": 8.3
+  },
+  {
+   "text": "use",
+   "start": 8.3,
+   "end": 8.52
+  },
+  {
+   "text": "them.",
+   "start": 8.52,
+   "end": 8.72
+  },
+  {
+   "text": "They",
+   "start": 9.16,
+   "end": 9.28
+  },
+  {
+   "text": "don't",
+   "start": 9.28,
+   "end": 9.44
+  },
+  {
+   "text": "help,",
+   "start": 9.44,
+   "end": 9.68
+  },
+  {
+   "text": "and",
+   "start": 9.96,
+   "end": 10.2
+  },
+  {
+   "text": "they",
+   "start": 10.2,
+   "end": 10.38
+  },
+  {
+   "text": "don't",
+   "start": 10.38,
+   "end": 10.56
+  },
+  {
+   "text": "hurt.",
+   "start": 10.56,
+   "end": 10.76
+  },
+  {
+   "text": "Myth",
+   "start": 11.4,
+   "end": 11.6
+  },
+  {
+   "text": "two:",
+   "start": 11.6,
+   "end": 11.9
+  },
+  {
+   "text": "you",
+   "start": 12.5,
+   "end": 12.6
+  },
+  {
+   "text": "have",
+   "start": 12.6,
+   "end": 12.84
+  },
+  {
+   "text": "to",
+   "start": 12.84,
+   "end": 13.0
+  },
+  {
+   "text": "rewrite",
+   "start": 13.0,
+   "end": 13.3
+  },
+  {
+   "text": "your",
+   "start": 13.3,
+   "end": 13.44
+  },
+  {
+   "text": "website",
+   "start": 13.44,
+   "end": 13.9
+  },
+  {
+   "text": "in",
+   "start": 13.9,
+   "end": 14.04
+  },
+  {
+   "text": "special",
+   "start": 14.04,
+   "end": 14.38
+  },
+  {
+   "text": "AI",
+   "start": 14.38,
+   "end": 14.76
+  },
+  {
+   "text": "language.",
+   "start": 14.76,
+   "end": 15.24
+  },
+  {
+   "text": "Google",
+   "start": 15.82,
+   "end": 16.06
+  },
+  {
+   "text": "says",
+   "start": 16.06,
+   "end": 16.3
+  },
+  {
+   "text": "no.",
+   "start": 16.3,
+   "end": 16.6
+  },
+  {
+   "text": "There's",
+   "start": 17.02,
+   "end": 17.22
+  },
+  {
+   "text": "no",
+   "start": 17.22,
+   "end": 17.4
+  },
+  {
+   "text": "ideal",
+   "start": 17.4,
+   "end": 17.7
+  },
+  {
+   "text": "page",
+   "start": 17.7,
+   "end": 17.96
+  },
+  {
+   "text": "length,",
+   "start": 17.96,
+   "end": 18.3
+  },
+  {
+   "text": "and",
+   "start": 18.3,
+   "end": 18.62
+  },
+  {
+   "text": "no",
+   "start": 18.62,
+   "end": 18.9
+  },
+  {
+   "text": "magic",
+   "start": 18.9,
+   "end": 19.2
+  },
+  {
+   "text": "phrasing.",
+   "start": 19.2,
+   "end": 19.64
+  },
+  {
+   "text": "Myth",
+   "start": 20.18,
+   "end": 20.44
+  },
+  {
+   "text": "three:",
+   "start": 20.44,
+   "end": 20.78
+  },
+  {
+   "text": "someone",
+   "start": 21.38,
+   "end": 21.64
+  },
+  {
+   "text": "can",
+   "start": 21.64,
+   "end": 21.86
+  },
+  {
+   "text": "guarantee",
+   "start": 21.86,
+   "end": 22.44
+  },
+  {
+   "text": "you'll",
+   "start": 22.44,
+   "end": 22.88
+  },
+  {
+   "text": "show",
+   "start": 22.88,
+   "end": 23.0
+  },
+  {
+   "text": "up",
+   "start": 23.0,
+   "end": 23.16
+  },
+  {
+   "text": "first",
+   "start": 23.16,
+   "end": 23.44
+  },
+  {
+   "text": "in",
+   "start": 23.44,
+   "end": 23.66
+  },
+  {
+   "text": "ChatGPT.",
+   "start": 23.66,
+   "end": 24.28
+  },
+  {
+   "text": "Nobody",
+   "start": 24.78,
+   "end": 25.24
+  },
+  {
+   "text": "controls",
+   "start": 25.24,
+   "end": 25.72
+  },
+  {
+   "text": "that.",
+   "start": 25.72,
+   "end": 26.0
+  },
+  {
+   "text": "Google",
+   "start": 26.38,
+   "end": 26.7
+  },
+  {
+   "text": "even",
+   "start": 26.7,
+   "end": 26.96
+  },
+  {
+   "text": "warns",
+   "start": 26.96,
+   "end": 27.48
+  },
+  {
+   "text": "about",
+   "start": 27.48,
+   "end": 27.62
+  },
+  {
+   "text": "tools",
+   "start": 27.62,
+   "end": 27.92
+  },
+  {
+   "text": "that",
+   "start": 27.92,
+   "end": 28.12
+  },
+  {
+   "text": "promise",
+   "start": 28.12,
+   "end": 28.38
+  },
+  {
+   "text": "rankings.",
+   "start": 28.38,
+   "end": 28.8
+  },
+  {
+   "text": "So",
+   "start": 28.8,
+   "end": 29.62
+  },
+  {
+   "text": "what",
+   "start": 29.98,
+   "end": 30.14
+  },
+  {
+   "text": "actually",
+   "start": 30.14,
+   "end": 30.52
+  },
+  {
+   "text": "works?",
+   "start": 30.52,
+   "end": 30.9
+  },
+  {
+   "text": "Google",
+   "start": 31.46,
+   "end": 31.72
+  },
+  {
+   "text": "calls",
+   "start": 31.72,
+   "end": 32.08
+  },
+  {
+   "text": "it",
+   "start": 32.08,
+   "end": 32.26
+  },
+  {
+   "text": "still",
+   "start": 32.26,
+   "end": 32.7
+  },
+  {
+   "text": "SEO.",
+   "start": 32.7,
+   "end": 33.2
+  },
+  {
+   "text": "Be",
+   "start": 33.86,
+   "end": 33.94
+  },
+  {
+   "text": "findable,",
+   "start": 33.94,
+   "end": 34.48
+  },
+  {
+   "text": "keep",
+   "start": 34.88,
+   "end": 35.04
+  },
+  {
+   "text": "your",
+   "start": 35.04,
+   "end": 35.2
+  },
+  {
+   "text": "Google",
+   "start": 35.2,
+   "end": 35.4
+  },
+  {
+   "text": "Business",
+   "start": 35.4,
+   "end": 35.66
+  },
+  {
+   "text": "Profile",
+   "start": 35.66,
+   "end": 36.16
+  },
+  {
+   "text": "complete,",
+   "start": 36.16,
+   "end": 36.54
+  },
+  {
+   "text": "and",
+   "start": 37.02,
+   "end": 37.04
+  },
+  {
+   "text": "answer",
+   "start": 37.04,
+   "end": 37.34
+  },
+  {
+   "text": "the",
+   "start": 37.34,
+   "end": 37.46
+  },
+  {
+   "text": "questions",
+   "start": 37.46,
+   "end": 37.78
+  },
+  {
+   "text": "families",
+   "start": 37.78,
+   "end": 38.3
+  },
+  {
+   "text": "really",
+   "start": 38.3,
+   "end": 38.7
+  },
+  {
+   "text": "ask.",
+   "start": 38.7,
+   "end": 39.12
+  },
+  {
+   "text": "Comment",
+   "start": 39.5,
+   "end": 39.82
+  },
+  {
+   "text": "FOUND",
+   "start": 39.82,
+   "end": 40.18
+  },
+  {
+   "text": "and",
+   "start": 40.18,
+   "end": 40.58
+  },
+  {
+   "text": "I'll",
+   "start": 40.58,
+   "end": 40.78
+  },
+  {
+   "text": "send",
+   "start": 40.78,
+   "end": 40.92
+  },
+  {
+   "text": "you",
+   "start": 40.92,
+   "end": 41.04
+  },
+  {
+   "text": "the",
+   "start": 41.04,
+   "end": 41.14
+  },
+  {
+   "text": "free",
+   "start": 41.14,
+   "end": 41.3
+  },
+  {
+   "text": "checklist.",
+   "start": 41.3,
+   "end": 41.56
+  }
+ ]
+}

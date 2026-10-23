@@ -1,7 +1,8 @@
 """sound.py: sound effects + a light music bed on a finished reel, without re-rendering frames.
 
   python pipeline/sound.py library            generate _shared/sound/*.mp3 once (ElevenLabs sound effects + music, paid plan)
-  python pipeline/sound.py mix <slug> [kit]   05_render/<slug>.mp4 -> 05_render/<slug>-final.mp4 (video copied, audio remixed)
+  python pipeline/sound.py mix <slug> [kit] [music]   05_render/<slug>.mp4 -> 05_render/<slug>-final.mp4 (video copied, audio remixed)
+  music: a MUSIC name to override the kit's bed, e.g. music-founder (the founder-vibe bed, from 2026-10-21)
 
 Placement (restraint: one sound per visual event):
   main cue (a new step/scene)   -> whoosh, timed so its peak lands on the cut
@@ -39,10 +40,15 @@ MUSIC = {  # name: (prompt, seconds)
                  "gentle light percussion, around 100 BPM, steady and unobtrusive, no build-ups, no drops, no vocals.", 100),
     "music-paper": ("Light, warm, playful acoustic background music for an explainer video. Soft ukulele, light piano, "
                     "gentle finger snaps, around 105 BPM, cheerful and unobtrusive, steady, no vocals.", 100),
+    "music-founder": ("Upbeat, confident modern background music for a founder / entrepreneur video. Driving but relaxed "
+                      "hip-hop groove with a punchy kick, crisp claps, deep warm bass, muted electric guitar and a subtle "
+                      "synth motif, around 100 BPM, focused momentum, cool and motivated, not cheesy, not epic, not cute, "
+                      "no ukulele, no whistling, no big drops, steady energy throughout, no vocals.", 100),
 }
 KITS = {"ui": dict(whoosh="whoosh", ding="ding", pop="pop", success="success", music="music-ui"),
         "paper": dict(whoosh="paper-whoosh", ding="ding", pop="paper-pop", success="success", music="music-paper")}
 GAIN = dict(whoosh=0.30, ding=0.22, pop=0.18, success=0.30)
+BED_LUFS = {"music-founder": -32}  # music level before ducking; default -36, the founder bed sits a little more forward
 
 
 def post(path: str, body: dict) -> bytes:
@@ -92,7 +98,7 @@ def events(d: Path) -> list:
     return sorted(ev)
 
 
-def cmd_mix(slug: str, kit_name: str = "ui") -> None:
+def cmd_mix(slug: str, kit_name: str = "ui", music_name: str = "") -> None:
     d, kit = ROOT / "videos" / slug, KITS[kit_name]
     src, voice, out = d / "05_render" / f"{slug}.mp4", d / "01_voice" / "voice.mp3", d / "05_render" / f"{slug}-final.mp4"
     dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(src)], capture_output=True, text=True).stdout)
@@ -108,10 +114,11 @@ def cmd_mix(slug: str, kit_name: str = "ui") -> None:
     tmp = d / "05_render" / "_mix"
     tmp.mkdir(exist_ok=True)
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "f32le", "-ar", str(SR), "-ac", "1", "-i", "-", str(tmp / "fx.wav")], input=fx.tobytes(), check=True)
-    music = LIB / f"{kit['music']}.mp3"
+    music_name = music_name or kit["music"]
+    music = LIB / f"{music_name}.mp3"
     fc = (f"[1:a]aresample={SR},aformat=channel_layouts=mono,asplit=2[v1][v2];"
           f"[2:a]aresample={SR},aformat=channel_layouts=mono,aloop=loop=-1:size={int(100 * SR)},atrim=0:{dur:.3f},"
-          f"loudnorm=I=-36:TP=-9:LRA=7,afade=t=in:d=1.2,afade=t=out:st={max(0, dur - 2.5):.3f}:d=2.5[m];"
+          f"loudnorm=I={BED_LUFS.get(music_name, -36)}:TP=-9:LRA=7,afade=t=in:d=1.2,afade=t=out:st={max(0, dur - 2.5):.3f}:d=2.5[m];"
           f"[m][v1]sidechaincompress=threshold=0.03:ratio=4:attack=30:release=600[bed];"
           f"[v2][bed][3:a]amix=inputs=3:normalize=0:duration=first,loudnorm=I=-14:TP=-1.5:LRA=11,aresample={SR}[a]")
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(src), "-i", str(voice), "-i", str(music), "-i", str(tmp / "fx.wav"),
@@ -125,7 +132,7 @@ def cmd_mix(slug: str, kit_name: str = "ui") -> None:
 
 def main() -> None:
     if len(sys.argv) >= 2 and sys.argv[1] == "library": cmd_library()
-    elif len(sys.argv) >= 3 and sys.argv[1] == "mix": cmd_mix(sys.argv[2], *(sys.argv[3:4]))
+    elif len(sys.argv) >= 3 and sys.argv[1] == "mix": cmd_mix(sys.argv[2], *(sys.argv[3:5]))
     else: sys.exit(__doc__)
 
 

@@ -1,0 +1,682 @@
+{
+ "voice": "voice.mp3",
+ "duration": 52.219,
+ "model": "small",
+ "words": [
+  {
+   "text": "Christian,",
+   "start": 0.0,
+   "end": 0.3
+  },
+  {
+   "text": "being",
+   "start": 0.72,
+   "end": 1.0
+  },
+  {
+   "text": "ambitious",
+   "start": 1.0,
+   "end": 1.46
+  },
+  {
+   "text": "is",
+   "start": 1.46,
+   "end": 1.9
+  },
+  {
+   "text": "not",
+   "start": 1.9,
+   "end": 2.18
+  },
+  {
+   "text": "a",
+   "start": 2.18,
+   "end": 2.32
+  },
+  {
+   "text": "sin.",
+   "start": 2.32,
+   "end": 2.54
+  },
+  {
+   "text": "There's",
+   "start": 3.06,
+   "end": 3.28
+  },
+  {
+   "text": "a",
+   "start": 3.28,
+   "end": 3.38
+  },
+  {
+   "text": "virtue",
+   "start": 3.38,
+   "end": 3.58
+  },
+  {
+   "text": "called",
+   "start": 3.58,
+   "end": 3.94
+  },
+  {
+   "text": "magnanimity.",
+   "start": 3.94,
+   "end": 4.74
+  },
+  {
+   "text": "Aristotle",
+   "start": 5.2,
+   "end": 5.54
+  },
+  {
+   "text": "wrote",
+   "start": 5.54,
+   "end": 5.88
+  },
+  {
+   "text": "about",
+   "start": 5.88,
+   "end": 6.12
+  },
+  {
+   "text": "it,",
+   "start": 6.12,
+   "end": 6.3
+  },
+  {
+   "text": "and",
+   "start": 6.54,
+   "end": 6.64
+  },
+  {
+   "text": "Saint",
+   "start": 6.64,
+   "end": 6.84
+  },
+  {
+   "text": "Thomas",
+   "start": 6.94,
+   "end": 7.1
+  },
+  {
+   "text": "Aquinas",
+   "start": 7.1,
+   "end": 7.52
+  },
+  {
+   "text": "developed",
+   "start": 7.52,
+   "end": 7.98
+  },
+  {
+   "text": "it",
+   "start": 7.98,
+   "end": 8.18
+  },
+  {
+   "text": "within",
+   "start": 8.18,
+   "end": 8.44
+  },
+  {
+   "text": "Christian",
+   "start": 8.44,
+   "end": 8.76
+  },
+  {
+   "text": "thought.",
+   "start": 8.76,
+   "end": 9.1
+  },
+  {
+   "text": "It's",
+   "start": 9.54,
+   "end": 9.72
+  },
+  {
+   "text": "about",
+   "start": 9.72,
+   "end": 9.86
+  },
+  {
+   "text": "aspiring",
+   "start": 9.86,
+   "end": 10.38
+  },
+  {
+   "text": "to",
+   "start": 10.38,
+   "end": 10.58
+  },
+  {
+   "text": "great",
+   "start": 10.58,
+   "end": 10.88
+  },
+  {
+   "text": "things,",
+   "start": 10.88,
+   "end": 11.36
+  },
+  {
+   "text": "for",
+   "start": 11.62,
+   "end": 11.8
+  },
+  {
+   "text": "the",
+   "start": 11.8,
+   "end": 11.92
+  },
+  {
+   "text": "right",
+   "start": 11.92,
+   "end": 12.06
+  },
+  {
+   "text": "reasons.",
+   "start": 12.06,
+   "end": 12.44
+  },
+  {
+   "text": "And",
+   "start": 12.98,
+   "end": 13.16
+  },
+  {
+   "text": "brother,",
+   "start": 13.16,
+   "end": 13.32
+  },
+  {
+   "text": "you",
+   "start": 13.78,
+   "end": 13.86
+  },
+  {
+   "text": "can",
+   "start": 13.86,
+   "end": 14.0
+  },
+  {
+   "text": "become",
+   "start": 14.0,
+   "end": 14.24
+  },
+  {
+   "text": "excellent",
+   "start": 14.24,
+   "end": 14.78
+  },
+  {
+   "text": "without",
+   "start": 14.78,
+   "end": 15.18
+  },
+  {
+   "text": "becoming",
+   "start": 15.18,
+   "end": 15.62
+  },
+  {
+   "text": "proud.",
+   "start": 15.62,
+   "end": 15.96
+  },
+  {
+   "text": "Bold",
+   "start": 16.44,
+   "end": 16.78
+  },
+  {
+   "text": "without",
+   "start": 16.78,
+   "end": 17.3
+  },
+  {
+   "text": "becoming",
+   "start": 17.3,
+   "end": 17.66
+  },
+  {
+   "text": "harsh.",
+   "start": 17.66,
+   "end": 17.94
+  },
+  {
+   "text": "Successful",
+   "start": 18.64,
+   "end": 19.2
+  },
+  {
+   "text": "without",
+   "start": 19.2,
+   "end": 19.62
+  },
+  {
+   "text": "becoming",
+   "start": 19.62,
+   "end": 20.06
+  },
+  {
+   "text": "corrupt.",
+   "start": 20.06,
+   "end": 20.4
+  },
+  {
+   "text": "Maybe",
+   "start": 20.96,
+   "end": 21.24
+  },
+  {
+   "text": "you're",
+   "start": 21.24,
+   "end": 21.42
+  },
+  {
+   "text": "called",
+   "start": 21.42,
+   "end": 21.62
+  },
+  {
+   "text": "to",
+   "start": 21.62,
+   "end": 21.8
+  },
+  {
+   "text": "fix",
+   "start": 21.8,
+   "end": 21.98
+  },
+  {
+   "text": "roofs.",
+   "start": 21.98,
+   "end": 22.32
+  },
+  {
+   "text": "Then",
+   "start": 22.92,
+   "end": 23.12
+  },
+  {
+   "text": "become",
+   "start": 23.12,
+   "end": 23.38
+  },
+  {
+   "text": "excellent",
+   "start": 23.38,
+   "end": 24.04
+  },
+  {
+   "text": "at",
+   "start": 24.04,
+   "end": 24.32
+  },
+  {
+   "text": "fixing",
+   "start": 24.32,
+   "end": 24.56
+  },
+  {
+   "text": "roofs.",
+   "start": 24.56,
+   "end": 24.94
+  },
+  {
+   "text": "Maybe",
+   "start": 25.52,
+   "end": 25.78
+  },
+  {
+   "text": "you're",
+   "start": 25.78,
+   "end": 25.96
+  },
+  {
+   "text": "a",
+   "start": 25.96,
+   "end": 26.06
+  },
+  {
+   "text": "baker.",
+   "start": 26.06,
+   "end": 26.26
+  },
+  {
+   "text": "Make",
+   "start": 26.84,
+   "end": 26.98
+  },
+  {
+   "text": "the",
+   "start": 26.98,
+   "end": 27.14
+  },
+  {
+   "text": "best",
+   "start": 27.14,
+   "end": 27.58
+  },
+  {
+   "text": "bread",
+   "start": 27.58,
+   "end": 27.86
+  },
+  {
+   "text": "in",
+   "start": 27.86,
+   "end": 28.04
+  },
+  {
+   "text": "your",
+   "start": 28.04,
+   "end": 28.14
+  },
+  {
+   "text": "town.",
+   "start": 28.14,
+   "end": 28.44
+  },
+  {
+   "text": "Maybe",
+   "start": 28.44,
+   "end": 29.2
+  },
+  {
+   "text": "you're",
+   "start": 29.2,
+   "end": 29.38
+  },
+  {
+   "text": "a",
+   "start": 29.38,
+   "end": 29.46
+  },
+  {
+   "text": "programmer.",
+   "start": 29.46,
+   "end": 29.82
+  },
+  {
+   "text": "Build",
+   "start": 30.26,
+   "end": 30.54
+  },
+  {
+   "text": "technology",
+   "start": 30.54,
+   "end": 31.12
+  },
+  {
+   "text": "that",
+   "start": 31.12,
+   "end": 31.34
+  },
+  {
+   "text": "genuinely",
+   "start": 31.34,
+   "end": 31.84
+  },
+  {
+   "text": "helps",
+   "start": 31.84,
+   "end": 32.36
+  },
+  {
+   "text": "people.",
+   "start": 32.36,
+   "end": 32.68
+  },
+  {
+   "text": "Jesus",
+   "start": 33.24,
+   "end": 33.52
+  },
+  {
+   "text": "worked",
+   "start": 33.52,
+   "end": 33.84
+  },
+  {
+   "text": "as",
+   "start": 33.84,
+   "end": 34.02
+  },
+  {
+   "text": "a",
+   "start": 34.02,
+   "end": 34.12
+  },
+  {
+   "text": "craftsman.",
+   "start": 34.12,
+   "end": 34.6
+  },
+  {
+   "text": "Our",
+   "start": 35.1,
+   "end": 35.22
+  },
+  {
+   "text": "work",
+   "start": 35.22,
+   "end": 35.56
+  },
+  {
+   "text": "matters.",
+   "start": 35.56,
+   "end": 35.98
+  },
+  {
+   "text": "We",
+   "start": 36.78,
+   "end": 36.88
+  },
+  {
+   "text": "don't",
+   "start": 36.88,
+   "end": 37.12
+  },
+  {
+   "text": "need",
+   "start": 37.12,
+   "end": 37.3
+  },
+  {
+   "text": "everybody",
+   "start": 37.3,
+   "end": 37.88
+  },
+  {
+   "text": "to",
+   "start": 37.88,
+   "end": 38.08
+  },
+  {
+   "text": "become",
+   "start": 38.08,
+   "end": 38.32
+  },
+  {
+   "text": "famous",
+   "start": 38.32,
+   "end": 38.82
+  },
+  {
+   "text": "Christian",
+   "start": 38.82,
+   "end": 39.2
+  },
+  {
+   "text": "influencers.",
+   "start": 39.2,
+   "end": 39.78
+  },
+  {
+   "text": "We",
+   "start": 40.52,
+   "end": 40.68
+  },
+  {
+   "text": "need",
+   "start": 40.68,
+   "end": 40.84
+  },
+  {
+   "text": "faithful",
+   "start": 40.84,
+   "end": 41.28
+  },
+  {
+   "text": "Christians",
+   "start": 41.28,
+   "end": 41.72
+  },
+  {
+   "text": "doing",
+   "start": 41.72,
+   "end": 42.1
+  },
+  {
+   "text": "excellent",
+   "start": 42.1,
+   "end": 42.64
+  },
+  {
+   "text": "work",
+   "start": 42.64,
+   "end": 43.0
+  },
+  {
+   "text": "in",
+   "start": 43.0,
+   "end": 43.24
+  },
+  {
+   "text": "ordinary",
+   "start": 43.24,
+   "end": 43.7
+  },
+  {
+   "text": "places.",
+   "start": 43.7,
+   "end": 44.18
+  },
+  {
+   "text": "Whatever",
+   "start": 44.88,
+   "end": 45.06
+  },
+  {
+   "text": "your",
+   "start": 45.06,
+   "end": 45.3
+  },
+  {
+   "text": "calling",
+   "start": 45.3,
+   "end": 45.56
+  },
+  {
+   "text": "is,",
+   "start": 45.56,
+   "end": 45.92
+  },
+  {
+   "text": "take",
+   "start": 46.36,
+   "end": 46.5
+  },
+  {
+   "text": "it",
+   "start": 46.5,
+   "end": 46.62
+  },
+  {
+   "text": "seriously.",
+   "start": 46.62,
+   "end": 47.06
+  },
+  {
+   "text": "And",
+   "start": 47.06,
+   "end": 47.86
+  },
+  {
+   "text": "use",
+   "start": 47.86,
+   "end": 48.16
+  },
+  {
+   "text": "it",
+   "start": 48.16,
+   "end": 48.32
+  },
+  {
+   "text": "to",
+   "start": 48.32,
+   "end": 48.46
+  },
+  {
+   "text": "serve",
+   "start": 48.46,
+   "end": 48.72
+  },
+  {
+   "text": "others.",
+   "start": 48.72,
+   "end": 49.04
+  },
+  {
+   "text": "Send",
+   "start": 49.8,
+   "end": 50.0
+  },
+  {
+   "text": "this",
+   "start": 50.0,
+   "end": 50.16
+  },
+  {
+   "text": "to",
+   "start": 50.16,
+   "end": 50.32
+  },
+  {
+   "text": "a",
+   "start": 50.32,
+   "end": 50.4
+  },
+  {
+   "text": "Christian",
+   "start": 50.4,
+   "end": 50.68
+  },
+  {
+   "text": "who",
+   "start": 50.68,
+   "end": 50.9
+  },
+  {
+   "text": "needs",
+   "start": 50.9,
+   "end": 51.12
+  },
+  {
+   "text": "to",
+   "start": 51.12,
+   "end": 51.3
+  },
+  {
+   "text": "hear",
+   "start": 51.3,
+   "end": 51.5
+  },
+  {
+   "text": "it.",
+   "start": 51.5,
+   "end": 51.66
+  }
+ ]
+}

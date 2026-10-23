@@ -7,7 +7,7 @@ but the cover is also seen full screen. So it is designed at full size: the head
 zone, a real moment of the reel (node + panel, or the character scene) enlarged under it, and the reel's own
 background filling every edge. One spec entry per reel:
   dark reels:  {"slug", "t", "lines": [[text, "white"|"coral"]...], "art": [x0, y0, x1, y1]}
-  paper reel:  {"slug", "t", "title_t", "paper": true}
+  paper reel:  {"slug", "t", "title_t", "paper": true, "ground"?: y of the ink ground (paper-kit reels: 1474)}
 Writes videos/<slug>/05_render/cover.jpg and cover-tile-preview.png (what the grid shows).
 """
 import json
@@ -22,6 +22,7 @@ ROOT = Path(__file__).resolve().parents[1]
 W, H = 1080, 1920
 SAFE = (225, 490, 855, 1610)
 INK = {"white": (245, 245, 245), "coral": (255, 107, 90)}
+PAPER_INK = {"ink": (21, 21, 21), "red": (200, 57, 43)}
 FONT = ROOT / "_runtime" / "fonts" / "inter" / "Inter[opsz,wght].ttf"
 
 
@@ -74,19 +75,29 @@ def paper(spec: dict) -> Image.Image:
     f, tf = frame(spec["slug"], spec["t"]), frame(spec["slug"], spec["title_t"])
     lum = lambda im, y0, y1: np.asarray(im.convert("L"))[y0:y1]
     c = Image.new("RGB", (W, H), f.getpixel((20, 60)))
-    r = np.where((lum(tf, 300, 700) < 120).sum(1) > 5)[0] + 300
-    title = tf.crop((30, r.min() - 12, 1050, r.max() + 12))
+    ink = np.asarray(tf.convert("RGB"), dtype=np.int16)[300:700]
+    ink = (ink.min(2) < 120) | ((ink[..., 0] - ink[..., 1]) > 60)       # dark ink or red title text
+    r, cols = np.where(ink.sum(1) > 5)[0] + 300, np.where(ink.sum(0) > 2)[0]
+    title = tf.crop((max(0, cols.min() - 16), r.min() - 12, min(W, cols.max() + 16), r.max() + 12))  # tight to the words
     tw = SAFE[2] - SAFE[0] - 40
     title = title.resize((tw, int(title.height * tw / title.width)), Image.LANCZOS)
-    ground = int(np.where((lum(f, 0, H) < 60).mean(1) > 0.3)[0].min())
-    cap = int(np.where((lum(f, 300, 700) < 120).sum(1) > 5)[0].max()) + 330   # below the spoken caption
+    ground = spec.get("ground") or int(np.where((lum(f, 0, H) < 60).mean(1) > 0.3)[0].min())
+    cap = spec.get("scene_top") or int(np.where((lum(f, 300, 700) < 120).sum(1) > 5)[0].max()) + 330   # below the spoken caption
     s = 0.62
     top = 1420 - int(ground * s)
     floor_y = top + int(ground * s) + 10
     c.paste(f.crop((0, ground + 10, W, H)).resize((W, H - floor_y), Image.LANCZOS), (0, floor_y))
     scene = f.crop((0, cap, W, ground + 10)).resize((int(W * s), int((ground + 10 - cap) * s)), Image.LANCZOS)
     c.paste(scene, ((W - scene.width) // 2, top + int(cap * s)))
-    c.paste(title, ((W - title.width) // 2, SAFE[1] + 40))
+    if spec.get("lines"):  # set the title in the reel's serif instead of cropping a long one-line title
+        d, f2 = ImageDraw.Draw(c), lambda n: ImageFont.truetype("C:/Windows/Fonts/georgiab.ttf", n)
+        size = 110
+        while max(d.textlength(t, font=f2(size)) for t, _ in spec["lines"]) > SAFE[2] - SAFE[0] - 30:
+            size -= 2
+        for i, (t, col) in enumerate(spec["lines"]):
+            d.text(((W - d.textlength(t, font=f2(size))) / 2, SAFE[1] + 30 + i * int(size * 1.15)), t, font=f2(size), fill=PAPER_INK[col])
+    else:
+        c.paste(title, ((W - title.width) // 2, SAFE[1] + 40))
     return c
 
 

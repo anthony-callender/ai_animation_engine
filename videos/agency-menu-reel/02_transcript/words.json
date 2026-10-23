@@ -1,0 +1,607 @@
+{
+ "voice": "voice.mp3",
+ "duration": 41.038,
+ "model": "small",
+ "words": [
+  {
+   "text": "If",
+   "start": 0.0,
+   "end": 0.16
+  },
+  {
+   "text": "you",
+   "start": 0.16,
+   "end": 0.26
+  },
+  {
+   "text": "run",
+   "start": 0.26,
+   "end": 0.44
+  },
+  {
+   "text": "a",
+   "start": 0.44,
+   "end": 0.54
+  },
+  {
+   "text": "church",
+   "start": 0.54,
+   "end": 0.76
+  },
+  {
+   "text": "agency,",
+   "start": 0.76,
+   "end": 1.2
+  },
+  {
+   "text": "your",
+   "start": 1.66,
+   "end": 1.8
+  },
+  {
+   "text": "clients",
+   "start": 1.8,
+   "end": 2.2
+  },
+  {
+   "text": "are",
+   "start": 2.2,
+   "end": 2.38
+  },
+  {
+   "text": "going",
+   "start": 2.38,
+   "end": 2.7
+  },
+  {
+   "text": "to",
+   "start": 2.7,
+   "end": 2.9
+  },
+  {
+   "text": "ask",
+   "start": 2.9,
+   "end": 3.14
+  },
+  {
+   "text": "you",
+   "start": 3.14,
+   "end": 3.28
+  },
+  {
+   "text": "about",
+   "start": 3.28,
+   "end": 3.5
+  },
+  {
+   "text": "AI.",
+   "start": 3.5,
+   "end": 3.72
+  },
+  {
+   "text": "Here's",
+   "start": 4.4,
+   "end": 4.66
+  },
+  {
+   "text": "what",
+   "start": 4.66,
+   "end": 4.76
+  },
+  {
+   "text": "you",
+   "start": 4.76,
+   "end": 4.86
+  },
+  {
+   "text": "can",
+   "start": 4.86,
+   "end": 5.02
+  },
+  {
+   "text": "actually",
+   "start": 5.02,
+   "end": 5.5
+  },
+  {
+   "text": "sell",
+   "start": 5.5,
+   "end": 5.86
+  },
+  {
+   "text": "them.",
+   "start": 5.86,
+   "end": 6.06
+  },
+  {
+   "text": "One.",
+   "start": 6.64,
+   "end": 6.86
+  },
+  {
+   "text": "A",
+   "start": 7.36,
+   "end": 7.48
+  },
+  {
+   "text": "website",
+   "start": 7.48,
+   "end": 7.7
+  },
+  {
+   "text": "assistant",
+   "start": 7.7,
+   "end": 8.22
+  },
+  {
+   "text": "that",
+   "start": 8.22,
+   "end": 8.46
+  },
+  {
+   "text": "answers",
+   "start": 8.46,
+   "end": 8.8
+  },
+  {
+   "text": "visitors",
+   "start": 8.8,
+   "end": 9.22
+  },
+  {
+   "text": "at",
+   "start": 9.22,
+   "end": 9.5
+  },
+  {
+   "text": "9pm",
+   "start": 9.5,
+   "end": 10.14
+  },
+  {
+   "text": "using",
+   "start": 10.14,
+   "end": 10.66
+  },
+  {
+   "text": "only",
+   "start": 10.66,
+   "end": 11.06
+  },
+  {
+   "text": "facts",
+   "start": 11.06,
+   "end": 11.42
+  },
+  {
+   "text": "the",
+   "start": 11.64,
+   "end": 11.64
+  },
+  {
+   "text": "church",
+   "start": 11.64,
+   "end": 11.88
+  },
+  {
+   "text": "approved.",
+   "start": 11.88,
+   "end": 12.28
+  },
+  {
+   "text": "If",
+   "start": 12.7,
+   "end": 12.92
+  },
+  {
+   "text": "it's",
+   "start": 12.92,
+   "end": 13.06
+  },
+  {
+   "text": "not",
+   "start": 13.06,
+   "end": 13.2
+  },
+  {
+   "text": "sure,",
+   "start": 13.2,
+   "end": 13.48
+  },
+  {
+   "text": "it",
+   "start": 13.84,
+   "end": 13.98
+  },
+  {
+   "text": "sends",
+   "start": 13.98,
+   "end": 14.2
+  },
+  {
+   "text": "them",
+   "start": 14.2,
+   "end": 14.38
+  },
+  {
+   "text": "to",
+   "start": 14.38,
+   "end": 14.5
+  },
+  {
+   "text": "the",
+   "start": 14.5,
+   "end": 14.6
+  },
+  {
+   "text": "office.",
+   "start": 14.6,
+   "end": 14.84
+  },
+  {
+   "text": "Two.",
+   "start": 15.44,
+   "end": 15.82
+  },
+  {
+   "text": "A",
+   "start": 16.4,
+   "end": 16.5
+  },
+  {
+   "text": "sermon",
+   "start": 16.5,
+   "end": 16.78
+  },
+  {
+   "text": "workflow.",
+   "start": 16.78,
+   "end": 17.3
+  },
+  {
+   "text": "The",
+   "start": 17.86,
+   "end": 17.98
+  },
+  {
+   "text": "service",
+   "start": 17.98,
+   "end": 18.22
+  },
+  {
+   "text": "video",
+   "start": 18.22,
+   "end": 18.5
+  },
+  {
+   "text": "goes",
+   "start": 18.5,
+   "end": 18.78
+  },
+  {
+   "text": "in,",
+   "start": 18.78,
+   "end": 19.12
+  },
+  {
+   "text": "and",
+   "start": 19.12,
+   "end": 19.44
+  },
+  {
+   "text": "a",
+   "start": 19.44,
+   "end": 19.6
+  },
+  {
+   "text": "sermon",
+   "start": 19.6,
+   "end": 19.82
+  },
+  {
+   "text": "post",
+   "start": 19.82,
+   "end": 20.16
+  },
+  {
+   "text": "comes",
+   "start": 20.16,
+   "end": 20.42
+  },
+  {
+   "text": "out",
+   "start": 20.42,
+   "end": 20.66
+  },
+  {
+   "text": "as",
+   "start": 20.66,
+   "end": 20.82
+  },
+  {
+   "text": "a",
+   "start": 20.82,
+   "end": 20.94
+  },
+  {
+   "text": "WordPress",
+   "start": 20.94,
+   "end": 21.18
+  },
+  {
+   "text": "draft.",
+   "start": 21.18,
+   "end": 21.64
+  },
+  {
+   "text": "Nothing",
+   "start": 22.1,
+   "end": 22.44
+  },
+  {
+   "text": "goes",
+   "start": 22.44,
+   "end": 22.72
+  },
+  {
+   "text": "live",
+   "start": 22.72,
+   "end": 23.04
+  },
+  {
+   "text": "until",
+   "start": 23.04,
+   "end": 23.28
+  },
+  {
+   "text": "a",
+   "start": 23.28,
+   "end": 23.42
+  },
+  {
+   "text": "person",
+   "start": 23.42,
+   "end": 23.74
+  },
+  {
+   "text": "hits",
+   "start": 23.74,
+   "end": 23.94
+  },
+  {
+   "text": "publish.",
+   "start": 23.94,
+   "end": 24.32
+  },
+  {
+   "text": "Three.",
+   "start": 25.02,
+   "end": 25.36
+  },
+  {
+   "text": "AI",
+   "start": 25.88,
+   "end": 26.16
+  },
+  {
+   "text": "search",
+   "start": 26.16,
+   "end": 26.58
+  },
+  {
+   "text": "readiness.",
+   "start": 26.58,
+   "end": 27.0
+  },
+  {
+   "text": "Make",
+   "start": 27.0,
+   "end": 27.72
+  },
+  {
+   "text": "sure",
+   "start": 27.72,
+   "end": 27.94
+  },
+  {
+   "text": "ChatGPT",
+   "start": 27.94,
+   "end": 28.72
+  },
+  {
+   "text": "and",
+   "start": 28.72,
+   "end": 28.92
+  },
+  {
+   "text": "Google's",
+   "start": 28.92,
+   "end": 29.32
+  },
+  {
+   "text": "AI",
+   "start": 29.32,
+   "end": 29.48
+  },
+  {
+   "text": "can",
+   "start": 29.48,
+   "end": 29.82
+  },
+  {
+   "text": "actually",
+   "start": 29.82,
+   "end": 30.3
+  },
+  {
+   "text": "find",
+   "start": 30.3,
+   "end": 30.72
+  },
+  {
+   "text": "the",
+   "start": 30.72,
+   "end": 30.9
+  },
+  {
+   "text": "church,",
+   "start": 30.9,
+   "end": 31.16
+  },
+  {
+   "text": "with",
+   "start": 31.16,
+   "end": 31.54
+  },
+  {
+   "text": "clear",
+   "start": 31.54,
+   "end": 31.86
+  },
+  {
+   "text": "answers",
+   "start": 31.86,
+   "end": 32.2
+  },
+  {
+   "text": "to",
+   "start": 32.2,
+   "end": 32.44
+  },
+  {
+   "text": "the",
+   "start": 32.44,
+   "end": 32.54
+  },
+  {
+   "text": "questions",
+   "start": 32.54,
+   "end": 32.8
+  },
+  {
+   "text": "families",
+   "start": 32.8,
+   "end": 33.24
+  },
+  {
+   "text": "ask.",
+   "start": 33.24,
+   "end": 33.68
+  },
+  {
+   "text": "You",
+   "start": 34.12,
+   "end": 34.24
+  },
+  {
+   "text": "don't",
+   "start": 34.24,
+   "end": 34.4
+  },
+  {
+   "text": "need",
+   "start": 34.4,
+   "end": 34.48
+  },
+  {
+   "text": "to",
+   "start": 34.48,
+   "end": 34.58
+  },
+  {
+   "text": "hire",
+   "start": 34.58,
+   "end": 34.76
+  },
+  {
+   "text": "developers.",
+   "start": 34.76,
+   "end": 35.24
+  },
+  {
+   "text": "I",
+   "start": 35.7,
+   "end": 35.84
+  },
+  {
+   "text": "build",
+   "start": 35.84,
+   "end": 36.0
+  },
+  {
+   "text": "these",
+   "start": 36.0,
+   "end": 36.14
+  },
+  {
+   "text": "for",
+   "start": 36.14,
+   "end": 36.3
+  },
+  {
+   "text": "agencies,",
+   "start": 36.3,
+   "end": 36.66
+  },
+  {
+   "text": "under",
+   "start": 36.66,
+   "end": 37.2
+  },
+  {
+   "text": "your",
+   "start": 37.2,
+   "end": 37.46
+  },
+  {
+   "text": "brand.",
+   "start": 37.46,
+   "end": 37.9
+  },
+  {
+   "text": "Comment",
+   "start": 38.24,
+   "end": 38.54
+  },
+  {
+   "text": "AGENCY",
+   "start": 38.54,
+   "end": 38.98
+  },
+  {
+   "text": "and",
+   "start": 38.98,
+   "end": 39.38
+  },
+  {
+   "text": "I'll",
+   "start": 39.38,
+   "end": 39.5
+  },
+  {
+   "text": "send",
+   "start": 39.5,
+   "end": 39.64
+  },
+  {
+   "text": "you",
+   "start": 39.64,
+   "end": 39.76
+  },
+  {
+   "text": "the",
+   "start": 39.76,
+   "end": 39.86
+  },
+  {
+   "text": "service",
+   "start": 39.86,
+   "end": 40.12
+  },
+  {
+   "text": "menu.",
+   "start": 40.12,
+   "end": 40.4
+  }
+ ]
+}

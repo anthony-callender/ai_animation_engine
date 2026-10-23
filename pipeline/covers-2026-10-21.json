@@ -1,0 +1,79 @@
+[
+ {
+  "slug": "chatbot-grounding-reel",
+  "t": 3.0,
+  "art": [
+   240,
+   700,
+   840,
+   1350
+  ],
+  "lines": [
+   [
+    "CAN A CHURCH",
+    "white"
+   ],
+   [
+    "CHATBOT",
+    "coral"
+   ],
+   [
+    "MAKE THINGS UP?",
+    "white"
+   ]
+  ]
+ },
+ {
+  "slug": "agency-menu-reel",
+  "t": 2.0,
+  "art": [
+   240,
+   700,
+   840,
+   1350
+  ],
+  "lines": [
+   [
+    "CHURCH AGENCIES:",
+    "white"
+   ],
+   [
+    "SELL THESE",
+    "coral"
+   ],
+   [
+    "3 AI SYSTEMS",
+    "white"
+   ]
+  ]
+ },
+ {
+  "slug": "ambition-reel",
+  "t": 11.4,
+  "title_t": 0.8,
+  "paper": true,
+  "ground": 1474
+ },
+ {
+  "slug": "ai-search-myths-reel",
+  "t": 2.8,
+  "title_t": 0.8,
+  "paper": true,
+  "ground": 1474,
+  "scene_top": 640,
+  "lines": [
+   [
+    "3 MYTHS ABOUT",
+    "ink"
+   ],
+   [
+    "GETTING YOUR CHURCH",
+    "red"
+   ],
+   [
+    "FOUND BY AI",
+    "red"
+   ]
+  ]
+ }
+]

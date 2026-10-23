@@ -165,7 +165,7 @@ function camera(t) {
   let x = lerp(nx(j), nx(k), uu), y = lerp(ny(j), ny(k), uu), z = 1; const y0 = y;
   const ov = Math.min(0.9 * 1080 / (GRID_W + 700), 0.9 * (BAND.y1 - BAND.y0) / (GRID_H + 700)), midX = GRID_W / 2;
   const overY = (zz) => GRID_H / 2 + 250 - ((BAND.y0 + BAND.y1) / 2 - ANCHOR.y) / zz;
-  const intro = ease.inOut(clamp01((t - 0.15) / 1.0));
+  const intro = ease.inOut(clamp01((t - (SB.host ? S(cueOf(0)) - 0.6 : 0.15)) / 1.0));
   if (intro < 1) { z = lerp(ov, 1, intro); x = lerp(midX, x, intro); y = lerp(overY(ov), y0, intro); }
   if (SB.loop && t >= S('loop') - 0.3) { const out = ease.inOut(clamp01((t - S('loop') + 0.3) / 1.0)); z = lerp(1, ov, out); x = lerp(x, midX, out); y = lerp(y0, overY(ov), out); }
   return { x, y, z };
@@ -207,11 +207,37 @@ function cta(ctx, t) {
   rr(ctx, 236, -38, 150, 76, 38); ctx.fillStyle = CORAL; ctx.fill(); text(ctx, 'Post', 311, 2, { w: 800, s: 32 }); ctx.restore();
   if (t > tk + 0.8) { text(ctx, SB.ctaSub, 540, 840, { w: 600, s: 32, c: SUB }); if (SB.ctaNote) text(ctx, SB.ctaNote, 540, 892, { w: 500, s: 26, c: '#6d717c' }); } }
 
+// ── host hook (optional): Tony's face opens the reel, before the canvas ─────
+// SB.host = { image: 'assets/tony-head.png', bubbles: [{ text, word, wrong? }] }. Shown until node 0's cue.
+const HOST = SB.host ? Eduba.image(SB.host.image) : null;
+function host(ctx, t) {
+  const end = S(cueOf(0)) - 0.45, out = clamp01((t - end) / 0.4); if (out >= 1) return false;
+  ctx.save(); ctx.globalAlpha = 1 - out; const k = pop(0.05, 0.45), bob = Math.sin(t * 3) * 6, cx = 540, cy = 1000 + bob;
+  ctx.save(); ctx.translate(cx, cy); ctx.scale(k, k);
+  ctx.shadowColor = CORAL; ctx.shadowBlur = 50; ctx.fillStyle = '#2a2d36'; ctx.beginPath(); ctx.arc(0, 0, 280, 0, 7); ctx.fill(); ctx.shadowBlur = 0;
+  if (HOST.complete && HOST.naturalWidth) { const w = 480, h = w * HOST.naturalHeight / HOST.naturalWidth; ctx.save(); ctx.beginPath(); ctx.arc(0, 0, 276, 0, 7); ctx.clip();
+    ctx.fillStyle = '#0e0f12'; ctx.beginPath(); ctx.ellipse(0, h * 0.48 + 120, 230, 150, 0, 0, 7); ctx.fill();  // hoodie shoulders under the neck cut
+    ctx.drawImage(HOST, -w / 2, -h * 0.55, w, h); ctx.restore(); }
+  ctx.beginPath(); ctx.arc(0, 0, 280, 0, 7); ctx.lineWidth = 8; ctx.strokeStyle = CORAL; ctx.stroke();
+  ctx.restore();
+  pill(ctx, 'Tony Callender', cx, cy + 320, { bg: '#121318', edge: '#3a3d47', s: 26, scale: pop(0.3) });
+  const nm = (s) => s.toLowerCase().replace(/[^a-z0-9]/g, ''), said = (w, fb) => { const q = P.words.find((x) => nm(x.text) === nm(w)); return q ? q.start : fb; };
+  (SB.host.bubbles || []).forEach((b, i) => { const t0 = said(b.word, 1 + i * 2); if (t < t0) return; const right = i % 2 === 0;
+    ctx.save(); const kk = pop(t0, 0.3); ctx.translate(right ? 990 : 90, 580 + i * 120); ctx.scale(kk, kk);
+    const h = bubble(ctx, b.text, 0, 0, { right, bg: b.wrong ? '#4a2224' : BLUE, maxW: 520, s: 30 });
+    if (b.wrong) { const q = pop(t0 + 0.6, 0.3); if (q) { ctx.save(); ctx.translate(right ? -10 : 20, 0); ctx.scale(q, q); ctx.fillStyle = CORAL; ctx.beginPath(); ctx.arc(0, 0, 30, 0, 7); ctx.fill();
+      ctx.strokeStyle = '#fff'; ctx.lineWidth = 7; ctx.lineCap = 'round'; ctx.beginPath(); ctx.moveTo(-11, -11); ctx.lineTo(11, 11); ctx.moveTo(11, -11); ctx.lineTo(-11, 11); ctx.stroke(); ctx.restore(); } }
+    ctx.restore(); });
+  ctx.restore(); return out < 1;
+}
+
 // ── frame ──────────────────────────────────────────────────────────────────
 Eduba.frame({ overlay: true, step: 30, draw(g, t) {
   const ctx = g.photo.ctx; ctx.fillStyle = BG; ctx.fillRect(0, 0, 1080, 1920);
   if (t >= S('cta')) { cta(ctx, t); captions(ctx, t); return; }
-  headline(ctx, ...SB.headline); stepPill(ctx, t);
+  headline(ctx, ...SB.headline);
+  if (HOST && t < S(cueOf(0)) - 0.45) { host(ctx, t); captions(ctx, t); return; }
+  stepPill(ctx, t);
   const cam = camera(t), k = focusIndex(t), overview = cam.z < 0.9;
   ctx.save(); ctx.beginPath(); ctx.rect(0, BAND.y0, 1080, BAND.y1 - BAND.y0); ctx.clip();
   ctx.fillStyle = N[k].tint || '#1b2236'; ctx.fillRect(0, BAND.y0, 1080, BAND.y1 - BAND.y0);
