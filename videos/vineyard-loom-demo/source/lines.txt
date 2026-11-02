@@ -1,0 +1,130 @@
+[0.00] So just to show you guys how the system works, as promised, here
+[4.28] it is. And again, this is just a prototype I implemented this morning
+[7.00] for you guys. Obviously we can change the colors of the widget, add
+[10.54] the logo to it, personalize it a bit.
+[12.76] But this is just a quick prototype just to show you guys exactly
+[14.98] how this would work. And again, this is your live website. I added
+[19.44] a Chrome instruction to implement this quick prototype. I know that you guys
+[22.98] use Wix and Planning Center. So yeah, to answer your question, no, I
+[26.26] won't have to replace anything. I won't have to remove anything. It would
+[29.36] be a very frictionless integration.
+[33.62] So no worries, I know that you guys use Wix. I know that
+[36.60] you guys use Wix as a building, as a website builder. I know
+[38.94] that you guys use the planning center, planning center software. I'm very familiar
+[42.66] with these tools. Working with churches is what I generally do.
+[47.96] And this is how it essentially works.
+[50.46] So right here is a basic AI assistant that answers any questions related
+[53.04] to the church. Basic questions like, what times are your services? Where are
+[55.98] you located? What are you about? What are your beliefs?
+[58.92] And again, I would personalize this. I would, you know, build a knowledge
+[61.74] base with you guys and implement it quickly, up to date, keep it
+[65.68] up to date all the time.
+[67.40] And this is how it essentially works. So right now I could just
+[70.66] ask them basic questions like any youth events going on.
+[79.14] So right now I didn't really train the AI on, you know, the
+[82.98] full knowledge base of your, of your church, because again, this is just
+[86.02] based off the website.
+[87.70] Again, I can train it with even more knowledge to it. This is
+[90.64] just a quick demo that I've implemented and thanks for asking about youth
+[94.10] events. I have limited verified details about the youth offerings.
+[97.90] So it starts to scan the website to see if it could be
+[99.88] rather any information. It cites the sources. So then your youth or vineyard
+[103.72] kids, you can actually click on this and we'll go to immediately to
+[106.30] those sections of the website.
+[110.60] But let's ask another basic question. We're like, okay, what times are services?
+[115.32] So I could either type, we're gonna write that out or just click
+[118.06] the predefined questions right here. Oh, 9 30 AM servers, 11 AM service.
+[122.56] And then we can continue following up and we can make the AI
+[125.08] even more sophisticated and to even more sophisticated questions. One thing that would
+[128.80] have definitely, I generally do to churches is if I always add guardrails
+[133.32] to it. So if anybody for whatever reason asked for like a prayer
+[136.34] request, the AI would immediately redirect. It would redirect to a pastor. So
+[141.44] it'll say, hey, this is the pastor's email that you can email him.
+[145.06] Or I'll make sure to save your prayer requests and then send it
+[148.98] over to the pastor so the pastor can follow up and call you
+[151.38] if you ever need something.
+[153.06] It really depends on the church's needs and what they want implemented. But
+[156.06] the idea is to always redirect to a human being when it comes
+[158.70] to more personal related questions. When it comes to more informational questions, that's
+[163.04] what the AI is for. Now let's suppose that I want to plan
+[165.88] a visit.
+[168.50] I want to visit.
+[170.34] I kind of messed up that I want to a visit. I want
+[173.38] to plan a visit. Either way that I can immediately detect my typo,
+[176.84] but it'll tell you the address, it'll tell you the service times, it'll
+[179.68] tell you any information on parking, coffee, whatever it may be, and it
+[183.06] merely adds a plan my visit link. And what happens if I click
+[185.80] on it, it'll redirect me to this tab. This is really good because
+[188.64] this is not going to redirect you to the separate connect card page,
+[193.56] which is fine, But the problem is many people have really slow internet
+[196.62] and you'd be surprised by how long it takes for someone to like
+[199.46] just take seconds for someone to wait there and then they kind of
+[202.68] you know Get impatient and they just click off the website and then
+[206.08] go to a new website You know people are like right even I'm
+[208.94] like that sometimes if I if a page takes too long to load
+[211.32] because my internet whatever it may be I'll just you know exit the
+[214.78] tap out and then just you know Continue on with my day This
+[218.86] immediately just redirects to a new tap and then right here they can
+[221.44] immediately fill up their information So, oh, well, I'm planning a visit. My
+[224.56] name is Anthony calendar. I'm going to bring in two people. I, I'm
+[228.20] planning to go there. Maybe, you know, this upcoming Sunday and I'll go
+[232.04] to the, a 930 AM service.
+[234.14] And this is my email.
+[238.16] And this is not my actual phone number. This is just, you know,
+[240.42] to show you guys, but right here, this checkbox right here is implemented
+[244.34] by default. So it's checked by default, but they get unchecked if they
+[247.50] want, right? We want to give them a little bit of freedom to
+[249.40] that. But otherwise, we could leave it off, check, you know, we could
+[252.74] leave it checked by default. That way they could receive a welcome message.
+[256.76] So what ends up happening once we click plan my visit, right here,
+[260.80] this is happening behind the scenes. So we're not gonna be showing this
+[263.36] to the user, but this is what's happening behind the scenes.
+[266.12] This is what they will see. You're all set Anthony, we can't wait
+[269.00] to meet you on Sunday, November 8th at 9 30 AM. And what's
+[272.20] gonna happen is that they'll receive a text message like this to their
+[275.52] phone. The interesting thing about this is that they're not just going to
+[278.16] receive a text message. They're also like they're going to receive a text
+[281.54] message, but they can actually text back and they'll be connected with the
+[285.14] AI assistant via text message. And then they can answer, they can ask
+[288.52] any questions related to events coming up related to any informational questions on
+[294.48] maybe Bible studies, maybe I'm a 23 year old that wants to visit
+[297.06] and there's a Bible Bible study going on this Sunday at three 3pm.
+[300.96] They can chat with the AI related to that if they want to
+[303.48] either way, we can personalize to give you guys his needs.
+[308.18] And yeah, this is kind of like the demo. Oh, and by the
+[310.50] way, I also have a greeter agent that can get notified. So when
+[313.68] someone fills in their information, whoever's volunteering for Greeter, they could get notified
+[317.98] that, hey, Anthony Calender just
+[320.12] booked to visit this Sunday. And then the greeter can then take that
+[323.14] information and do, you know, he could take that information, whoever's the greeter
+[326.36] there, and maybe they can follow up via call or follow up via
+[329.48] text and say, Hey, I noticed that you guys are planning a visit
+[331.68] coming up. Just wanted to check in if you have things like that,
+[334.20] right? Those are the of things that really nurtures the visitors.
+[337.76] So my goal with this is to, if you guys are getting maybe
+[340.02] 50, 10, 100 visitors, whatever it may be, visitors a month,
+[343.80] but only a small percentage is converted to members, my goal with this
+[347.42] is to increase that percentage. So let's suppose that you guys get 10
+[351.90] visitors a month. Let's just suppose that's the case. And only 1 %
+[355.88] of that converts or 10 % of that converts. So maybe one visitor
+[358.62] per 10, one visitor turns into a member per visit. Well, my goal
+[364.34] is to increase that to two or three or four or five additional
+[367.14] members, right? So the idea is for us to grow the church. And
+[370.22] this is one way to do it by nurturing the people who are
+[372.96] visiting so that we can help them feel welcome so that we can
+[375.66] help them feel like, you know, because we actually care. We do this
+[379.16] because we actually care. We just need to implement systems to in order
+[382.74] to make our lives a lot easier and more efficient so that we
+[385.70] can show them that we actually care. And that's kind of the goal
+[388.58] behind this system that I've implemented. And any questions you guys have, anything
+[392.78] related, just let me know. We can hop on a call and we
+[396.82] can discuss any details. Again, this is just a small demo prototype of
+[399.82] what's happening essentially behind the scenes, right? And just some of the possibilities
+[405.26] behind this. Again, the AI system will be connected to any of the
+[408.34] latest information on any events that are happening.
+[411.42] And this is just to make your lives easier.
+[415.16] Hopefully, this is something that's interesting.
+[418.46] If we want, we can book a call via Zoom, Google Meets, and
+[421.94] yeah, I can answer any questions related.
+[425.32] And thank you for taking the time to watch this.
+[429.12] God bless you. Bye.

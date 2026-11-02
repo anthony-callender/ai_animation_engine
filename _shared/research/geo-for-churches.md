@@ -63,3 +63,12 @@ Source: https://developers.openai.com/docs/bots
 - https://www.epiclifecreative.com/church-ai-visibility-check/
 - https://missionalmarketing.com/church-seo-geo-ai-search-for-churches/ (note: a warm lead in Tony's pipeline also sells GEO)
 - https://reachrightstudios.com/blog/ai-seo-for-churches/
+
+## Practitioner advice (Tony's research, 2026-10-26)
+Source: an Ahrefs video in which five SEOs who actively test GEO give their best advice (transcript pasted by Tony). These are practitioner opinions and one correlational study, not platform documentation. Use them as "SEOs who test this say…", never as guarantees.
+1. **Prompts aren't keywords.** Prompts run longer and describe the person's situation (the video says about 5x longer than keywords). Mine real conversations (sales calls, support emails, live chat, Reddit) for the questions people actually ask, then answer them. *For churches: office emails, the website assistant's chat logs, visitor questions.*
+2. **Be present in organic search first**, then earn mentions across publishers, review sites, UGC platforms and your own content. "It depends on how the web talks about you."
+3. **YouTube:** an Ahrefs study found YouTube mentions were the strongest correlating factor with AI visibility (correlation, not proven cause). *For churches: sermons and visitor videos already live there.*
+4. **Freshness:** a study of 17M AI citations found AI-cited content tends to be fresher than content ranking in regular search (the speaker was unsure of the exact figure, so quote no number).
+5. **Listicles and niche comparisons** currently work for software brands, including paid placements. **Not for us:** spam lists and bought links conflict with our guardrails and Google's spam policies.
+6. **"Build a better business."** Ask whether you deserve to show up. Long-term, AI search rewards brands and content people trust.

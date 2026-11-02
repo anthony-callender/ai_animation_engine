@@ -1,0 +1,583 @@
+1
+00:00:00,011 --> 00:00:03,254
+So just to, uhm, show you guys how the system works,
+
+2
+00:00:03,270 --> 00:00:06,652
+as promised, here it is. And again, this is just a prototype I implemented
+
+3
+00:00:06,653 --> 00:00:09,849
+this morning for you guys. Obviously we can change the colors of the widget,
+
+4
+00:00:09,850 --> 00:00:12,195
+uhm, add the logo to it, personalize it a bit.
+
+5
+00:00:12,196 --> 00:00:15,126
+Uhm, but this is just a quick prototype just to show you guys exactly
+
+6
+00:00:15,127 --> 00:00:17,599
+how this would work. And again,
+
+7
+00:00:17,600 --> 00:00:21,548
+this is your live website. I added a comment section to implement this quick
+
+8
+00:00:21,549 --> 00:00:24,911
+prototype. I know that you guys use Wix and Planning Center,
+
+9
+00:00:24,912 --> 00:00:27,459
+so yeah, to answer your question, no, I won't have to replace anything.
+
+10
+00:00:27,460 --> 00:00:30,284
+I won't have to remove anything. It would be a very,
+
+11
+00:00:30,285 --> 00:00:33,013
+uhm, frictionless, uhm, integration.
+
+12
+00:00:33,014 --> 00:00:35,699
+Uhm, so no worries. I know that you guys use Wix.
+
+13
+00:00:35,700 --> 00:00:37,781
+Uhm, I know that you guys use Wix as a building,
+
+14
+00:00:37,881 --> 00:00:40,435
+as a website builder. I know that you guys use the Planning Center,
+
+15
+00:00:40,748 --> 00:00:43,496
+Planning Center software. I'm very familiar with these tools.
+
+16
+00:00:43,497 --> 00:00:45,692
+This, working with churches is what I,
+
+17
+00:00:45,693 --> 00:00:48,085
+is what I generally do. And,
+
+18
+00:00:48,086 --> 00:00:50,676
+uhm, this is how it essentially works. So,
+
+19
+00:00:50,677 --> 00:00:53,405
+right here is a basic AI system that answers any questions related to the
+
+20
+00:00:53,406 --> 00:00:55,712
+church. Basic questions like, what times are your services?
+
+21
+00:00:55,713 --> 00:00:58,263
+Where are you located? Right. What are you about? What are your beliefs?
+
+22
+00:00:58,683 --> 00:01:00,715
+And, again, I would personalize this. I would,
+
+23
+00:01:00,889 --> 00:01:04,181
+you know, build a knowledge base with you guys and implement it quickly.
+
+24
+00:01:04,182 --> 00:01:06,781
+Up-to-date. Keep it up-to-date all the time.
+
+25
+00:01:07,295 --> 00:01:09,638
+And, this is how it essentially works. So,
+
+26
+00:01:09,960 --> 00:01:14,233
+right now, I could just ask a basic question like, uhm,
+
+27
+00:01:14,244 --> 00:01:19,643
+any youth events going on? So,
+
+28
+00:01:19,644 --> 00:01:22,404
+right now, Bye. I didn't really train the AI on,
+
+29
+00:01:22,692 --> 00:01:25,346
+you know, the full knowledge base of your, of your church because,
+
+30
+00:01:25,442 --> 00:01:27,867
+again, this is just based off the website. Uhm,
+
+31
+00:01:27,878 --> 00:01:30,143
+again, I could train it with even more knowledge to it.
+
+32
+00:01:30,441 --> 00:01:32,573
+This is just a quick demo that I've implemented. And,
+
+33
+00:01:32,893 --> 00:01:36,176
+thanks for asking about youth events. I have limited verified details about the youth
+
+34
+00:01:36,177 --> 00:01:38,217
+events. The youth offerings. Uhm,
+
+35
+00:01:38,228 --> 00:01:40,248
+so it starts to scan the website to see if it could gather any
+
+36
+00:01:40,249 --> 00:01:42,263
+information. It cites the sources,
+
+37
+00:01:42,264 --> 00:01:45,397
+so Vineyard Youth or Vineyard Kids. You can actually click on this and we'll
+
+38
+00:01:45,398 --> 00:01:47,534
+go immediately to, to, uhm,
+
+39
+00:01:47,545 --> 00:01:51,105
+to those, to those sections of the website. Uhm,
+
+40
+00:01:51,116 --> 00:01:53,173
+but let's ask another question. Let's ask basic question.
+
+41
+00:01:53,174 --> 00:01:56,691
+We're like, okay, what times are services? So I could either type,
+
+42
+00:01:56,692 --> 00:01:59,782
+we're going to write that out or just click the, the predefined questions right
+
+43
+00:01:59,783 --> 00:02:02,591
+here. Oh, 9.30 AM service, 11 AM service,
+
+44
+00:02:02,592 --> 00:02:05,304
+and then we can continue following up and we can make the AI even
+
+45
+00:02:05,305 --> 00:02:08,896
+more sophisticated, answer even more sophisticated questions while we're at One thing that would
+
+46
+00:02:08,897 --> 00:02:13,410
+definitely, um, I generally do to churches is if I always add guardrails
+
+47
+00:02:13,411 --> 00:02:16,171
+to it. So if, if, if anybody, for whatever reason asked for like a
+
+48
+00:02:16,172 --> 00:02:20,902
+prayer request, the AI would immediately redirect it or redirect to a pastor.
+
+49
+00:02:21,257 --> 00:02:24,395
+So it'll say, Hey, this is the pastor's email that you can email him.
+
+50
+00:02:24,396 --> 00:02:28,915
+Um, or I'll make sure to save your prayer request and then send
+
+51
+00:02:28,916 --> 00:02:31,444
+it over to the pastor. So the pastor can follow up and call you
+
+52
+00:02:31,448 --> 00:02:34,585
+if you ever need something. Uh, it really depends on the church's needs and
+
+53
+00:02:34,586 --> 00:02:37,917
+what they want implemented. But the idea is to always redirect to a human
+
+54
+00:02:37,918 --> 00:02:40,443
+being when it comes to more personal related questions.
+
+55
+00:02:40,444 --> 00:02:42,873
+When it comes to more informational questions,
+
+56
+00:02:42,874 --> 00:02:46,078
+that's what the AI is for. Now let's suppose that I want to plan
+
+57
+00:02:46,480 --> 00:02:49,168
+a visit. I want,
+
+58
+00:02:49,169 --> 00:02:51,747
+I want to visit. I, I, I kind of, I kind of messed that,
+
+59
+00:02:51,748 --> 00:02:54,222
+that, that I want to a visit. I want to plan a visit.
+
+60
+00:02:54,549 --> 00:02:57,229
+Either way, the AI can immediately detect my typos. But,
+
+61
+00:02:57,230 --> 00:02:59,577
+ah, it'll tell you the address, it'll tell you the service times,
+
+62
+00:02:59,578 --> 00:03:01,826
+it'll tell you the, you know, any information on parking, coffee,
+
+63
+00:03:01,827 --> 00:03:04,632
+whatever it may be. And it immediately adds a plan my visit link.
+
+64
+00:03:04,851 --> 00:03:07,457
+Now what happens if I click on it, it'll redirect me to this tab.
+
+65
+00:03:07,697 --> 00:03:10,526
+This is really good because this is not going to redirect you to the
+
+66
+00:03:10,661 --> 00:03:13,465
+separate connect, you know, connect card page,
+
+67
+00:03:13,692 --> 00:03:17,165
+which is fine. But the problem is many people have really slow internet and
+
+68
+00:03:17,166 --> 00:03:19,541
+you'd be surprised by how long it takes for someone to like,
+
+69
+00:03:19,597 --> 00:03:22,525
+just take seconds for someone to wait there. And then they kind of,
+
+70
+00:03:22,763 --> 00:03:26,268
+you know, get impatient and they just click off the website and then go
+
+71
+00:03:26,269 --> 00:03:28,427
+to a new website. You know, people are like that,
+
+72
+00:03:28,428 --> 00:03:31,081
+right? Even I'm like that sometimes. If I, if a page takes too long
+
+73
+00:03:31,082 --> 00:03:33,714
+to load because of my internet, whatever it may be, I'll just,
+
+74
+00:03:33,715 --> 00:03:36,143
+you know, you know, exit the tab out and then just,
+
+75
+00:03:36,146 --> 00:03:40,217
+you know, continue on with my day. This immediately just redirects to a new
+
+76
+00:03:40,218 --> 00:03:42,795
+tab and then right here, they can immediately fill up their information.
+
+77
+00:03:43,192 --> 00:03:45,633
+So, oh, well, I'm finding a visit. My name's Anthony Callender.
+
+78
+00:03:45,961 --> 00:03:49,362
+I'm going to bring in two people. I'm planning to go there maybe,
+
+79
+00:03:49,363 --> 00:03:52,976
+you know, this upcoming Sunday and I'll go to the 9.30 a.m.
+
+80
+00:03:52,977 --> 00:03:55,726
+service and this is my email,
+
+81
+00:03:55,727 --> 00:03:57,762
+uhm,
+
+82
+00:03:57,773 --> 00:04:00,129
+and this is not my actual phone number. This is just,
+
+83
+00:04:00,130 --> 00:04:02,516
+you know, to show you guys, but right here,
+
+84
+00:04:02,517 --> 00:04:05,117
+this checkbox right here is implemented by default.
+
+85
+00:04:05,118 --> 00:04:07,846
+So it's checked by default, but they can uncheck it if they want,
+
+86
+00:04:07,847 --> 00:04:10,277
+right? We want to give them a little bit of freedom to that, but
+
+87
+00:04:10,278 --> 00:04:12,319
+otherwise we could leave it off. Check,
+
+88
+00:04:12,349 --> 00:04:15,356
+you know, we could leave it checked by default. That way they could receive
+
+89
+00:04:15,357 --> 00:04:19,209
+a welcome message. So what ends up happening is once we click plan my
+
+90
+00:04:19,210 --> 00:04:22,148
+visit, right here, this is happening behind the scenes.
+
+91
+00:04:22,219 --> 00:04:24,139
+So we're not going to be showing this to the user, but this is
+
+92
+00:04:24,140 --> 00:04:27,456
+what's happening behind the scenes. This is what they will see.
+
+93
+00:04:27,457 --> 00:04:30,130
+You're all set, Anthony. We can't wait to meet you on Sunday,
+
+94
+00:04:30,131 --> 00:04:32,678
+November 8th at 930 AM. And what's going to happen,
+
+95
+00:04:32,679 --> 00:04:35,935
+right? Is that they'll receive a text message like this to their phone.
+
+96
+00:04:36,275 --> 00:04:38,599
+The interesting thing about this is that they're not just going to receive a
+
+97
+00:04:38,600 --> 00:04:40,710
+text message. They're also like,
+
+98
+00:04:40,711 --> 00:04:44,259
+they're going to receive a text message, but they can actually text back and
+
+99
+00:04:44,260 --> 00:04:46,818
+they'll be connected with the AI assistant via text message.
+
+100
+00:04:47,148 --> 00:04:50,299
+And then they can answer, they can ask any questions. Questions related to events
+
+101
+00:04:50,724 --> 00:04:53,678
+coming up, related to any informational questions,
+
+102
+00:04:54,444 --> 00:04:57,451
+maybe Bible studies. Maybe I'm a 23-year-old that wants to visit and there's a
+
+103
+00:04:57,452 --> 00:04:59,755
+Bible study going on this Sunday at 3,
+
+104
+00:04:59,756 --> 00:05:03,356
+3 p.m. They can chat with the AI related to that if they want
+
+105
+00:05:03,357 --> 00:05:07,209
+to. Uhm. Either way, we can personalize this to your guys' needs.
+
+106
+00:05:07,210 --> 00:05:09,895
+Uhm, and yeah, this is kind of like the demo.
+
+107
+00:05:10,056 --> 00:05:12,934
+Oh, and by the way, I also have a Greeter agent that can get
+
+108
+00:05:12,935 --> 00:05:15,076
+notified. So, once someone fills in their information,
+
+109
+00:05:15,247 --> 00:05:18,247
+whoever is volunteering for Greeter, they could get notified that,
+
+110
+00:05:18,248 --> 00:05:20,353
+hey, Anthony Callender just, uhm,
+
+111
+00:05:20,363 --> 00:05:23,679
+booked a visit. this Sunday. And then, the Greeter can then take that information
+
+112
+00:05:23,680 --> 00:05:25,784
+and do, you know, he can take that information,
+
+113
+00:05:25,785 --> 00:05:28,791
+whoever is the Greeter there, and maybe they can follow up via call or
+
+114
+00:05:29,023 --> 00:05:31,172
+follow up via text and say, hey, I noticed that you, you, you guys
+
+115
+00:05:31,173 --> 00:05:33,656
+are planning a visit coming up. Just wanted to check in if, you know,
+
+116
+00:05:33,657 --> 00:05:36,907
+things like that, right? Those are the things that, that really nurtures the visitor.
+
+117
+00:05:36,908 --> 00:05:38,986
+So, my goal with this is to,
+
+118
+00:05:39,199 --> 00:05:41,619
+if you guys are getting maybe 50, 10, 100 visitors,
+
+119
+00:05:41,620 --> 00:05:45,616
+whatever it may be, visitors a month, but only a small percentage is convert
+
+120
+00:05:45,617 --> 00:05:48,963
+to members. My goal with this is to increase that percentage.
+
+121
+00:05:49,187 --> 00:05:52,630
+So, let's suppose, let's suppose that you guys get 10 visitors a month,
+
+122
+00:05:52,758 --> 00:05:56,530
+right? Let's just suppose that's the case, and only 1% of that converts,
+
+123
+00:05:56,531 --> 00:05:58,793
+or 10% of that converts. So, maybe 1 visitor per 10,
+
+124
+00:05:58,794 --> 00:06:02,066
+1 visitor turns into a member per, per visit. Well,
+
+125
+00:06:02,067 --> 00:06:09,243
+my, my goal is to increase that is
+
+126
+00:06:09,244 --> 00:06:11,215
+for us to grow the church, and this is one way to do that,
+
+127
+00:06:11,216 --> 00:06:13,476
+by nurturing the people who are visiting,
+
+128
+00:06:13,644 --> 00:06:16,163
+so that we can help them feel welcome, so that we can help them
+
+129
+00:06:16,437 --> 00:06:20,073
+feel like, you know, because we actually care. We're doing this because we actually
+
+130
+00:06:20,074 --> 00:06:22,583
+care. We just need to implement systems to,
+
+131
+00:06:22,584 --> 00:06:25,035
+in order to make our lives a lot easier and more efficient.
+
+132
+00:06:25,036 --> 00:06:27,099
+So that we can show them that we actually care,
+
+133
+00:06:27,693 --> 00:06:30,638
+and that's kind of the goal behind this system that I've implemented.
+
+134
+00:06:31,360 --> 00:06:34,135
+And any questions you guys have, anything related,
+
+135
+00:06:34,206 --> 00:06:37,438
+just let me know. We can hop on a call and we can discuss
+
+136
+00:06:37,439 --> 00:06:41,078
+any details. Again, this is just a small demo prototype of what's happening.
+
+137
+00:06:41,079 --> 00:06:43,295
+Essentially behind the scenes, right?
+
+138
+00:06:43,296 --> 00:06:46,297
+And just some of the possibilities behind this.
+
+139
+00:06:46,465 --> 00:06:49,211
+Again, the AI system will be connected to any of the latest information on
+
+140
+00:06:49,212 --> 00:06:53,512
+any events that are happening. And this is just to make your guys' lives
+
+141
+00:06:53,513 --> 00:06:57,126
+easier. Uhm, hopefully this is something that's helpful.
+
+142
+00:06:57,127 --> 00:06:59,263
+That's interesting. Uhm, if we want,
+
+143
+00:06:59,264 --> 00:07:01,490
+we can book a call via Zoom, Google Meets,
+
+144
+00:07:01,491 --> 00:07:04,643
+and, yeah, I can answer any questions related.
+
+145
+00:07:05,521 --> 00:07:08,363
+And thank you for taking the time to watch this.
+
+146
+00:07:09,145 --> 00:07:09,686
+God bless, man.
