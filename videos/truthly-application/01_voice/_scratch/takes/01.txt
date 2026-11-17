@@ -1,0 +1,3 @@
+Hi Edward, and the Truthly team. I'm Tony Callender, a backend and AI engineer. Here's a quick look at the work most relevant to this role.
+
+I've been doing production Rails work on a compliance platform serving one hundred sixty-three dioceses, over seventeen thousand churches and schools, and one point six million registered users.

@@ -1,0 +1,3 @@
+I also built an AI analytics agent. Leaders ask questions in plain English. Before it queries the database, it reads the application's code to find how the business actually defines each number. And a read-only guard means it can't change any data.
+
+On that project, I sat down with the managers, wrote down how they define their numbers, and had them sign off before we tested the AI against it.

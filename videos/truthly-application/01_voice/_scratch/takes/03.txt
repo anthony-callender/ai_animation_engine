@@ -1,0 +1,3 @@
+I worked on integrations with outside background-screening and motor vehicle record vendors. REST and SOAP APIs, and the webhooks that keep our records in step with theirs.
+
+Webhooks can arrive twice, or at the same moment. So I worked on duplicate prevention and idempotent handling. The same event, processed twice, still leaves one correct record.

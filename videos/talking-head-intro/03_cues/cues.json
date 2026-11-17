@@ -1,0 +1,1114 @@
+{
+ "meta": {
+  "duration": 58.331,
+  "voice": "../01_voice/voice.mp3",
+  "slug": "talking-head-intro",
+  "music": null,
+  "music_gain": 0.25
+ },
+ "cueList": [
+  {
+   "id": "intro",
+   "start": 0.0,
+   "end": 5.76,
+   "phraseEnd": 0.0,
+   "phrase": null,
+   "text": "",
+   "note": "FULL-SCREEN talking head (placeholder until Tony records). Name lower third.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "first",
+   "start": 5.76,
+   "end": 7.74,
+   "phraseEnd": 6.82,
+   "phrase": "The first one publishes",
+   "text": "The first one publishes",
+   "note": "Head shrinks to the corner bubble. Chip \"01 · Sermon publishing\".",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "steps",
+   "start": 7.74,
+   "end": 12.54,
+   "phraseEnd": 8.68,
+   "phrase": "A volunteer used to",
+   "text": "A volunteer used to",
+   "note": "13 manual-step checklist ticking up, then \"13 steps\" counter.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "flow",
+   "start": 12.54,
+   "end": 22.02,
+   "phraseEnd": 13.34,
+   "phrase": "So I built a",
+   "text": "So I built a",
+   "note": "Pipeline: recorded service -> workflow -> WordPress draft; finds sermon, audio, title/preacher/scripture.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "safe",
+   "start": 22.02,
+   "end": 24.0,
+   "phraseEnd": 23.12,
+   "phrase": "Nothing goes live on",
+   "text": "Nothing goes live on",
+   "note": "Draft card + editor check, \"Nothing goes live on its own\".",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "clip1",
+   "start": 24.0,
+   "end": 27.64,
+   "phraseEnd": 25.0,
+   "phrase": "An editor checks the",
+   "text": "An editor checks the",
+   "note": "REAL CLIP c1 (sermon page, names hidden).",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "second",
+   "start": 27.64,
+   "end": 31.8,
+   "phraseEnd": 29.18,
+   "phrase": "The second one is",
+   "text": "The second one is",
+   "note": "Chip \"02 · AI analyst\", insurance company.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "code",
+   "start": 31.8,
+   "end": 38.38,
+   "phraseEnd": 32.42,
+   "phrase": "Before it writes a",
+   "text": "Before it writes a",
+   "note": "Orb reads code -> definition -> then query.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "clip2",
+   "start": 38.38,
+   "end": 42.54,
+   "phraseEnd": 39.08,
+   "phrase": "Here it is working",
+   "text": "Here it is working.",
+   "note": "REAL CLIP c2 (agent trace; question + client wording blurred).",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "guard",
+   "start": 42.54,
+   "end": 46.68,
+   "phraseEnd": 43.68,
+   "phrase": "Every query goes through",
+   "text": "Every query goes through",
+   "note": "Read-only guard shield, write rejected.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "chart",
+   "start": 46.68,
+   "end": 48.9,
+   "phraseEnd": 47.5,
+   "phrase": "And the team gets",
+   "text": "And the team gets",
+   "note": "REAL CHART c3 (values blurred).",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "close",
+   "start": 48.9,
+   "end": 58.331,
+   "phraseEnd": 50.44,
+   "phrase": "Two different problems, same",
+   "text": "Two different problems, same",
+   "note": "Remove / Keep / Leave chips; then end card.",
+   "score": 1.0,
+   "sfx": []
+  }
+ ],
+ "cues": {
+  "intro": {
+   "id": "intro",
+   "start": 0.0,
+   "end": 5.76,
+   "phraseEnd": 0.0,
+   "phrase": null,
+   "text": "",
+   "note": "FULL-SCREEN talking head (placeholder until Tony records). Name lower third.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "first": {
+   "id": "first",
+   "start": 5.76,
+   "end": 7.74,
+   "phraseEnd": 6.82,
+   "phrase": "The first one publishes",
+   "text": "The first one publishes",
+   "note": "Head shrinks to the corner bubble. Chip \"01 · Sermon publishing\".",
+   "score": 1.0,
+   "sfx": []
+  },
+  "steps": {
+   "id": "steps",
+   "start": 7.74,
+   "end": 12.54,
+   "phraseEnd": 8.68,
+   "phrase": "A volunteer used to",
+   "text": "A volunteer used to",
+   "note": "13 manual-step checklist ticking up, then \"13 steps\" counter.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "flow": {
+   "id": "flow",
+   "start": 12.54,
+   "end": 22.02,
+   "phraseEnd": 13.34,
+   "phrase": "So I built a",
+   "text": "So I built a",
+   "note": "Pipeline: recorded service -> workflow -> WordPress draft; finds sermon, audio, title/preacher/scripture.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "safe": {
+   "id": "safe",
+   "start": 22.02,
+   "end": 24.0,
+   "phraseEnd": 23.12,
+   "phrase": "Nothing goes live on",
+   "text": "Nothing goes live on",
+   "note": "Draft card + editor check, \"Nothing goes live on its own\".",
+   "score": 1.0,
+   "sfx": []
+  },
+  "clip1": {
+   "id": "clip1",
+   "start": 24.0,
+   "end": 27.64,
+   "phraseEnd": 25.0,
+   "phrase": "An editor checks the",
+   "text": "An editor checks the",
+   "note": "REAL CLIP c1 (sermon page, names hidden).",
+   "score": 1.0,
+   "sfx": []
+  },
+  "second": {
+   "id": "second",
+   "start": 27.64,
+   "end": 31.8,
+   "phraseEnd": 29.18,
+   "phrase": "The second one is",
+   "text": "The second one is",
+   "note": "Chip \"02 · AI analyst\", insurance company.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "code": {
+   "id": "code",
+   "start": 31.8,
+   "end": 38.38,
+   "phraseEnd": 32.42,
+   "phrase": "Before it writes a",
+   "text": "Before it writes a",
+   "note": "Orb reads code -> definition -> then query.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "clip2": {
+   "id": "clip2",
+   "start": 38.38,
+   "end": 42.54,
+   "phraseEnd": 39.08,
+   "phrase": "Here it is working",
+   "text": "Here it is working.",
+   "note": "REAL CLIP c2 (agent trace; question + client wording blurred).",
+   "score": 1.0,
+   "sfx": []
+  },
+  "guard": {
+   "id": "guard",
+   "start": 42.54,
+   "end": 46.68,
+   "phraseEnd": 43.68,
+   "phrase": "Every query goes through",
+   "text": "Every query goes through",
+   "note": "Read-only guard shield, write rejected.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "chart": {
+   "id": "chart",
+   "start": 46.68,
+   "end": 48.9,
+   "phraseEnd": 47.5,
+   "phrase": "And the team gets",
+   "text": "And the team gets",
+   "note": "REAL CHART c3 (values blurred).",
+   "score": 1.0,
+   "sfx": []
+  },
+  "close": {
+   "id": "close",
+   "start": 48.9,
+   "end": 58.331,
+   "phraseEnd": 50.44,
+   "phrase": "Two different problems, same",
+   "text": "Two different problems, same",
+   "note": "Remove / Keep / Leave chips; then end card.",
+   "score": 1.0,
+   "sfx": []
+  }
+ },
+ "words": [
+  {
+   "text": "Hi,",
+   "start": 0.0,
+   "end": 0.22
+  },
+  {
+   "text": "I'm",
+   "start": 0.54,
+   "end": 0.74
+  },
+  {
+   "text": "Tony",
+   "start": 0.74,
+   "end": 0.92
+  },
+  {
+   "text": "Callender.",
+   "start": 0.92,
+   "end": 1.36
+  },
+  {
+   "text": "I",
+   "start": 1.84,
+   "end": 1.98
+  },
+  {
+   "text": "build",
+   "start": 1.98,
+   "end": 2.18
+  },
+  {
+   "text": "AI",
+   "start": 2.18,
+   "end": 2.44
+  },
+  {
+   "text": "systems",
+   "start": 2.44,
+   "end": 2.86
+  },
+  {
+   "text": "for",
+   "start": 2.86,
+   "end": 3.14
+  },
+  {
+   "text": "organizations.",
+   "start": 3.14,
+   "end": 3.54
+  },
+  {
+   "text": "Let",
+   "start": 4.3,
+   "end": 4.44
+  },
+  {
+   "text": "me",
+   "start": 4.44,
+   "end": 4.52
+  },
+  {
+   "text": "show",
+   "start": 4.52,
+   "end": 4.66
+  },
+  {
+   "text": "you",
+   "start": 4.66,
+   "end": 4.78
+  },
+  {
+   "text": "two",
+   "start": 4.78,
+   "end": 4.96
+  },
+  {
+   "text": "of",
+   "start": 4.96,
+   "end": 5.08
+  },
+  {
+   "text": "them.",
+   "start": 5.08,
+   "end": 5.26
+  },
+  {
+   "text": "The",
+   "start": 5.76,
+   "end": 5.82
+  },
+  {
+   "text": "first",
+   "start": 5.82,
+   "end": 6.08
+  },
+  {
+   "text": "one",
+   "start": 6.08,
+   "end": 6.3
+  },
+  {
+   "text": "publishes",
+   "start": 6.3,
+   "end": 6.82
+  },
+  {
+   "text": "sermons.",
+   "start": 6.82,
+   "end": 7.24
+  },
+  {
+   "text": "A",
+   "start": 7.74,
+   "end": 7.86
+  },
+  {
+   "text": "volunteer",
+   "start": 7.86,
+   "end": 8.14
+  },
+  {
+   "text": "used",
+   "start": 8.14,
+   "end": 8.54
+  },
+  {
+   "text": "to",
+   "start": 8.54,
+   "end": 8.68
+  },
+  {
+   "text": "do",
+   "start": 8.68,
+   "end": 8.8
+  },
+  {
+   "text": "thirteen",
+   "start": 8.8,
+   "end": 9.36
+  },
+  {
+   "text": "manual",
+   "start": 9.36,
+   "end": 9.76
+  },
+  {
+   "text": "steps",
+   "start": 9.76,
+   "end": 10.18
+  },
+  {
+   "text": "to",
+   "start": 10.18,
+   "end": 10.38
+  },
+  {
+   "text": "get",
+   "start": 10.38,
+   "end": 10.52
+  },
+  {
+   "text": "one",
+   "start": 10.52,
+   "end": 10.9
+  },
+  {
+   "text": "Sunday",
+   "start": 10.9,
+   "end": 11.26
+  },
+  {
+   "text": "sermon",
+   "start": 11.26,
+   "end": 11.56
+  },
+  {
+   "text": "online.",
+   "start": 11.56,
+   "end": 11.96
+  },
+  {
+   "text": "So",
+   "start": 12.54,
+   "end": 12.8
+  },
+  {
+   "text": "I",
+   "start": 12.8,
+   "end": 13.06
+  },
+  {
+   "text": "built",
+   "start": 13.06,
+   "end": 13.22
+  },
+  {
+   "text": "a",
+   "start": 13.22,
+   "end": 13.34
+  },
+  {
+   "text": "workflow",
+   "start": 13.34,
+   "end": 13.72
+  },
+  {
+   "text": "that",
+   "start": 13.72,
+   "end": 13.96
+  },
+  {
+   "text": "turns",
+   "start": 13.96,
+   "end": 14.22
+  },
+  {
+   "text": "the",
+   "start": 14.22,
+   "end": 14.38
+  },
+  {
+   "text": "recorded",
+   "start": 14.38,
+   "end": 14.72
+  },
+  {
+   "text": "service",
+   "start": 14.72,
+   "end": 15.16
+  },
+  {
+   "text": "into",
+   "start": 15.16,
+   "end": 15.48
+  },
+  {
+   "text": "a",
+   "start": 15.48,
+   "end": 15.66
+  },
+  {
+   "text": "WordPress",
+   "start": 15.66,
+   "end": 15.9
+  },
+  {
+   "text": "draft.",
+   "start": 15.9,
+   "end": 16.36
+  },
+  {
+   "text": "It",
+   "start": 16.84,
+   "end": 16.94
+  },
+  {
+   "text": "finds",
+   "start": 16.94,
+   "end": 17.2
+  },
+  {
+   "text": "the",
+   "start": 17.2,
+   "end": 17.38
+  },
+  {
+   "text": "sermon,",
+   "start": 17.38,
+   "end": 17.66
+  },
+  {
+   "text": "prepares",
+   "start": 18.0,
+   "end": 18.24
+  },
+  {
+   "text": "the",
+   "start": 18.24,
+   "end": 18.48
+  },
+  {
+   "text": "audio,",
+   "start": 18.48,
+   "end": 18.8
+  },
+  {
+   "text": "and",
+   "start": 19.16,
+   "end": 19.18
+  },
+  {
+   "text": "adds",
+   "start": 19.18,
+   "end": 19.4
+  },
+  {
+   "text": "the",
+   "start": 19.4,
+   "end": 19.54
+  },
+  {
+   "text": "approved",
+   "start": 19.54,
+   "end": 19.82
+  },
+  {
+   "text": "title,",
+   "start": 19.82,
+   "end": 20.16
+  },
+  {
+   "text": "preacher",
+   "start": 20.52,
+   "end": 20.7
+  },
+  {
+   "text": "and",
+   "start": 21.04,
+   "end": 21.1
+  },
+  {
+   "text": "scripture.",
+   "start": 21.1,
+   "end": 21.34
+  },
+  {
+   "text": "Nothing",
+   "start": 22.02,
+   "end": 22.34
+  },
+  {
+   "text": "goes",
+   "start": 22.34,
+   "end": 22.66
+  },
+  {
+   "text": "live",
+   "start": 22.66,
+   "end": 22.96
+  },
+  {
+   "text": "on",
+   "start": 22.96,
+   "end": 23.12
+  },
+  {
+   "text": "its",
+   "start": 23.12,
+   "end": 23.28
+  },
+  {
+   "text": "own.",
+   "start": 23.28,
+   "end": 23.54
+  },
+  {
+   "text": "An",
+   "start": 24.0,
+   "end": 24.16
+  },
+  {
+   "text": "editor",
+   "start": 24.16,
+   "end": 24.44
+  },
+  {
+   "text": "checks",
+   "start": 24.44,
+   "end": 24.78
+  },
+  {
+   "text": "the",
+   "start": 24.78,
+   "end": 25.0
+  },
+  {
+   "text": "draft",
+   "start": 25.0,
+   "end": 25.32
+  },
+  {
+   "text": "and",
+   "start": 25.32,
+   "end": 25.58
+  },
+  {
+   "text": "publishes",
+   "start": 25.58,
+   "end": 26.14
+  },
+  {
+   "text": "it,",
+   "start": 26.14,
+   "end": 26.32
+  },
+  {
+   "text": "as",
+   "start": 26.32,
+   "end": 26.78
+  },
+  {
+   "text": "a",
+   "start": 26.78,
+   "end": 26.9
+  },
+  {
+   "text": "page",
+   "start": 26.9,
+   "end": 27.08
+  },
+  {
+   "text": "like",
+   "start": 27.08,
+   "end": 27.24
+  },
+  {
+   "text": "this",
+   "start": 27.24,
+   "end": 27.44
+  },
+  {
+   "text": "one.",
+   "start": 27.44,
+   "end": 27.64
+  },
+  {
+   "text": "The",
+   "start": 27.64,
+   "end": 28.3
+  },
+  {
+   "text": "second",
+   "start": 28.3,
+   "end": 28.58
+  },
+  {
+   "text": "one",
+   "start": 28.58,
+   "end": 28.82
+  },
+  {
+   "text": "is",
+   "start": 28.82,
+   "end": 29.18
+  },
+  {
+   "text": "an",
+   "start": 29.18,
+   "end": 29.3
+  },
+  {
+   "text": "AI",
+   "start": 29.3,
+   "end": 29.58
+  },
+  {
+   "text": "analyst",
+   "start": 29.58,
+   "end": 30.1
+  },
+  {
+   "text": "for",
+   "start": 30.1,
+   "end": 30.36
+  },
+  {
+   "text": "an",
+   "start": 30.36,
+   "end": 30.48
+  },
+  {
+   "text": "insurance",
+   "start": 30.48,
+   "end": 30.76
+  },
+  {
+   "text": "company.",
+   "start": 30.76,
+   "end": 31.22
+  },
+  {
+   "text": "Before",
+   "start": 31.8,
+   "end": 31.88
+  },
+  {
+   "text": "it",
+   "start": 31.88,
+   "end": 32.1
+  },
+  {
+   "text": "writes",
+   "start": 32.1,
+   "end": 32.28
+  },
+  {
+   "text": "a",
+   "start": 32.28,
+   "end": 32.42
+  },
+  {
+   "text": "single",
+   "start": 32.42,
+   "end": 32.74
+  },
+  {
+   "text": "query,",
+   "start": 32.74,
+   "end": 33.14
+  },
+  {
+   "text": "it",
+   "start": 33.52,
+   "end": 33.62
+  },
+  {
+   "text": "reads",
+   "start": 33.62,
+   "end": 33.9
+  },
+  {
+   "text": "the",
+   "start": 33.9,
+   "end": 34.08
+  },
+  {
+   "text": "application's",
+   "start": 34.08,
+   "end": 34.72
+  },
+  {
+   "text": "code",
+   "start": 34.72,
+   "end": 35.04
+  },
+  {
+   "text": "to",
+   "start": 35.04,
+   "end": 35.26
+  },
+  {
+   "text": "find",
+   "start": 35.26,
+   "end": 35.46
+  },
+  {
+   "text": "how",
+   "start": 35.46,
+   "end": 35.74
+  },
+  {
+   "text": "the",
+   "start": 35.74,
+   "end": 35.88
+  },
+  {
+   "text": "business",
+   "start": 35.88,
+   "end": 36.24
+  },
+  {
+   "text": "actually",
+   "start": 36.24,
+   "end": 36.72
+  },
+  {
+   "text": "defines",
+   "start": 36.72,
+   "end": 37.12
+  },
+  {
+   "text": "each",
+   "start": 37.12,
+   "end": 37.4
+  },
+  {
+   "text": "number.",
+   "start": 37.4,
+   "end": 37.72
+  },
+  {
+   "text": "Here",
+   "start": 38.38,
+   "end": 38.58
+  },
+  {
+   "text": "it",
+   "start": 38.58,
+   "end": 38.68
+  },
+  {
+   "text": "is",
+   "start": 38.68,
+   "end": 38.78
+  },
+  {
+   "text": "working.",
+   "start": 38.78,
+   "end": 39.08
+  },
+  {
+   "text": "Looking",
+   "start": 39.76,
+   "end": 39.92
+  },
+  {
+   "text": "it",
+   "start": 39.92,
+   "end": 40.1
+  },
+  {
+   "text": "up,",
+   "start": 40.1,
+   "end": 40.28
+  },
+  {
+   "text": "and",
+   "start": 40.28,
+   "end": 40.74
+  },
+  {
+   "text": "checking",
+   "start": 40.74,
+   "end": 41.0
+  },
+  {
+   "text": "how",
+   "start": 41.0,
+   "end": 41.24
+  },
+  {
+   "text": "this",
+   "start": 41.24,
+   "end": 41.4
+  },
+  {
+   "text": "is",
+   "start": 41.4,
+   "end": 41.52
+  },
+  {
+   "text": "defined.",
+   "start": 41.52,
+   "end": 41.86
+  },
+  {
+   "text": "Every",
+   "start": 42.54,
+   "end": 42.78
+  },
+  {
+   "text": "query",
+   "start": 42.78,
+   "end": 43.12
+  },
+  {
+   "text": "goes",
+   "start": 43.12,
+   "end": 43.42
+  },
+  {
+   "text": "through",
+   "start": 43.42,
+   "end": 43.68
+  },
+  {
+   "text": "a",
+   "start": 43.68,
+   "end": 43.82
+  },
+  {
+   "text": "read-only",
+   "start": 43.82,
+   "end": 44.36
+  },
+  {
+   "text": "guard,",
+   "start": 44.36,
+   "end": 44.74
+  },
+  {
+   "text": "so",
+   "start": 44.94,
+   "end": 45.14
+  },
+  {
+   "text": "it",
+   "start": 45.14,
+   "end": 45.26
+  },
+  {
+   "text": "can't",
+   "start": 45.26,
+   "end": 45.56
+  },
+  {
+   "text": "change",
+   "start": 45.56,
+   "end": 45.82
+  },
+  {
+   "text": "any",
+   "start": 45.82,
+   "end": 46.08
+  },
+  {
+   "text": "data.",
+   "start": 46.08,
+   "end": 46.42
+  },
+  {
+   "text": "And",
+   "start": 46.68,
+   "end": 47.0
+  },
+  {
+   "text": "the",
+   "start": 47.0,
+   "end": 47.1
+  },
+  {
+   "text": "team",
+   "start": 47.1,
+   "end": 47.3
+  },
+  {
+   "text": "gets",
+   "start": 47.3,
+   "end": 47.5
+  },
+  {
+   "text": "charts",
+   "start": 47.5,
+   "end": 47.8
+  },
+  {
+   "text": "they",
+   "start": 47.8,
+   "end": 48.0
+  },
+  {
+   "text": "can",
+   "start": 48.0,
+   "end": 48.12
+  },
+  {
+   "text": "check.",
+   "start": 48.12,
+   "end": 48.4
+  },
+  {
+   "text": "Two",
+   "start": 48.9,
+   "end": 49.1
+  },
+  {
+   "text": "different",
+   "start": 49.1,
+   "end": 49.3
+  },
+  {
+   "text": "problems,",
+   "start": 49.3,
+   "end": 49.76
+  },
+  {
+   "text": "same",
+   "start": 50.16,
+   "end": 50.44
+  },
+  {
+   "text": "approach.",
+   "start": 50.44,
+   "end": 50.74
+  },
+  {
+   "text": "Remove",
+   "start": 51.36,
+   "end": 51.6
+  },
+  {
+   "text": "the",
+   "start": 51.6,
+   "end": 51.82
+  },
+  {
+   "text": "repetitive",
+   "start": 51.82,
+   "end": 52.14
+  },
+  {
+   "text": "steps,",
+   "start": 52.14,
+   "end": 52.56
+  },
+  {
+   "text": "keep",
+   "start": 53.02,
+   "end": 53.24
+  },
+  {
+   "text": "the",
+   "start": 53.24,
+   "end": 53.4
+  },
+  {
+   "text": "safeguards,",
+   "start": 53.4,
+   "end": 53.96
+  },
+  {
+   "text": "and",
+   "start": 54.24,
+   "end": 54.34
+  },
+  {
+   "text": "leave",
+   "start": 54.34,
+   "end": 54.56
+  },
+  {
+   "text": "people",
+   "start": 54.56,
+   "end": 54.9
+  },
+  {
+   "text": "in",
+   "start": 54.9,
+   "end": 55.1
+  },
+  {
+   "text": "control.",
+   "start": 55.1,
+   "end": 55.46
+  }
+ ]
+}

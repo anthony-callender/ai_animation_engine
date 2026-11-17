@@ -1,0 +1,987 @@
+{
+ "voice": "voice.mp3",
+ "duration": 78.158,
+ "model": "small",
+ "words": [
+  {
+   "text": "Hi,",
+   "start": 0.0,
+   "end": 0.22
+  },
+  {
+   "text": "I'm",
+   "start": 0.54,
+   "end": 0.76
+  },
+  {
+   "text": "Tony",
+   "start": 0.76,
+   "end": 0.94
+  },
+  {
+   "text": "Callender.",
+   "start": 0.94,
+   "end": 1.38
+  },
+  {
+   "text": "I'm",
+   "start": 1.86,
+   "end": 2.0
+  },
+  {
+   "text": "an",
+   "start": 2.0,
+   "end": 2.1
+  },
+  {
+   "text": "AI",
+   "start": 2.1,
+   "end": 2.3
+  },
+  {
+   "text": "automation",
+   "start": 2.3,
+   "end": 2.74
+  },
+  {
+   "text": "engineer,",
+   "start": 2.74,
+   "end": 3.38
+  },
+  {
+   "text": "and",
+   "start": 3.68,
+   "end": 3.72
+  },
+  {
+   "text": "I",
+   "start": 3.72,
+   "end": 3.82
+  },
+  {
+   "text": "build",
+   "start": 3.82,
+   "end": 4.02
+  },
+  {
+   "text": "AI",
+   "start": 4.02,
+   "end": 4.32
+  },
+  {
+   "text": "agents,",
+   "start": 4.32,
+   "end": 4.8
+  },
+  {
+   "text": "APIs",
+   "start": 5.16,
+   "end": 5.44
+  },
+  {
+   "text": "and",
+   "start": 5.96,
+   "end": 6.04
+  },
+  {
+   "text": "custom",
+   "start": 6.04,
+   "end": 6.28
+  },
+  {
+   "text": "software.",
+   "start": 6.28,
+   "end": 6.72
+  },
+  {
+   "text": "For",
+   "start": 7.34,
+   "end": 7.54
+  },
+  {
+   "text": "a",
+   "start": 7.54,
+   "end": 7.66
+  },
+  {
+   "text": "major",
+   "start": 7.66,
+   "end": 7.84
+  },
+  {
+   "text": "U.S.",
+   "start": 7.84,
+   "end": 8.2
+  },
+  {
+   "text": "compliance",
+   "start": 8.2,
+   "end": 8.6
+  },
+  {
+   "text": "platform,",
+   "start": 8.6,
+   "end": 9.14
+  },
+  {
+   "text": "I",
+   "start": 9.56,
+   "end": 9.68
+  },
+  {
+   "text": "helped",
+   "start": 9.68,
+   "end": 9.84
+  },
+  {
+   "text": "fix",
+   "start": 9.84,
+   "end": 10.08
+  },
+  {
+   "text": "the",
+   "start": 10.08,
+   "end": 10.24
+  },
+  {
+   "text": "problem",
+   "start": 10.24,
+   "end": 10.6
+  },
+  {
+   "text": "behind",
+   "start": 10.6,
+   "end": 10.86
+  },
+  {
+   "text": "2.3",
+   "start": 10.86,
+   "end": 11.8
+  },
+  {
+   "text": "million",
+   "start": 11.8,
+   "end": 12.34
+  },
+  {
+   "text": "unnecessary",
+   "start": 12.34,
+   "end": 12.92
+  },
+  {
+   "text": "inbox",
+   "start": 12.92,
+   "end": 13.44
+  },
+  {
+   "text": "messages,",
+   "start": 13.44,
+   "end": 14.02
+  },
+  {
+   "text": "and",
+   "start": 14.02,
+   "end": 14.54
+  },
+  {
+   "text": "repaired",
+   "start": 14.54,
+   "end": 14.82
+  },
+  {
+   "text": "9,231",
+   "start": 14.82,
+   "end": 16.9
+  },
+  {
+   "text": "background",
+   "start": 16.9,
+   "end": 17.34
+  },
+  {
+   "text": "check",
+   "start": 17.34,
+   "end": 17.64
+  },
+  {
+   "text": "records.",
+   "start": 17.64,
+   "end": 18.0
+  },
+  {
+   "text": "I've",
+   "start": 18.52,
+   "end": 18.82
+  },
+  {
+   "text": "helped",
+   "start": 18.82,
+   "end": 18.98
+  },
+  {
+   "text": "modernize",
+   "start": 18.98,
+   "end": 19.48
+  },
+  {
+   "text": "systems",
+   "start": 19.48,
+   "end": 19.86
+  },
+  {
+   "text": "for",
+   "start": 19.86,
+   "end": 20.18
+  },
+  {
+   "text": "an",
+   "start": 20.18,
+   "end": 20.28
+  },
+  {
+   "text": "organization",
+   "start": 20.28,
+   "end": 20.68
+  },
+  {
+   "text": "serving",
+   "start": 20.68,
+   "end": 21.26
+  },
+  {
+   "text": "163",
+   "start": 21.26,
+   "end": 22.44
+  },
+  {
+   "text": "dioceses,",
+   "start": 22.44,
+   "end": 23.28
+  },
+  {
+   "text": "over",
+   "start": 23.4,
+   "end": 23.6
+  },
+  {
+   "text": "17,000",
+   "start": 23.6,
+   "end": 24.72
+  },
+  {
+   "text": "churches",
+   "start": 24.72,
+   "end": 25.02
+  },
+  {
+   "text": "and",
+   "start": 25.02,
+   "end": 25.24
+  },
+  {
+   "text": "schools,",
+   "start": 25.24,
+   "end": 25.58
+  },
+  {
+   "text": "and",
+   "start": 25.92,
+   "end": 26.14
+  },
+  {
+   "text": "1.6",
+   "start": 26.14,
+   "end": 26.86
+  },
+  {
+   "text": "million",
+   "start": 26.86,
+   "end": 27.36
+  },
+  {
+   "text": "registered",
+   "start": 27.36,
+   "end": 27.78
+  },
+  {
+   "text": "users.",
+   "start": 27.78,
+   "end": 28.2
+  },
+  {
+   "text": "I",
+   "start": 28.2,
+   "end": 28.96
+  },
+  {
+   "text": "built",
+   "start": 28.96,
+   "end": 29.12
+  },
+  {
+   "text": "an",
+   "start": 29.12,
+   "end": 29.26
+  },
+  {
+   "text": "AI",
+   "start": 29.26,
+   "end": 29.5
+  },
+  {
+   "text": "assistant",
+   "start": 29.5,
+   "end": 29.92
+  },
+  {
+   "text": "that",
+   "start": 29.92,
+   "end": 30.26
+  },
+  {
+   "text": "lets",
+   "start": 30.26,
+   "end": 30.46
+  },
+  {
+   "text": "business",
+   "start": 30.46,
+   "end": 30.74
+  },
+  {
+   "text": "leaders",
+   "start": 30.74,
+   "end": 31.08
+  },
+  {
+   "text": "ask",
+   "start": 31.08,
+   "end": 31.38
+  },
+  {
+   "text": "questions",
+   "start": 31.38,
+   "end": 31.78
+  },
+  {
+   "text": "about",
+   "start": 31.78,
+   "end": 32.02
+  },
+  {
+   "text": "their",
+   "start": 32.02,
+   "end": 32.2
+  },
+  {
+   "text": "company,",
+   "start": 32.2,
+   "end": 32.56
+  },
+  {
+   "text": "and",
+   "start": 32.56,
+   "end": 32.98
+  },
+  {
+   "text": "get",
+   "start": 32.98,
+   "end": 33.1
+  },
+  {
+   "text": "answers",
+   "start": 33.1,
+   "end": 33.44
+  },
+  {
+   "text": "straight",
+   "start": 33.44,
+   "end": 33.86
+  },
+  {
+   "text": "from",
+   "start": 33.86,
+   "end": 34.06
+  },
+  {
+   "text": "their",
+   "start": 34.06,
+   "end": 34.2
+  },
+  {
+   "text": "data.",
+   "start": 34.2,
+   "end": 34.48
+  },
+  {
+   "text": "Nobody",
+   "start": 34.9,
+   "end": 35.3
+  },
+  {
+   "text": "has",
+   "start": 35.3,
+   "end": 35.58
+  },
+  {
+   "text": "to",
+   "start": 35.58,
+   "end": 35.7
+  },
+  {
+   "text": "prepare",
+   "start": 35.7,
+   "end": 35.98
+  },
+  {
+   "text": "the",
+   "start": 35.98,
+   "end": 36.1
+  },
+  {
+   "text": "report",
+   "start": 36.1,
+   "end": 36.4
+  },
+  {
+   "text": "by",
+   "start": 36.4,
+   "end": 36.6
+  },
+  {
+   "text": "hand.",
+   "start": 36.6,
+   "end": 36.94
+  },
+  {
+   "text": "It",
+   "start": 37.4,
+   "end": 37.54
+  },
+  {
+   "text": "checks",
+   "start": 37.54,
+   "end": 37.8
+  },
+  {
+   "text": "how",
+   "start": 37.8,
+   "end": 38.04
+  },
+  {
+   "text": "the",
+   "start": 38.04,
+   "end": 38.16
+  },
+  {
+   "text": "business",
+   "start": 38.16,
+   "end": 38.48
+  },
+  {
+   "text": "defines",
+   "start": 38.48,
+   "end": 38.98
+  },
+  {
+   "text": "each",
+   "start": 38.98,
+   "end": 39.28
+  },
+  {
+   "text": "number,",
+   "start": 39.28,
+   "end": 39.62
+  },
+  {
+   "text": "and",
+   "start": 39.92,
+   "end": 40.18
+  },
+  {
+   "text": "a",
+   "start": 40.18,
+   "end": 40.32
+  },
+  {
+   "text": "read-only",
+   "start": 40.32,
+   "end": 40.82
+  },
+  {
+   "text": "guard",
+   "start": 40.82,
+   "end": 41.16
+  },
+  {
+   "text": "means",
+   "start": 41.16,
+   "end": 41.46
+  },
+  {
+   "text": "it",
+   "start": 41.46,
+   "end": 41.64
+  },
+  {
+   "text": "can't",
+   "start": 41.64,
+   "end": 41.98
+  },
+  {
+   "text": "change",
+   "start": 41.98,
+   "end": 42.26
+  },
+  {
+   "text": "any",
+   "start": 42.26,
+   "end": 42.56
+  },
+  {
+   "text": "data.",
+   "start": 42.56,
+   "end": 42.88
+  },
+  {
+   "text": "I",
+   "start": 43.4,
+   "end": 43.56
+  },
+  {
+   "text": "also",
+   "start": 43.56,
+   "end": 43.78
+  },
+  {
+   "text": "helped",
+   "start": 43.78,
+   "end": 44.0
+  },
+  {
+   "text": "a",
+   "start": 44.0,
+   "end": 44.14
+  },
+  {
+   "text": "church",
+   "start": 44.14,
+   "end": 44.34
+  },
+  {
+   "text": "automate",
+   "start": 44.34,
+   "end": 44.78
+  },
+  {
+   "text": "its",
+   "start": 44.78,
+   "end": 45.0
+  },
+  {
+   "text": "weekly",
+   "start": 45.0,
+   "end": 45.26
+  },
+  {
+   "text": "sermon",
+   "start": 45.26,
+   "end": 45.66
+  },
+  {
+   "text": "publishing.",
+   "start": 45.66,
+   "end": 46.1
+  },
+  {
+   "text": "Recordings",
+   "start": 46.7,
+   "end": 47.18
+  },
+  {
+   "text": "become",
+   "start": 47.18,
+   "end": 47.44
+  },
+  {
+   "text": "ready-to-publish",
+   "start": 47.44,
+   "end": 48.18
+  },
+  {
+   "text": "pages,",
+   "start": 48.18,
+   "end": 48.68
+  },
+  {
+   "text": "without",
+   "start": 48.68,
+   "end": 49.3
+  },
+  {
+   "text": "the",
+   "start": 49.3,
+   "end": 49.54
+  },
+  {
+   "text": "manual",
+   "start": 49.54,
+   "end": 49.82
+  },
+  {
+   "text": "work.",
+   "start": 49.82,
+   "end": 50.22
+  },
+  {
+   "text": "And",
+   "start": 50.6,
+   "end": 50.94
+  },
+  {
+   "text": "I've",
+   "start": 50.94,
+   "end": 51.22
+  },
+  {
+   "text": "helped",
+   "start": 51.22,
+   "end": 51.36
+  },
+  {
+   "text": "an",
+   "start": 51.36,
+   "end": 51.52
+  },
+  {
+   "text": "AI",
+   "start": 51.52,
+   "end": 51.8
+  },
+  {
+   "text": "language-learning",
+   "start": 51.8,
+   "end": 52.46
+  },
+  {
+   "text": "company",
+   "start": 52.46,
+   "end": 52.92
+  },
+  {
+   "text": "find",
+   "start": 52.92,
+   "end": 53.22
+  },
+  {
+   "text": "its",
+   "start": 53.22,
+   "end": 53.4
+  },
+  {
+   "text": "most",
+   "start": 53.4,
+   "end": 53.72
+  },
+  {
+   "text": "engaged",
+   "start": 53.72,
+   "end": 54.14
+  },
+  {
+   "text": "users,",
+   "start": 54.14,
+   "end": 54.68
+  },
+  {
+   "text": "and",
+   "start": 55.02,
+   "end": 55.38
+  },
+  {
+   "text": "an",
+   "start": 55.38,
+   "end": 55.56
+  },
+  {
+   "text": "AI",
+   "start": 55.56,
+   "end": 55.82
+  },
+  {
+   "text": "fraud-detection",
+   "start": 55.82,
+   "end": 56.52
+  },
+  {
+   "text": "startup",
+   "start": 56.52,
+   "end": 56.98
+  },
+  {
+   "text": "research",
+   "start": 57.18,
+   "end": 57.52
+  },
+  {
+   "text": "and",
+   "start": 57.78,
+   "end": 57.84
+  },
+  {
+   "text": "integrate",
+   "start": 57.84,
+   "end": 58.22
+  },
+  {
+   "text": "new",
+   "start": 58.22,
+   "end": 58.5
+  },
+  {
+   "text": "technology.",
+   "start": 58.5,
+   "end": 59.06
+  },
+  {
+   "text": "Oh,",
+   "start": 59.68,
+   "end": 59.92
+  },
+  {
+   "text": "and",
+   "start": 60.22,
+   "end": 60.32
+  },
+  {
+   "text": "this",
+   "start": 60.32,
+   "end": 60.52
+  },
+  {
+   "text": "video?",
+   "start": 60.52,
+   "end": 60.78
+  },
+  {
+   "text": "One",
+   "start": 61.3,
+   "end": 61.48
+  },
+  {
+   "text": "of",
+   "start": 61.48,
+   "end": 61.56
+  },
+  {
+   "text": "my",
+   "start": 61.56,
+   "end": 61.72
+  },
+  {
+   "text": "AI-augmented",
+   "start": 61.72,
+   "end": 62.42
+  },
+  {
+   "text": "content",
+   "start": 62.42,
+   "end": 62.9
+  },
+  {
+   "text": "workflows",
+   "start": 62.9,
+   "end": 63.22
+  },
+  {
+   "text": "made",
+   "start": 63.22,
+   "end": 63.62
+  },
+  {
+   "text": "it.",
+   "start": 63.62,
+   "end": 63.76
+  },
+  {
+   "text": "My",
+   "start": 64.16,
+   "end": 64.32
+  },
+  {
+   "text": "only",
+   "start": 64.32,
+   "end": 64.48
+  },
+  {
+   "text": "job",
+   "start": 64.48,
+   "end": 64.8
+  },
+  {
+   "text": "was",
+   "start": 64.8,
+   "end": 65.02
+  },
+  {
+   "text": "to",
+   "start": 65.02,
+   "end": 65.16
+  },
+  {
+   "text": "show",
+   "start": 65.16,
+   "end": 65.4
+  },
+  {
+   "text": "up",
+   "start": 65.4,
+   "end": 65.62
+  },
+  {
+   "text": "and",
+   "start": 65.62,
+   "end": 65.8
+  },
+  {
+   "text": "talk.",
+   "start": 65.8,
+   "end": 66.1
+  },
+  {
+   "text": "I",
+   "start": 66.58,
+   "end": 66.74
+  },
+  {
+   "text": "help",
+   "start": 66.74,
+   "end": 66.88
+  },
+  {
+   "text": "businesses",
+   "start": 66.88,
+   "end": 67.18
+  },
+  {
+   "text": "save",
+   "start": 67.18,
+   "end": 67.6
+  },
+  {
+   "text": "time,",
+   "start": 67.6,
+   "end": 67.94
+  },
+  {
+   "text": "eliminate",
+   "start": 68.36,
+   "end": 68.56
+  },
+  {
+   "text": "costly",
+   "start": 68.56,
+   "end": 69.0
+  },
+  {
+   "text": "mistakes,",
+   "start": 69.0,
+   "end": 69.4
+  },
+  {
+   "text": "and",
+   "start": 69.84,
+   "end": 69.92
+  },
+  {
+   "text": "grow",
+   "start": 69.92,
+   "end": 70.22
+  },
+  {
+   "text": "through",
+   "start": 70.22,
+   "end": 70.5
+  },
+  {
+   "text": "AI",
+   "start": 70.5,
+   "end": 70.84
+  },
+  {
+   "text": "and",
+   "start": 70.84,
+   "end": 71.14
+  },
+  {
+   "text": "automation.",
+   "start": 71.14,
+   "end": 71.54
+  },
+  {
+   "text": "Invite",
+   "start": 72.12,
+   "end": 72.38
+  },
+  {
+   "text": "me",
+   "start": 72.38,
+   "end": 72.5
+  },
+  {
+   "text": "to",
+   "start": 72.5,
+   "end": 72.58
+  },
+  {
+   "text": "your",
+   "start": 72.58,
+   "end": 72.74
+  },
+  {
+   "text": "job,",
+   "start": 72.74,
+   "end": 73.02
+  },
+  {
+   "text": "and",
+   "start": 73.28,
+   "end": 73.32
+  },
+  {
+   "text": "let's",
+   "start": 73.32,
+   "end": 73.52
+  },
+  {
+   "text": "talk",
+   "start": 73.52,
+   "end": 73.66
+  },
+  {
+   "text": "about",
+   "start": 73.66,
+   "end": 73.88
+  },
+  {
+   "text": "what",
+   "start": 73.88,
+   "end": 74.06
+  },
+  {
+   "text": "you",
+   "start": 74.06,
+   "end": 74.28
+  },
+  {
+   "text": "need",
+   "start": 74.28,
+   "end": 74.46
+  },
+  {
+   "text": "automated.",
+   "start": 74.46,
+   "end": 74.84
+  }
+ ]
+}
