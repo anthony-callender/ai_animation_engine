@@ -1,0 +1,9 @@
+I plan each scene against those words. This card appears on this word.
+
+Then AI writes the code for every scene. Every box, every number, every check mark.
+
+And the code draws every frame, thirty times a second, timed to my voice.
+
+Why code instead of a generator? It's precise. A number on screen is the real number. It's predictable. Render it again tomorrow, and you get the same video. And it doesn't have that generic AI look.
+
+This video was made the same way.

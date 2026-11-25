@@ -1,0 +1,895 @@
+{
+ "meta": {
+  "duration": 45.97,
+  "voice": "../01_voice/voice.mp3",
+  "slug": "prayer-line-reel",
+  "music": null,
+  "music_gain": 0.25
+ },
+ "cueList": [
+  {
+   "id": "q",
+   "start": 0.0,
+   "end": 2.44,
+   "phraseEnd": 0.0,
+   "phrase": null,
+   "text": "",
+   "note": "The question, big text. No captions.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "depends",
+   "start": 2.44,
+   "end": 4.94,
+   "phraseEnd": 3.18,
+   "phrase": "It depends on what",
+   "text": "It depends on what",
+   "note": "\"handle\" splits into two meanings: Pray for someone / Get the request to someone.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "pray",
+   "start": 4.94,
+   "end": 8.88,
+   "phraseEnd": 5.58,
+   "phrase": "Praying for someone?",
+   "text": "Praying for someone?",
+   "note": "Praying: a person card, \"Always a person\"; the AI orb crossed out.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "route",
+   "start": 8.88,
+   "end": 12.68,
+   "phraseEnd": 9.78,
+   "phrase": "But getting the request",
+   "text": "But getting the request",
+   "note": "A request envelope travels from a visitor to the right person; the orb helps carry it.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "line",
+   "start": 12.68,
+   "end": 14.44,
+   "phraseEnd": 13.44,
+   "phrase": "Here's where I draw",
+   "text": "Here's where I draw",
+   "note": "\"Where I draw the line\" with a line drawn across.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "hard",
+   "start": 14.44,
+   "end": 22.36,
+   "phraseEnd": 15.36,
+   "phrase": "When someone asks for",
+   "text": "When someone asks for",
+   "note": "Chat bubble \"Please pray for...\" then the hard-part chips: diagnosis, marriage, a son who stopped calling.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "nothere",
+   "start": 22.36,
+   "end": 26.92,
+   "phraseEnd": 23.34,
+   "phrase": "That shouldn't sit in",
+   "text": "That shouldn't sit in",
+   "note": "Chat history card + outside AI cloud, both crossed.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "form",
+   "start": 26.92,
+   "end": 31.14,
+   "phraseEnd": 28.22,
+   "phrase": "So prayer requests get",
+   "text": "So prayer requests get",
+   "note": "A dedicated Prayer request form, sent straight to the pastor.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "filter",
+   "start": 31.14,
+   "end": 38.78,
+   "phraseEnd": 31.76,
+   "phrase": "And if someone types",
+   "text": "And if someone types",
+   "note": "Chat message -> local filter (shield, \"on our side\") -> blocked from outside AI, routed privately to the pastor.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "never",
+   "start": 38.78,
+   "end": 45.97,
+   "phraseEnd": 40.24,
+   "phrase": "The AI never prays.",
+   "text": "The AI never prays.",
+   "note": "Orb: \"Never prays\". Envelope to a person: \"Gets it to someone who will\". Then the end card.",
+   "score": 1.0,
+   "sfx": []
+  }
+ ],
+ "cues": {
+  "q": {
+   "id": "q",
+   "start": 0.0,
+   "end": 2.44,
+   "phraseEnd": 0.0,
+   "phrase": null,
+   "text": "",
+   "note": "The question, big text. No captions.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "depends": {
+   "id": "depends",
+   "start": 2.44,
+   "end": 4.94,
+   "phraseEnd": 3.18,
+   "phrase": "It depends on what",
+   "text": "It depends on what",
+   "note": "\"handle\" splits into two meanings: Pray for someone / Get the request to someone.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "pray": {
+   "id": "pray",
+   "start": 4.94,
+   "end": 8.88,
+   "phraseEnd": 5.58,
+   "phrase": "Praying for someone?",
+   "text": "Praying for someone?",
+   "note": "Praying: a person card, \"Always a person\"; the AI orb crossed out.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "route": {
+   "id": "route",
+   "start": 8.88,
+   "end": 12.68,
+   "phraseEnd": 9.78,
+   "phrase": "But getting the request",
+   "text": "But getting the request",
+   "note": "A request envelope travels from a visitor to the right person; the orb helps carry it.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "line": {
+   "id": "line",
+   "start": 12.68,
+   "end": 14.44,
+   "phraseEnd": 13.44,
+   "phrase": "Here's where I draw",
+   "text": "Here's where I draw",
+   "note": "\"Where I draw the line\" with a line drawn across.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "hard": {
+   "id": "hard",
+   "start": 14.44,
+   "end": 22.36,
+   "phraseEnd": 15.36,
+   "phrase": "When someone asks for",
+   "text": "When someone asks for",
+   "note": "Chat bubble \"Please pray for...\" then the hard-part chips: diagnosis, marriage, a son who stopped calling.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "nothere": {
+   "id": "nothere",
+   "start": 22.36,
+   "end": 26.92,
+   "phraseEnd": 23.34,
+   "phrase": "That shouldn't sit in",
+   "text": "That shouldn't sit in",
+   "note": "Chat history card + outside AI cloud, both crossed.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "form": {
+   "id": "form",
+   "start": 26.92,
+   "end": 31.14,
+   "phraseEnd": 28.22,
+   "phrase": "So prayer requests get",
+   "text": "So prayer requests get",
+   "note": "A dedicated Prayer request form, sent straight to the pastor.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "filter": {
+   "id": "filter",
+   "start": 31.14,
+   "end": 38.78,
+   "phraseEnd": 31.76,
+   "phrase": "And if someone types",
+   "text": "And if someone types",
+   "note": "Chat message -> local filter (shield, \"on our side\") -> blocked from outside AI, routed privately to the pastor.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "never": {
+   "id": "never",
+   "start": 38.78,
+   "end": 45.97,
+   "phraseEnd": 40.24,
+   "phrase": "The AI never prays.",
+   "text": "The AI never prays.",
+   "note": "Orb: \"Never prays\". Envelope to a person: \"Gets it to someone who will\". Then the end card.",
+   "score": 1.0,
+   "sfx": []
+  }
+ },
+ "words": [
+  {
+   "text": "Should",
+   "start": 0.0,
+   "end": 0.22
+  },
+  {
+   "text": "AI",
+   "start": 0.22,
+   "end": 0.5
+  },
+  {
+   "text": "handle",
+   "start": 0.5,
+   "end": 0.94
+  },
+  {
+   "text": "prayer",
+   "start": 0.94,
+   "end": 1.28
+  },
+  {
+   "text": "requests?",
+   "start": 1.28,
+   "end": 1.74
+  },
+  {
+   "text": "It",
+   "start": 2.44,
+   "end": 2.6
+  },
+  {
+   "text": "depends",
+   "start": 2.6,
+   "end": 2.84
+  },
+  {
+   "text": "on",
+   "start": 2.84,
+   "end": 3.04
+  },
+  {
+   "text": "what",
+   "start": 3.04,
+   "end": 3.18
+  },
+  {
+   "text": "you",
+   "start": 3.18,
+   "end": 3.3
+  },
+  {
+   "text": "mean",
+   "start": 3.3,
+   "end": 3.52
+  },
+  {
+   "text": "by",
+   "start": 3.52,
+   "end": 3.72
+  },
+  {
+   "text": "handle.",
+   "start": 3.72,
+   "end": 4.26
+  },
+  {
+   "text": "Praying",
+   "start": 4.94,
+   "end": 5.14
+  },
+  {
+   "text": "for",
+   "start": 5.14,
+   "end": 5.3
+  },
+  {
+   "text": "someone?",
+   "start": 5.3,
+   "end": 5.58
+  },
+  {
+   "text": "That's",
+   "start": 6.06,
+   "end": 6.4
+  },
+  {
+   "text": "always",
+   "start": 6.4,
+   "end": 6.76
+  },
+  {
+   "text": "a",
+   "start": 6.76,
+   "end": 6.94
+  },
+  {
+   "text": "person.",
+   "start": 6.94,
+   "end": 7.2
+  },
+  {
+   "text": "Never",
+   "start": 7.58,
+   "end": 7.9
+  },
+  {
+   "text": "a",
+   "start": 7.9,
+   "end": 8.08
+  },
+  {
+   "text": "machine.",
+   "start": 8.08,
+   "end": 8.34
+  },
+  {
+   "text": "But",
+   "start": 8.88,
+   "end": 9.06
+  },
+  {
+   "text": "getting",
+   "start": 9.06,
+   "end": 9.28
+  },
+  {
+   "text": "the",
+   "start": 9.28,
+   "end": 9.46
+  },
+  {
+   "text": "request",
+   "start": 9.46,
+   "end": 9.78
+  },
+  {
+   "text": "to",
+   "start": 9.78,
+   "end": 9.98
+  },
+  {
+   "text": "the",
+   "start": 9.98,
+   "end": 10.08
+  },
+  {
+   "text": "right",
+   "start": 10.08,
+   "end": 10.22
+  },
+  {
+   "text": "person?",
+   "start": 10.22,
+   "end": 10.64
+  },
+  {
+   "text": "A",
+   "start": 11.16,
+   "end": 11.28
+  },
+  {
+   "text": "machine",
+   "start": 11.28,
+   "end": 11.48
+  },
+  {
+   "text": "can",
+   "start": 11.48,
+   "end": 11.66
+  },
+  {
+   "text": "help",
+   "start": 11.66,
+   "end": 11.84
+  },
+  {
+   "text": "with",
+   "start": 11.84,
+   "end": 12.02
+  },
+  {
+   "text": "that.",
+   "start": 12.02,
+   "end": 12.18
+  },
+  {
+   "text": "Here's",
+   "start": 12.68,
+   "end": 13.04
+  },
+  {
+   "text": "where",
+   "start": 13.04,
+   "end": 13.18
+  },
+  {
+   "text": "I",
+   "start": 13.18,
+   "end": 13.3
+  },
+  {
+   "text": "draw",
+   "start": 13.3,
+   "end": 13.44
+  },
+  {
+   "text": "the",
+   "start": 13.44,
+   "end": 13.58
+  },
+  {
+   "text": "line.",
+   "start": 13.58,
+   "end": 13.84
+  },
+  {
+   "text": "When",
+   "start": 14.44,
+   "end": 14.54
+  },
+  {
+   "text": "someone",
+   "start": 14.54,
+   "end": 14.8
+  },
+  {
+   "text": "asks",
+   "start": 14.8,
+   "end": 15.12
+  },
+  {
+   "text": "for",
+   "start": 15.12,
+   "end": 15.36
+  },
+  {
+   "text": "prayer,",
+   "start": 15.36,
+   "end": 15.72
+  },
+  {
+   "text": "they",
+   "start": 16.08,
+   "end": 16.22
+  },
+  {
+   "text": "often",
+   "start": 16.22,
+   "end": 16.46
+  },
+  {
+   "text": "share",
+   "start": 16.46,
+   "end": 16.7
+  },
+  {
+   "text": "the",
+   "start": 16.7,
+   "end": 16.84
+  },
+  {
+   "text": "hard",
+   "start": 16.84,
+   "end": 17.14
+  },
+  {
+   "text": "part",
+   "start": 17.14,
+   "end": 17.36
+  },
+  {
+   "text": "too.",
+   "start": 17.36,
+   "end": 17.7
+  },
+  {
+   "text": "A",
+   "start": 18.24,
+   "end": 18.38
+  },
+  {
+   "text": "diagnosis.",
+   "start": 18.38,
+   "end": 18.78
+  },
+  {
+   "text": "A",
+   "start": 19.44,
+   "end": 19.58
+  },
+  {
+   "text": "marriage.",
+   "start": 19.58,
+   "end": 19.88
+  },
+  {
+   "text": "A",
+   "start": 20.56,
+   "end": 20.66
+  },
+  {
+   "text": "son",
+   "start": 20.66,
+   "end": 20.94
+  },
+  {
+   "text": "who",
+   "start": 20.94,
+   "end": 21.12
+  },
+  {
+   "text": "stopped",
+   "start": 21.12,
+   "end": 21.38
+  },
+  {
+   "text": "calling.",
+   "start": 21.38,
+   "end": 21.72
+  },
+  {
+   "text": "That",
+   "start": 22.36,
+   "end": 22.58
+  },
+  {
+   "text": "shouldn't",
+   "start": 22.58,
+   "end": 22.9
+  },
+  {
+   "text": "sit",
+   "start": 22.9,
+   "end": 23.18
+  },
+  {
+   "text": "in",
+   "start": 23.18,
+   "end": 23.34
+  },
+  {
+   "text": "a",
+   "start": 23.34,
+   "end": 23.42
+  },
+  {
+   "text": "chatbot's",
+   "start": 23.42,
+   "end": 23.92
+  },
+  {
+   "text": "history,",
+   "start": 23.92,
+   "end": 24.34
+  },
+  {
+   "text": "or",
+   "start": 24.34,
+   "end": 24.86
+  },
+  {
+   "text": "be",
+   "start": 24.86,
+   "end": 25.04
+  },
+  {
+   "text": "sent",
+   "start": 25.04,
+   "end": 25.24
+  },
+  {
+   "text": "to",
+   "start": 25.24,
+   "end": 25.4
+  },
+  {
+   "text": "an",
+   "start": 25.4,
+   "end": 25.52
+  },
+  {
+   "text": "outside",
+   "start": 25.52,
+   "end": 25.76
+  },
+  {
+   "text": "AI.",
+   "start": 25.76,
+   "end": 26.2
+  },
+  {
+   "text": "So",
+   "start": 26.92,
+   "end": 27.16
+  },
+  {
+   "text": "prayer",
+   "start": 27.16,
+   "end": 27.58
+  },
+  {
+   "text": "requests",
+   "start": 27.58,
+   "end": 28.02
+  },
+  {
+   "text": "get",
+   "start": 28.02,
+   "end": 28.22
+  },
+  {
+   "text": "their",
+   "start": 28.22,
+   "end": 28.38
+  },
+  {
+   "text": "own",
+   "start": 28.38,
+   "end": 28.64
+  },
+  {
+   "text": "form,",
+   "start": 28.64,
+   "end": 29.04
+  },
+  {
+   "text": "and",
+   "start": 29.04,
+   "end": 29.38
+  },
+  {
+   "text": "it",
+   "start": 29.38,
+   "end": 29.46
+  },
+  {
+   "text": "goes",
+   "start": 29.46,
+   "end": 29.58
+  },
+  {
+   "text": "straight",
+   "start": 29.58,
+   "end": 29.94
+  },
+  {
+   "text": "to",
+   "start": 29.94,
+   "end": 30.1
+  },
+  {
+   "text": "the",
+   "start": 30.1,
+   "end": 30.22
+  },
+  {
+   "text": "pastor.",
+   "start": 30.22,
+   "end": 30.54
+  },
+  {
+   "text": "And",
+   "start": 31.14,
+   "end": 31.2
+  },
+  {
+   "text": "if",
+   "start": 31.2,
+   "end": 31.28
+  },
+  {
+   "text": "someone",
+   "start": 31.28,
+   "end": 31.52
+  },
+  {
+   "text": "types",
+   "start": 31.52,
+   "end": 31.76
+  },
+  {
+   "text": "one",
+   "start": 31.76,
+   "end": 31.96
+  },
+  {
+   "text": "into",
+   "start": 31.96,
+   "end": 32.14
+  },
+  {
+   "text": "the",
+   "start": 32.14,
+   "end": 32.28
+  },
+  {
+   "text": "chat",
+   "start": 32.28,
+   "end": 32.5
+  },
+  {
+   "text": "anyway,",
+   "start": 32.5,
+   "end": 32.86
+  },
+  {
+   "text": "a",
+   "start": 33.32,
+   "end": 33.46
+  },
+  {
+   "text": "small",
+   "start": 33.46,
+   "end": 33.76
+  },
+  {
+   "text": "local",
+   "start": 33.76,
+   "end": 34.08
+  },
+  {
+   "text": "filter",
+   "start": 34.08,
+   "end": 34.56
+  },
+  {
+   "text": "catches",
+   "start": 34.56,
+   "end": 34.98
+  },
+  {
+   "text": "it",
+   "start": 34.98,
+   "end": 35.18
+  },
+  {
+   "text": "before",
+   "start": 35.18,
+   "end": 35.4
+  },
+  {
+   "text": "anything",
+   "start": 35.4,
+   "end": 35.82
+  },
+  {
+   "text": "is",
+   "start": 35.82,
+   "end": 36.04
+  },
+  {
+   "text": "sent",
+   "start": 36.04,
+   "end": 36.22
+  },
+  {
+   "text": "out,",
+   "start": 36.22,
+   "end": 36.5
+  },
+  {
+   "text": "and",
+   "start": 36.5,
+   "end": 36.74
+  },
+  {
+   "text": "routes",
+   "start": 36.74,
+   "end": 36.96
+  },
+  {
+   "text": "it",
+   "start": 36.96,
+   "end": 37.1
+  },
+  {
+   "text": "privately",
+   "start": 37.1,
+   "end": 37.46
+  },
+  {
+   "text": "to",
+   "start": 37.46,
+   "end": 37.8
+  },
+  {
+   "text": "the",
+   "start": 37.8,
+   "end": 37.9
+  },
+  {
+   "text": "pastor.",
+   "start": 37.9,
+   "end": 38.22
+  },
+  {
+   "text": "The",
+   "start": 38.78,
+   "end": 38.92
+  },
+  {
+   "text": "AI",
+   "start": 38.92,
+   "end": 39.22
+  },
+  {
+   "text": "never",
+   "start": 39.22,
+   "end": 39.62
+  },
+  {
+   "text": "prays.",
+   "start": 39.62,
+   "end": 40.24
+  },
+  {
+   "text": "It",
+   "start": 40.5,
+   "end": 40.64
+  },
+  {
+   "text": "just",
+   "start": 40.64,
+   "end": 40.8
+  },
+  {
+   "text": "gets",
+   "start": 40.8,
+   "end": 41.02
+  },
+  {
+   "text": "the",
+   "start": 41.02,
+   "end": 41.18
+  },
+  {
+   "text": "request",
+   "start": 41.18,
+   "end": 41.52
+  },
+  {
+   "text": "to",
+   "start": 41.52,
+   "end": 41.72
+  },
+  {
+   "text": "someone",
+   "start": 41.72,
+   "end": 41.98
+  },
+  {
+   "text": "who",
+   "start": 41.98,
+   "end": 42.2
+  },
+  {
+   "text": "will.",
+   "start": 42.2,
+   "end": 42.4
+  }
+ ]
+}

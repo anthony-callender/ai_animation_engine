@@ -1,0 +1,1453 @@
+{
+ "meta": {
+  "duration": 94.13,
+  "voice": "../01_voice/voice.mp3",
+  "slug": "tourism-loom-intro",
+  "music": null,
+  "music_gain": 0.25
+ },
+ "cueList": [
+  {
+   "id": "intro",
+   "start": 0.0,
+   "end": 8.6,
+   "phraseEnd": 0.0,
+   "phrase": null,
+   "text": "",
+   "note": "Tony full screen (real video, clone voice synced); lower third; \"Made for ITS Malta\" chip. Fades out at 8.45 s.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "colossyan",
+   "start": 8.6,
+   "end": 12.66,
+   "phraseEnd": 9.8,
+   "phrase": "A presenter, a few",
+   "text": "A presenter, a few",
+   "note": "Colossyan demo clip in a browser frame; chips Presenter / Slides / Text on screen.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "brief",
+   "start": 12.66,
+   "end": 29.82,
+   "phraseEnd": 13.78,
+   "phrase": "I read your brief",
+   "text": "I read your brief.",
+   "note": "Their job post (cropped screenshot); highlighter on ITS Malta, Colossyan, 3–5 min, ~120 videos, batches, short-notice, consistent quality.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "too",
+   "start": 29.82,
+   "end": 36.04,
+   "phraseEnd": 30.54,
+   "phrase": "We can build these",
+   "text": "We can build these",
+   "note": "Slide → \"Built in Colossyan\", then \"+ Animation\" living scene.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "process",
+   "start": 36.04,
+   "end": 50.0,
+   "phraseEnd": 36.76,
+   "phrase": "We start from your",
+   "text": "We start from your",
+   "note": "Script → Voiceover → Storyboard → Animation; word-timed waveform; \"You review\" gates.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "title",
+   "start": 50.0,
+   "end": 54.36,
+   "phraseEnd": 51.2,
+   "phrase": "Here's a quick ten-second",
+   "text": "Here's a quick ten-second",
+   "note": "\"10-second sample · made for your students\".",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "sample",
+   "start": 54.36,
+   "end": 68.12,
+   "phraseEnd": 55.56,
+   "phrase": "Malta has three main",
+   "text": "Malta has three main",
+   "note": "Sea; Gozo / Comino / Malta pop on their names; Valletta pin + card + UNESCO badge; English / Maltese chips.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "avatar",
+   "start": 68.12,
+   "end": 77.88,
+   "phraseEnd": 68.68,
+   "phrase": "And if you'd like",
+   "text": "And if you'd like",
+   "note": "Sample replays dimmed; Colossyan library clip slides in.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "close",
+   "start": 77.88,
+   "end": 94.13,
+   "phraseEnd": 78.68,
+   "phrase": "So this is just",
+   "text": "So this is just",
+   "note": "Tony's end card (real video, clone voice synced): questions / send your script / hop on a call.",
+   "score": 1.0,
+   "sfx": []
+  }
+ ],
+ "cues": {
+  "intro": {
+   "id": "intro",
+   "start": 0.0,
+   "end": 8.6,
+   "phraseEnd": 0.0,
+   "phrase": null,
+   "text": "",
+   "note": "Tony full screen (real video, clone voice synced); lower third; \"Made for ITS Malta\" chip. Fades out at 8.45 s.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "colossyan": {
+   "id": "colossyan",
+   "start": 8.6,
+   "end": 12.66,
+   "phraseEnd": 9.8,
+   "phrase": "A presenter, a few",
+   "text": "A presenter, a few",
+   "note": "Colossyan demo clip in a browser frame; chips Presenter / Slides / Text on screen.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "brief": {
+   "id": "brief",
+   "start": 12.66,
+   "end": 29.82,
+   "phraseEnd": 13.78,
+   "phrase": "I read your brief",
+   "text": "I read your brief.",
+   "note": "Their job post (cropped screenshot); highlighter on ITS Malta, Colossyan, 3–5 min, ~120 videos, batches, short-notice, consistent quality.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "too": {
+   "id": "too",
+   "start": 29.82,
+   "end": 36.04,
+   "phraseEnd": 30.54,
+   "phrase": "We can build these",
+   "text": "We can build these",
+   "note": "Slide → \"Built in Colossyan\", then \"+ Animation\" living scene.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "process": {
+   "id": "process",
+   "start": 36.04,
+   "end": 50.0,
+   "phraseEnd": 36.76,
+   "phrase": "We start from your",
+   "text": "We start from your",
+   "note": "Script → Voiceover → Storyboard → Animation; word-timed waveform; \"You review\" gates.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "title": {
+   "id": "title",
+   "start": 50.0,
+   "end": 54.36,
+   "phraseEnd": 51.2,
+   "phrase": "Here's a quick ten-second",
+   "text": "Here's a quick ten-second",
+   "note": "\"10-second sample · made for your students\".",
+   "score": 1.0,
+   "sfx": []
+  },
+  "sample": {
+   "id": "sample",
+   "start": 54.36,
+   "end": 68.12,
+   "phraseEnd": 55.56,
+   "phrase": "Malta has three main",
+   "text": "Malta has three main",
+   "note": "Sea; Gozo / Comino / Malta pop on their names; Valletta pin + card + UNESCO badge; English / Maltese chips.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "avatar": {
+   "id": "avatar",
+   "start": 68.12,
+   "end": 77.88,
+   "phraseEnd": 68.68,
+   "phrase": "And if you'd like",
+   "text": "And if you'd like",
+   "note": "Sample replays dimmed; Colossyan library clip slides in.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "close": {
+   "id": "close",
+   "start": 77.88,
+   "end": 94.13,
+   "phraseEnd": 78.68,
+   "phrase": "So this is just",
+   "text": "So this is just",
+   "note": "Tony's end card (real video, clone voice synced): questions / send your script / hop on a call.",
+   "score": 1.0,
+   "sfx": []
+  }
+ },
+ "words": [
+  {
+   "text": "Hi,",
+   "start": 0.97,
+   "end": 1.54
+  },
+  {
+   "text": "I'm",
+   "start": 1.6,
+   "end": 1.716
+  },
+  {
+   "text": "Tony",
+   "start": 1.793,
+   "end": 1.948
+  },
+  {
+   "text": "Callender.",
+   "start": 2.025,
+   "end": 2.72
+  },
+  {
+   "text": "And",
+   "start": 2.92,
+   "end": 2.945
+  },
+  {
+   "text": "I",
+   "start": 2.995,
+   "end": 3.045
+  },
+  {
+   "text": "create",
+   "start": 3.145,
+   "end": 3.245
+  },
+  {
+   "text": "educational",
+   "start": 3.295,
+   "end": 3.695
+  },
+  {
+   "text": "animated",
+   "start": 3.745,
+   "end": 3.995
+  },
+  {
+   "text": "videos,",
+   "start": 4.045,
+   "end": 4.545
+  },
+  {
+   "text": "and",
+   "start": 4.47,
+   "end": 4.498
+  },
+  {
+   "text": "we",
+   "start": 4.553,
+   "end": 4.608
+  },
+  {
+   "text": "made",
+   "start": 4.691,
+   "end": 4.773
+  },
+  {
+   "text": "this",
+   "start": 4.829,
+   "end": 4.884
+  },
+  {
+   "text": "one",
+   "start": 4.939,
+   "end": 5.049
+  },
+  {
+   "text": "just",
+   "start": 5.27,
+   "end": 5.38
+  },
+  {
+   "text": "for",
+   "start": 5.436,
+   "end": 5.491
+  },
+  {
+   "text": "you.",
+   "start": 5.546,
+   "end": 5.822
+  },
+  {
+   "text": "You've",
+   "start": 5.9,
+   "end": 6.007
+  },
+  {
+   "text": "probably",
+   "start": 6.06,
+   "end": 6.273
+  },
+  {
+   "text": "seen",
+   "start": 6.327,
+   "end": 6.433
+  },
+  {
+   "text": "videos",
+   "start": 6.487,
+   "end": 6.753
+  },
+  {
+   "text": "like",
+   "start": 6.833,
+   "end": 6.913
+  },
+  {
+   "text": "this",
+   "start": 6.967,
+   "end": 7.02
+  },
+  {
+   "text": "one,",
+   "start": 7.073,
+   "end": 7.447
+  },
+  {
+   "text": "made",
+   "start": 7.5,
+   "end": 7.607
+  },
+  {
+   "text": "in",
+   "start": 7.633,
+   "end": 7.66
+  },
+  {
+   "text": "Colossyan.",
+   "start": 7.7,
+   "end": 8.307
+  },
+  {
+   "text": "A",
+   "start": 8.6,
+   "end": 8.68
+  },
+  {
+   "text": "presenter,",
+   "start": 8.8,
+   "end": 9.56
+  },
+  {
+   "text": "a",
+   "start": 9.6,
+   "end": 9.64
+  },
+  {
+   "text": "few",
+   "start": 9.72,
+   "end": 9.8
+  },
+  {
+   "text": "slides,",
+   "start": 9.88,
+   "end": 10.6
+  },
+  {
+   "text": "and",
+   "start": 10.68,
+   "end": 10.76
+  },
+  {
+   "text": "text",
+   "start": 10.84,
+   "end": 11.16
+  },
+  {
+   "text": "on",
+   "start": 11.24,
+   "end": 11.32
+  },
+  {
+   "text": "screen.",
+   "start": 11.4,
+   "end": 11.96
+  },
+  {
+   "text": "I",
+   "start": 12.66,
+   "end": 12.82
+  },
+  {
+   "text": "read",
+   "start": 12.9,
+   "end": 12.98
+  },
+  {
+   "text": "your",
+   "start": 13.06,
+   "end": 13.14
+  },
+  {
+   "text": "brief.",
+   "start": 13.38,
+   "end": 13.78
+  },
+  {
+   "text": "The",
+   "start": 14.13,
+   "end": 14.29
+  },
+  {
+   "text": "Institute",
+   "start": 14.37,
+   "end": 14.77
+  },
+  {
+   "text": "of",
+   "start": 14.81,
+   "end": 14.85
+  },
+  {
+   "text": "Tourism",
+   "start": 14.93,
+   "end": 15.25
+  },
+  {
+   "text": "Studies",
+   "start": 15.33,
+   "end": 15.65
+  },
+  {
+   "text": "in",
+   "start": 15.73,
+   "end": 15.81
+  },
+  {
+   "text": "Malta",
+   "start": 15.93,
+   "end": 16.37
+  },
+  {
+   "text": "needs",
+   "start": 16.53,
+   "end": 16.69
+  },
+  {
+   "text": "around",
+   "start": 16.89,
+   "end": 17.09
+  },
+  {
+   "text": "a",
+   "start": 17.17,
+   "end": 17.25
+  },
+  {
+   "text": "hundred",
+   "start": 17.33,
+   "end": 17.57
+  },
+  {
+   "text": "and",
+   "start": 17.65,
+   "end": 17.73
+  },
+  {
+   "text": "twenty",
+   "start": 17.85,
+   "end": 17.97
+  },
+  {
+   "text": "training",
+   "start": 18.05,
+   "end": 18.37
+  },
+  {
+   "text": "videos,",
+   "start": 18.45,
+   "end": 19.17
+  },
+  {
+   "text": "three",
+   "start": 19.25,
+   "end": 19.33
+  },
+  {
+   "text": "to",
+   "start": 19.41,
+   "end": 19.49
+  },
+  {
+   "text": "five",
+   "start": 19.57,
+   "end": 19.65
+  },
+  {
+   "text": "minutes",
+   "start": 19.73,
+   "end": 19.97
+  },
+  {
+   "text": "each,",
+   "start": 20.05,
+   "end": 20.61
+  },
+  {
+   "text": "made",
+   "start": 20.73,
+   "end": 20.85
+  },
+  {
+   "text": "in",
+   "start": 20.89,
+   "end": 20.93
+  },
+  {
+   "text": "Colossyan",
+   "start": 21.01,
+   "end": 21.57
+  },
+  {
+   "text": "from",
+   "start": 21.73,
+   "end": 21.81
+  },
+  {
+   "text": "your",
+   "start": 21.89,
+   "end": 22.05
+  },
+  {
+   "text": "own",
+   "start": 22.17,
+   "end": 22.29
+  },
+  {
+   "text": "scripts.",
+   "start": 22.53,
+   "end": 23.09
+  },
+  {
+   "text": "Delivered",
+   "start": 23.44,
+   "end": 23.84
+  },
+  {
+   "text": "in",
+   "start": 23.92,
+   "end": 24.0
+  },
+  {
+   "text": "batches,",
+   "start": 24.08,
+   "end": 24.96
+  },
+  {
+   "text": "often",
+   "start": 25.12,
+   "end": 25.28
+  },
+  {
+   "text": "at",
+   "start": 25.36,
+   "end": 25.44
+  },
+  {
+   "text": "short",
+   "start": 25.56,
+   "end": 25.68
+  },
+  {
+   "text": "notice,",
+   "start": 25.76,
+   "end": 26.48
+  },
+  {
+   "text": "with",
+   "start": 26.56,
+   "end": 26.64
+  },
+  {
+   "text": "consistent",
+   "start": 26.96,
+   "end": 27.28
+  },
+  {
+   "text": "quality",
+   "start": 27.36,
+   "end": 27.76
+  },
+  {
+   "text": "across",
+   "start": 27.84,
+   "end": 28.16
+  },
+  {
+   "text": "all",
+   "start": 28.4,
+   "end": 28.48
+  },
+  {
+   "text": "of",
+   "start": 28.56,
+   "end": 28.64
+  },
+  {
+   "text": "them.",
+   "start": 28.76,
+   "end": 29.12
+  },
+  {
+   "text": "We",
+   "start": 29.82,
+   "end": 29.98
+  },
+  {
+   "text": "can",
+   "start": 30.06,
+   "end": 30.14
+  },
+  {
+   "text": "build",
+   "start": 30.26,
+   "end": 30.38
+  },
+  {
+   "text": "these",
+   "start": 30.46,
+   "end": 30.54
+  },
+  {
+   "text": "in",
+   "start": 30.58,
+   "end": 30.62
+  },
+  {
+   "text": "Colossyan",
+   "start": 30.7,
+   "end": 31.18
+  },
+  {
+   "text": "for",
+   "start": 31.26,
+   "end": 31.42
+  },
+  {
+   "text": "you.",
+   "start": 31.5,
+   "end": 31.82
+  },
+  {
+   "text": "And",
+   "start": 31.98,
+   "end": 32.3
+  },
+  {
+   "text": "we",
+   "start": 32.46,
+   "end": 32.54
+  },
+  {
+   "text": "can",
+   "start": 32.62,
+   "end": 32.7
+  },
+  {
+   "text": "also",
+   "start": 32.78,
+   "end": 33.02
+  },
+  {
+   "text": "bring",
+   "start": 33.1,
+   "end": 33.26
+  },
+  {
+   "text": "your",
+   "start": 33.3,
+   "end": 33.34
+  },
+  {
+   "text": "lessons",
+   "start": 33.42,
+   "end": 33.74
+  },
+  {
+   "text": "to",
+   "start": 33.82,
+   "end": 33.9
+  },
+  {
+   "text": "life",
+   "start": 34.06,
+   "end": 34.3
+  },
+  {
+   "text": "with",
+   "start": 34.38,
+   "end": 34.46
+  },
+  {
+   "text": "animation.",
+   "start": 34.78,
+   "end": 35.34
+  },
+  {
+   "text": "We",
+   "start": 36.04,
+   "end": 36.2
+  },
+  {
+   "text": "start",
+   "start": 36.32,
+   "end": 36.44
+  },
+  {
+   "text": "from",
+   "start": 36.52,
+   "end": 36.6
+  },
+  {
+   "text": "your",
+   "start": 36.68,
+   "end": 36.76
+  },
+  {
+   "text": "script",
+   "start": 36.84,
+   "end": 37.24
+  },
+  {
+   "text": "and",
+   "start": 37.4,
+   "end": 37.48
+  },
+  {
+   "text": "record",
+   "start": 37.68,
+   "end": 37.88
+  },
+  {
+   "text": "a",
+   "start": 37.96,
+   "end": 38.04
+  },
+  {
+   "text": "clear",
+   "start": 38.12,
+   "end": 38.44
+  },
+  {
+   "text": "voiceover.",
+   "start": 38.52,
+   "end": 39.4
+  },
+  {
+   "text": "Then",
+   "start": 39.75,
+   "end": 39.99
+  },
+  {
+   "text": "we",
+   "start": 40.07,
+   "end": 40.15
+  },
+  {
+   "text": "storyboard",
+   "start": 40.23,
+   "end": 40.79
+  },
+  {
+   "text": "every",
+   "start": 40.87,
+   "end": 41.11
+  },
+  {
+   "text": "scene,",
+   "start": 41.27,
+   "end": 41.75
+  },
+  {
+   "text": "and",
+   "start": 41.83,
+   "end": 41.91
+  },
+  {
+   "text": "animate",
+   "start": 42.11,
+   "end": 42.31
+  },
+  {
+   "text": "each",
+   "start": 42.47,
+   "end": 42.63
+  },
+  {
+   "text": "point",
+   "start": 42.79,
+   "end": 43.03
+  },
+  {
+   "text": "on",
+   "start": 43.11,
+   "end": 43.19
+  },
+  {
+   "text": "the",
+   "start": 43.27,
+   "end": 43.35
+  },
+  {
+   "text": "exact",
+   "start": 43.43,
+   "end": 43.91
+  },
+  {
+   "text": "word",
+   "start": 43.99,
+   "end": 44.23
+  },
+  {
+   "text": "it's",
+   "start": 44.27,
+   "end": 44.39
+  },
+  {
+   "text": "spoken.",
+   "start": 44.63,
+   "end": 45.03
+  },
+  {
+   "text": "You",
+   "start": 45.38,
+   "end": 45.54
+  },
+  {
+   "text": "review",
+   "start": 45.7,
+   "end": 45.86
+  },
+  {
+   "text": "the",
+   "start": 45.9,
+   "end": 45.94
+  },
+  {
+   "text": "storyboard",
+   "start": 46.02,
+   "end": 46.66
+  },
+  {
+   "text": "and",
+   "start": 46.74,
+   "end": 46.9
+  },
+  {
+   "text": "the",
+   "start": 46.94,
+   "end": 46.98
+  },
+  {
+   "text": "draft",
+   "start": 47.06,
+   "end": 47.54
+  },
+  {
+   "text": "before",
+   "start": 47.74,
+   "end": 47.94
+  },
+  {
+   "text": "anything",
+   "start": 48.02,
+   "end": 48.42
+  },
+  {
+   "text": "is",
+   "start": 48.46,
+   "end": 48.5
+  },
+  {
+   "text": "final.",
+   "start": 48.58,
+   "end": 49.3
+  },
+  {
+   "text": "Here's",
+   "start": 50.0,
+   "end": 50.24
+  },
+  {
+   "text": "a",
+   "start": 50.28,
+   "end": 50.32
+  },
+  {
+   "text": "quick",
+   "start": 50.4,
+   "end": 50.64
+  },
+  {
+   "text": "ten-second",
+   "start": 50.72,
+   "end": 51.2
+  },
+  {
+   "text": "sample,",
+   "start": 51.28,
+   "end": 52.0
+  },
+  {
+   "text": "made",
+   "start": 52.08,
+   "end": 52.24
+  },
+  {
+   "text": "for",
+   "start": 52.28,
+   "end": 52.32
+  },
+  {
+   "text": "your",
+   "start": 52.4,
+   "end": 52.48
+  },
+  {
+   "text": "students.",
+   "start": 52.56,
+   "end": 53.36
+  },
+  {
+   "text": "Malta",
+   "start": 54.36,
+   "end": 54.76
+  },
+  {
+   "text": "has",
+   "start": 54.88,
+   "end": 55.0
+  },
+  {
+   "text": "three",
+   "start": 55.08,
+   "end": 55.32
+  },
+  {
+   "text": "main",
+   "start": 55.4,
+   "end": 55.56
+  },
+  {
+   "text": "islands:",
+   "start": 55.64,
+   "end": 56.52
+  },
+  {
+   "text": "Malta,",
+   "start": 56.6,
+   "end": 57.32
+  },
+  {
+   "text": "Gozo,",
+   "start": 57.4,
+   "end": 58.04
+  },
+  {
+   "text": "and",
+   "start": 58.12,
+   "end": 58.2
+  },
+  {
+   "text": "Comino.",
+   "start": 58.28,
+   "end": 59.0
+  },
+  {
+   "text": "Its",
+   "start": 59.35,
+   "end": 59.59
+  },
+  {
+   "text": "capital,",
+   "start": 59.83,
+   "end": 60.31
+  },
+  {
+   "text": "Valletta,",
+   "start": 60.39,
+   "end": 61.27
+  },
+  {
+   "text": "is",
+   "start": 61.31,
+   "end": 61.35
+  },
+  {
+   "text": "a",
+   "start": 61.43,
+   "end": 61.47
+  },
+  {
+   "text": "UNESCO",
+   "start": 61.51,
+   "end": 62.07
+  },
+  {
+   "text": "World",
+   "start": 62.15,
+   "end": 62.39
+  },
+  {
+   "text": "Heritage",
+   "start": 62.47,
+   "end": 62.87
+  },
+  {
+   "text": "city.",
+   "start": 62.95,
+   "end": 63.51
+  },
+  {
+   "text": "And",
+   "start": 63.86,
+   "end": 64.02
+  },
+  {
+   "text": "both",
+   "start": 64.14,
+   "end": 64.26
+  },
+  {
+   "text": "English",
+   "start": 64.34,
+   "end": 64.74
+  },
+  {
+   "text": "and",
+   "start": 64.82,
+   "end": 64.98
+  },
+  {
+   "text": "Maltese",
+   "start": 65.06,
+   "end": 65.7
+  },
+  {
+   "text": "are",
+   "start": 65.78,
+   "end": 65.86
+  },
+  {
+   "text": "official",
+   "start": 65.94,
+   "end": 66.34
+  },
+  {
+   "text": "languages.",
+   "start": 66.42,
+   "end": 67.22
+  },
+  {
+   "text": "And",
+   "start": 68.12,
+   "end": 68.28
+  },
+  {
+   "text": "if",
+   "start": 68.32,
+   "end": 68.36
+  },
+  {
+   "text": "you'd",
+   "start": 68.4,
+   "end": 68.52
+  },
+  {
+   "text": "like",
+   "start": 68.6,
+   "end": 68.68
+  },
+  {
+   "text": "a",
+   "start": 68.72,
+   "end": 68.76
+  },
+  {
+   "text": "presenter,",
+   "start": 68.88,
+   "end": 69.64
+  },
+  {
+   "text": "we",
+   "start": 69.72,
+   "end": 69.8
+  },
+  {
+   "text": "can",
+   "start": 69.88,
+   "end": 69.96
+  },
+  {
+   "text": "add",
+   "start": 70.04,
+   "end": 70.12
+  },
+  {
+   "text": "a",
+   "start": 70.16,
+   "end": 70.2
+  },
+  {
+   "text": "talking",
+   "start": 70.24,
+   "end": 70.52
+  },
+  {
+   "text": "head",
+   "start": 70.6,
+   "end": 70.76
+  },
+  {
+   "text": "from",
+   "start": 70.84,
+   "end": 70.92
+  },
+  {
+   "text": "the",
+   "start": 70.96,
+   "end": 71.0
+  },
+  {
+   "text": "Colossyan",
+   "start": 71.08,
+   "end": 71.48
+  },
+  {
+   "text": "library,",
+   "start": 71.56,
+   "end": 72.28
+  },
+  {
+   "text": "right",
+   "start": 72.36,
+   "end": 72.52
+  },
+  {
+   "text": "on",
+   "start": 72.56,
+   "end": 72.6
+  },
+  {
+   "text": "top",
+   "start": 72.68,
+   "end": 72.84
+  },
+  {
+   "text": "of",
+   "start": 72.88,
+   "end": 72.92
+  },
+  {
+   "text": "the",
+   "start": 72.96,
+   "end": 73.0
+  },
+  {
+   "text": "animation,",
+   "start": 73.28,
+   "end": 73.8
+  },
+  {
+   "text": "like",
+   "start": 73.88,
+   "end": 73.96
+  },
+  {
+   "text": "this.",
+   "start": 74.04,
+   "end": 74.68
+  },
+  {
+   "text": "So",
+   "start": 77.88,
+   "end": 78.04
+  },
+  {
+   "text": "this",
+   "start": 78.28,
+   "end": 78.36
+  },
+  {
+   "text": "is",
+   "start": 78.44,
+   "end": 78.52
+  },
+  {
+   "text": "just",
+   "start": 78.6,
+   "end": 78.68
+  },
+  {
+   "text": "a",
+   "start": 78.76,
+   "end": 78.84
+  },
+  {
+   "text": "quick",
+   "start": 78.92,
+   "end": 79.08
+  },
+  {
+   "text": "example",
+   "start": 79.16,
+   "end": 79.56
+  },
+  {
+   "text": "for",
+   "start": 79.64,
+   "end": 79.72
+  },
+  {
+   "text": "you",
+   "start": 79.8,
+   "end": 79.88
+  },
+  {
+   "text": "guys.",
+   "start": 79.96,
+   "end": 80.52
+  },
+  {
+   "text": "I",
+   "start": 81.12,
+   "end": 81.28
+  },
+  {
+   "text": "do",
+   "start": 81.4,
+   "end": 81.52
+  },
+  {
+   "text": "have",
+   "start": 81.6,
+   "end": 81.76
+  },
+  {
+   "text": "a",
+   "start": 81.8,
+   "end": 81.84
+  },
+  {
+   "text": "couple",
+   "start": 81.92,
+   "end": 82.08
+  },
+  {
+   "text": "of",
+   "start": 82.12,
+   "end": 82.16
+  },
+  {
+   "text": "questions.",
+   "start": 82.32,
+   "end": 83.2
+  },
+  {
+   "text": "So,",
+   "start": 83.65,
+   "end": 84.45
+  },
+  {
+   "text": "let's",
+   "start": 84.65,
+   "end": 84.85
+  },
+  {
+   "text": "hop",
+   "start": 84.89,
+   "end": 85.05
+  },
+  {
+   "text": "on",
+   "start": 85.09,
+   "end": 85.13
+  },
+  {
+   "text": "a",
+   "start": 85.17,
+   "end": 85.21
+  },
+  {
+   "text": "video.",
+   "start": 85.29,
+   "end": 85.81
+  },
+  {
+   "text": "Send",
+   "start": 86.01,
+   "end": 86.17
+  },
+  {
+   "text": "me",
+   "start": 86.21,
+   "end": 86.25
+  },
+  {
+   "text": "your",
+   "start": 86.33,
+   "end": 86.41
+  },
+  {
+   "text": "script,",
+   "start": 86.49,
+   "end": 87.05
+  },
+  {
+   "text": "and",
+   "start": 87.21,
+   "end": 87.37
+  },
+  {
+   "text": "send",
+   "start": 87.45,
+   "end": 87.61
+  },
+  {
+   "text": "me",
+   "start": 87.65,
+   "end": 87.69
+  },
+  {
+   "text": "the",
+   "start": 87.77,
+   "end": 87.85
+  },
+  {
+   "text": "type",
+   "start": 87.97,
+   "end": 88.09
+  },
+  {
+   "text": "of",
+   "start": 88.17,
+   "end": 88.25
+  },
+  {
+   "text": "work",
+   "start": 88.33,
+   "end": 88.49
+  },
+  {
+   "text": "that",
+   "start": 88.57,
+   "end": 88.65
+  },
+  {
+   "text": "you",
+   "start": 88.69,
+   "end": 88.73
+  },
+  {
+   "text": "guys",
+   "start": 88.77,
+   "end": 88.89
+  },
+  {
+   "text": "are",
+   "start": 88.97,
+   "end": 89.05
+  },
+  {
+   "text": "doing,",
+   "start": 89.13,
+   "end": 89.61
+  },
+  {
+   "text": "so",
+   "start": 89.73,
+   "end": 89.85
+  },
+  {
+   "text": "I",
+   "start": 90.01,
+   "end": 90.05
+  },
+  {
+   "text": "can",
+   "start": 90.09,
+   "end": 90.17
+  },
+  {
+   "text": "get",
+   "start": 90.25,
+   "end": 90.33
+  },
+  {
+   "text": "more",
+   "start": 90.41,
+   "end": 90.49
+  },
+  {
+   "text": "of",
+   "start": 90.53,
+   "end": 90.57
+  },
+  {
+   "text": "an",
+   "start": 90.61,
+   "end": 90.65
+  },
+  {
+   "text": "idea",
+   "start": 90.73,
+   "end": 91.13
+  },
+  {
+   "text": "of",
+   "start": 91.21,
+   "end": 91.29
+  },
+  {
+   "text": "how",
+   "start": 91.37,
+   "end": 91.45
+  },
+  {
+   "text": "I",
+   "start": 91.53,
+   "end": 91.61
+  },
+  {
+   "text": "can",
+   "start": 91.65,
+   "end": 91.69
+  },
+  {
+   "text": "help.",
+   "start": 91.77,
+   "end": 92.33
+  }
+ ]
+}

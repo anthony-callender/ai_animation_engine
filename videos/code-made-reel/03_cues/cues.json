@@ -1,0 +1,1380 @@
+{
+ "meta": {
+  "duration": 75.86,
+  "voice": "../01_voice/voice.mp3",
+  "slug": "code-made-reel",
+  "music": null,
+  "music_gain": 0.25
+ },
+ "cueList": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "end": 4.48,
+   "phraseEnd": 0.0,
+   "phrase": null,
+   "text": "",
+   "note": "\"Every video on my feed was made with AI.\" Then \"Just not the way you'd think.\"",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "not",
+   "start": 4.48,
+   "end": 8.46,
+   "phraseEnd": 5.62,
+   "phrase": "No Midjourney. No",
+   "text": "No Midjourney. No",
+   "note": "Three crossed cards: AI image generators, stock footage, AI faces.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "aug",
+   "start": 8.46,
+   "end": 13.58,
+   "phraseEnd": 9.6,
+   "phrase": "And it isn't automated.",
+   "text": "And it isn't automated.",
+   "note": "Automated (AI straight to post, crossed) vs Augmented (me + AI, a check at every stage).",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "how",
+   "start": 13.58,
+   "end": 14.92,
+   "phraseEnd": 14.14,
+   "phrase": "Here's how it works.",
+   "text": "Here's how it works.",
+   "note": "Step rail: Idea, Script, Timing, Board, Code, Review, each tagged Me / AI.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "idea",
+   "start": 14.92,
+   "end": 22.52,
+   "phraseEnd": 15.98,
+   "phrase": "One. The idea.",
+   "text": "One. The idea.",
+   "note": "Voice-note card with waveform; \"Real conversations\" comment bubbles.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "script",
+   "start": 22.52,
+   "end": 30.26,
+   "phraseEnd": 23.52,
+   "phrase": "Two. The script.",
+   "text": "Two. The script.",
+   "note": "Script card typing; \"My own words\"; \"AI tightens\"; voice-clone waveform.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "timing",
+   "start": 30.26,
+   "end": 36.04,
+   "phraseEnd": 31.54,
+   "phrase": "Three. The timing.",
+   "text": "Three. The timing.",
+   "note": "Words with their real timestamps.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "board",
+   "start": 36.04,
+   "end": 45.34,
+   "phraseEnd": 37.28,
+   "phrase": "Four. The storyboard.",
+   "text": "Four. The storyboard.",
+   "note": "Word track, card pinned to \"word.\" at its real time; \"I review the board\" gate.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "code",
+   "start": 45.34,
+   "end": 52.88,
+   "phraseEnd": 46.66,
+   "phrase": "Five. The code.",
+   "text": "Five. The code.",
+   "note": "Code panel typing; frame counter and 30 frames / second.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "review",
+   "start": 52.88,
+   "end": 59.78,
+   "phraseEnd": 54.22,
+   "phrase": "Six. The review.",
+   "text": "Six. The review.",
+   "note": "Contact sheet of frames; \"Change this\"; \"Approved by me\"; nothing posts without it.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "why",
+   "start": 59.78,
+   "end": 61.18,
+   "phraseEnd": 60.5,
+   "phrase": "Why build it this",
+   "text": "Why build it this",
+   "note": "\"Why build it this way?\"",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "precise",
+   "start": 61.18,
+   "end": 64.7,
+   "phraseEnd": 62.36,
+   "phrase": "It's precise. A",
+   "text": "It's precise. A",
+   "note": "Card 1: Precise.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "predict",
+   "start": 64.7,
+   "end": 68.18,
+   "phraseEnd": 65.94,
+   "phrase": "It's predictable. Render",
+   "text": "It's predictable. Render",
+   "note": "Card 2: Predictable.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "me",
+   "start": 68.18,
+   "end": 70.88,
+   "phraseEnd": 68.96,
+   "phrase": "And it still sounds",
+   "text": "And it still sounds",
+   "note": "Card 3: Still sounds like me.",
+   "score": 1.0,
+   "sfx": []
+  },
+  {
+   "id": "meta",
+   "start": 70.88,
+   "end": 75.86,
+   "phraseEnd": 71.7,
+   "phrase": "This video was made",
+   "text": "This video was made",
+   "note": "\"This video was made the same way\" + live frame counter. Then end card.",
+   "score": 1.0,
+   "sfx": []
+  }
+ ],
+ "cues": {
+  "hook": {
+   "id": "hook",
+   "start": 0.0,
+   "end": 4.48,
+   "phraseEnd": 0.0,
+   "phrase": null,
+   "text": "",
+   "note": "\"Every video on my feed was made with AI.\" Then \"Just not the way you'd think.\"",
+   "score": 1.0,
+   "sfx": []
+  },
+  "not": {
+   "id": "not",
+   "start": 4.48,
+   "end": 8.46,
+   "phraseEnd": 5.62,
+   "phrase": "No Midjourney. No",
+   "text": "No Midjourney. No",
+   "note": "Three crossed cards: AI image generators, stock footage, AI faces.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "aug": {
+   "id": "aug",
+   "start": 8.46,
+   "end": 13.58,
+   "phraseEnd": 9.6,
+   "phrase": "And it isn't automated.",
+   "text": "And it isn't automated.",
+   "note": "Automated (AI straight to post, crossed) vs Augmented (me + AI, a check at every stage).",
+   "score": 1.0,
+   "sfx": []
+  },
+  "how": {
+   "id": "how",
+   "start": 13.58,
+   "end": 14.92,
+   "phraseEnd": 14.14,
+   "phrase": "Here's how it works.",
+   "text": "Here's how it works.",
+   "note": "Step rail: Idea, Script, Timing, Board, Code, Review, each tagged Me / AI.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "idea": {
+   "id": "idea",
+   "start": 14.92,
+   "end": 22.52,
+   "phraseEnd": 15.98,
+   "phrase": "One. The idea.",
+   "text": "One. The idea.",
+   "note": "Voice-note card with waveform; \"Real conversations\" comment bubbles.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "script": {
+   "id": "script",
+   "start": 22.52,
+   "end": 30.26,
+   "phraseEnd": 23.52,
+   "phrase": "Two. The script.",
+   "text": "Two. The script.",
+   "note": "Script card typing; \"My own words\"; \"AI tightens\"; voice-clone waveform.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "timing": {
+   "id": "timing",
+   "start": 30.26,
+   "end": 36.04,
+   "phraseEnd": 31.54,
+   "phrase": "Three. The timing.",
+   "text": "Three. The timing.",
+   "note": "Words with their real timestamps.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "board": {
+   "id": "board",
+   "start": 36.04,
+   "end": 45.34,
+   "phraseEnd": 37.28,
+   "phrase": "Four. The storyboard.",
+   "text": "Four. The storyboard.",
+   "note": "Word track, card pinned to \"word.\" at its real time; \"I review the board\" gate.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "code": {
+   "id": "code",
+   "start": 45.34,
+   "end": 52.88,
+   "phraseEnd": 46.66,
+   "phrase": "Five. The code.",
+   "text": "Five. The code.",
+   "note": "Code panel typing; frame counter and 30 frames / second.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "review": {
+   "id": "review",
+   "start": 52.88,
+   "end": 59.78,
+   "phraseEnd": 54.22,
+   "phrase": "Six. The review.",
+   "text": "Six. The review.",
+   "note": "Contact sheet of frames; \"Change this\"; \"Approved by me\"; nothing posts without it.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "why": {
+   "id": "why",
+   "start": 59.78,
+   "end": 61.18,
+   "phraseEnd": 60.5,
+   "phrase": "Why build it this",
+   "text": "Why build it this",
+   "note": "\"Why build it this way?\"",
+   "score": 1.0,
+   "sfx": []
+  },
+  "precise": {
+   "id": "precise",
+   "start": 61.18,
+   "end": 64.7,
+   "phraseEnd": 62.36,
+   "phrase": "It's precise. A",
+   "text": "It's precise. A",
+   "note": "Card 1: Precise.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "predict": {
+   "id": "predict",
+   "start": 64.7,
+   "end": 68.18,
+   "phraseEnd": 65.94,
+   "phrase": "It's predictable. Render",
+   "text": "It's predictable. Render",
+   "note": "Card 2: Predictable.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "me": {
+   "id": "me",
+   "start": 68.18,
+   "end": 70.88,
+   "phraseEnd": 68.96,
+   "phrase": "And it still sounds",
+   "text": "And it still sounds",
+   "note": "Card 3: Still sounds like me.",
+   "score": 1.0,
+   "sfx": []
+  },
+  "meta": {
+   "id": "meta",
+   "start": 70.88,
+   "end": 75.86,
+   "phraseEnd": 71.7,
+   "phrase": "This video was made",
+   "text": "This video was made",
+   "note": "\"This video was made the same way\" + live frame counter. Then end card.",
+   "score": 1.0,
+   "sfx": []
+  }
+ },
+ "words": [
+  {
+   "text": "Every",
+   "start": 0.0,
+   "end": 0.28
+  },
+  {
+   "text": "video",
+   "start": 0.28,
+   "end": 0.62
+  },
+  {
+   "text": "on",
+   "start": 0.62,
+   "end": 0.74
+  },
+  {
+   "text": "my",
+   "start": 0.74,
+   "end": 0.86
+  },
+  {
+   "text": "feed",
+   "start": 0.86,
+   "end": 1.18
+  },
+  {
+   "text": "was",
+   "start": 1.18,
+   "end": 1.44
+  },
+  {
+   "text": "made",
+   "start": 1.44,
+   "end": 1.66
+  },
+  {
+   "text": "with",
+   "start": 1.66,
+   "end": 1.88
+  },
+  {
+   "text": "AI.",
+   "start": 1.88,
+   "end": 2.12
+  },
+  {
+   "text": "Just",
+   "start": 2.72,
+   "end": 2.9
+  },
+  {
+   "text": "not",
+   "start": 2.9,
+   "end": 3.24
+  },
+  {
+   "text": "the",
+   "start": 3.24,
+   "end": 3.4
+  },
+  {
+   "text": "way",
+   "start": 3.4,
+   "end": 3.5
+  },
+  {
+   "text": "you'd",
+   "start": 3.5,
+   "end": 3.72
+  },
+  {
+   "text": "think.",
+   "start": 3.72,
+   "end": 3.9
+  },
+  {
+   "text": "No",
+   "start": 4.48,
+   "end": 4.58
+  },
+  {
+   "text": "Midjourney.",
+   "start": 4.58,
+   "end": 5.1
+  },
+  {
+   "text": "No",
+   "start": 5.52,
+   "end": 5.62
+  },
+  {
+   "text": "stock",
+   "start": 5.62,
+   "end": 5.92
+  },
+  {
+   "text": "footage.",
+   "start": 5.92,
+   "end": 6.24
+  },
+  {
+   "text": "No",
+   "start": 6.76,
+   "end": 6.92
+  },
+  {
+   "text": "AI-generated",
+   "start": 6.92,
+   "end": 7.64
+  },
+  {
+   "text": "faces.",
+   "start": 7.64,
+   "end": 8.0
+  },
+  {
+   "text": "And",
+   "start": 8.46,
+   "end": 8.7
+  },
+  {
+   "text": "it",
+   "start": 8.7,
+   "end": 8.8
+  },
+  {
+   "text": "isn't",
+   "start": 8.8,
+   "end": 9.16
+  },
+  {
+   "text": "automated.",
+   "start": 9.16,
+   "end": 9.6
+  },
+  {
+   "text": "It's",
+   "start": 10.12,
+   "end": 10.32
+  },
+  {
+   "text": "augmented.",
+   "start": 10.32,
+   "end": 10.72
+  },
+  {
+   "text": "I",
+   "start": 11.32,
+   "end": 11.52
+  },
+  {
+   "text": "stay",
+   "start": 11.52,
+   "end": 11.72
+  },
+  {
+   "text": "in",
+   "start": 11.72,
+   "end": 11.82
+  },
+  {
+   "text": "the",
+   "start": 11.82,
+   "end": 11.9
+  },
+  {
+   "text": "loop",
+   "start": 11.9,
+   "end": 12.08
+  },
+  {
+   "text": "at",
+   "start": 12.08,
+   "end": 12.3
+  },
+  {
+   "text": "every",
+   "start": 12.3,
+   "end": 12.66
+  },
+  {
+   "text": "stage.",
+   "start": 12.66,
+   "end": 13.02
+  },
+  {
+   "text": "Here's",
+   "start": 13.58,
+   "end": 13.8
+  },
+  {
+   "text": "how",
+   "start": 13.8,
+   "end": 13.88
+  },
+  {
+   "text": "it",
+   "start": 13.88,
+   "end": 14.02
+  },
+  {
+   "text": "works.",
+   "start": 14.02,
+   "end": 14.14
+  },
+  {
+   "text": "One.",
+   "start": 14.92,
+   "end": 15.08
+  },
+  {
+   "text": "The",
+   "start": 15.56,
+   "end": 15.66
+  },
+  {
+   "text": "idea.",
+   "start": 15.66,
+   "end": 15.98
+  },
+  {
+   "text": "I",
+   "start": 15.98,
+   "end": 16.64
+  },
+  {
+   "text": "record",
+   "start": 16.64,
+   "end": 16.86
+  },
+  {
+   "text": "voice",
+   "start": 16.86,
+   "end": 17.18
+  },
+  {
+   "text": "notes,",
+   "start": 17.18,
+   "end": 17.48
+  },
+  {
+   "text": "and",
+   "start": 17.48,
+   "end": 18.0
+  },
+  {
+   "text": "the",
+   "start": 18.0,
+   "end": 18.12
+  },
+  {
+   "text": "best",
+   "start": 18.12,
+   "end": 18.32
+  },
+  {
+   "text": "ideas",
+   "start": 18.32,
+   "end": 18.72
+  },
+  {
+   "text": "come",
+   "start": 18.72,
+   "end": 19.0
+  },
+  {
+   "text": "from",
+   "start": 19.0,
+   "end": 19.2
+  },
+  {
+   "text": "real",
+   "start": 19.2,
+   "end": 19.54
+  },
+  {
+   "text": "conversations,",
+   "start": 19.54,
+   "end": 20.18
+  },
+  {
+   "text": "like",
+   "start": 20.62,
+   "end": 20.82
+  },
+  {
+   "text": "the",
+   "start": 20.82,
+   "end": 20.94
+  },
+  {
+   "text": "comments",
+   "start": 20.94,
+   "end": 21.22
+  },
+  {
+   "text": "on",
+   "start": 21.22,
+   "end": 21.34
+  },
+  {
+   "text": "my",
+   "start": 21.34,
+   "end": 21.48
+  },
+  {
+   "text": "posts.",
+   "start": 21.48,
+   "end": 21.74
+  },
+  {
+   "text": "Two.",
+   "start": 22.52,
+   "end": 22.66
+  },
+  {
+   "text": "The",
+   "start": 23.16,
+   "end": 23.28
+  },
+  {
+   "text": "script.",
+   "start": 23.28,
+   "end": 23.52
+  },
+  {
+   "text": "I",
+   "start": 23.52,
+   "end": 24.32
+  },
+  {
+   "text": "write",
+   "start": 24.32,
+   "end": 24.48
+  },
+  {
+   "text": "it",
+   "start": 24.48,
+   "end": 24.62
+  },
+  {
+   "text": "in",
+   "start": 24.62,
+   "end": 24.7
+  },
+  {
+   "text": "my",
+   "start": 24.7,
+   "end": 24.84
+  },
+  {
+   "text": "own",
+   "start": 24.84,
+   "end": 25.04
+  },
+  {
+   "text": "words,",
+   "start": 25.04,
+   "end": 25.34
+  },
+  {
+   "text": "and",
+   "start": 25.34,
+   "end": 25.94
+  },
+  {
+   "text": "AI",
+   "start": 25.94,
+   "end": 26.26
+  },
+  {
+   "text": "helps",
+   "start": 26.26,
+   "end": 26.6
+  },
+  {
+   "text": "me",
+   "start": 26.6,
+   "end": 26.76
+  },
+  {
+   "text": "tighten",
+   "start": 26.76,
+   "end": 27.1
+  },
+  {
+   "text": "it.",
+   "start": 27.1,
+   "end": 27.24
+  },
+  {
+   "text": "Then",
+   "start": 27.68,
+   "end": 27.88
+  },
+  {
+   "text": "my",
+   "start": 27.88,
+   "end": 28.26
+  },
+  {
+   "text": "AI",
+   "start": 28.26,
+   "end": 28.54
+  },
+  {
+   "text": "voice",
+   "start": 28.54,
+   "end": 28.88
+  },
+  {
+   "text": "clone",
+   "start": 28.88,
+   "end": 29.18
+  },
+  {
+   "text": "reads",
+   "start": 29.18,
+   "end": 29.5
+  },
+  {
+   "text": "it.",
+   "start": 29.5,
+   "end": 29.82
+  },
+  {
+   "text": "Three.",
+   "start": 30.26,
+   "end": 30.4
+  },
+  {
+   "text": "The",
+   "start": 30.9,
+   "end": 31.0
+  },
+  {
+   "text": "timing.",
+   "start": 31.0,
+   "end": 31.54
+  },
+  {
+   "text": "Speech-to-text",
+   "start": 32.0,
+   "end": 32.72
+  },
+  {
+   "text": "stamps",
+   "start": 32.72,
+   "end": 32.98
+  },
+  {
+   "text": "every",
+   "start": 32.98,
+   "end": 33.46
+  },
+  {
+   "text": "word",
+   "start": 33.46,
+   "end": 33.78
+  },
+  {
+   "text": "with",
+   "start": 33.78,
+   "end": 33.98
+  },
+  {
+   "text": "the",
+   "start": 33.98,
+   "end": 34.12
+  },
+  {
+   "text": "exact",
+   "start": 34.12,
+   "end": 34.46
+  },
+  {
+   "text": "moment",
+   "start": 34.46,
+   "end": 34.9
+  },
+  {
+   "text": "it's",
+   "start": 34.9,
+   "end": 35.24
+  },
+  {
+   "text": "said.",
+   "start": 35.24,
+   "end": 35.36
+  },
+  {
+   "text": "Four.",
+   "start": 36.04,
+   "end": 36.18
+  },
+  {
+   "text": "The",
+   "start": 36.66,
+   "end": 36.76
+  },
+  {
+   "text": "storyboard.",
+   "start": 36.76,
+   "end": 37.28
+  },
+  {
+   "text": "AI",
+   "start": 37.8,
+   "end": 37.98
+  },
+  {
+   "text": "drafts",
+   "start": 37.98,
+   "end": 38.48
+  },
+  {
+   "text": "every",
+   "start": 38.48,
+   "end": 38.8
+  },
+  {
+   "text": "scene",
+   "start": 38.8,
+   "end": 39.12
+  },
+  {
+   "text": "and",
+   "start": 39.12,
+   "end": 39.4
+  },
+  {
+   "text": "pins",
+   "start": 39.4,
+   "end": 39.64
+  },
+  {
+   "text": "it",
+   "start": 39.64,
+   "end": 39.78
+  },
+  {
+   "text": "to",
+   "start": 39.78,
+   "end": 39.94
+  },
+  {
+   "text": "a",
+   "start": 39.94,
+   "end": 40.06
+  },
+  {
+   "text": "word.",
+   "start": 40.06,
+   "end": 40.3
+  },
+  {
+   "text": "This",
+   "start": 40.82,
+   "end": 40.98
+  },
+  {
+   "text": "card",
+   "start": 40.98,
+   "end": 41.26
+  },
+  {
+   "text": "appears",
+   "start": 41.26,
+   "end": 41.58
+  },
+  {
+   "text": "on",
+   "start": 41.58,
+   "end": 41.86
+  },
+  {
+   "text": "this",
+   "start": 41.86,
+   "end": 42.06
+  },
+  {
+   "text": "word.",
+   "start": 42.06,
+   "end": 42.32
+  },
+  {
+   "text": "I",
+   "start": 42.78,
+   "end": 42.88
+  },
+  {
+   "text": "review",
+   "start": 42.88,
+   "end": 43.12
+  },
+  {
+   "text": "the",
+   "start": 43.12,
+   "end": 43.3
+  },
+  {
+   "text": "board",
+   "start": 43.3,
+   "end": 43.52
+  },
+  {
+   "text": "before",
+   "start": 43.52,
+   "end": 43.8
+  },
+  {
+   "text": "anything",
+   "start": 43.8,
+   "end": 44.16
+  },
+  {
+   "text": "gets",
+   "start": 44.16,
+   "end": 44.46
+  },
+  {
+   "text": "built.",
+   "start": 44.46,
+   "end": 44.72
+  },
+  {
+   "text": "Five.",
+   "start": 45.34,
+   "end": 45.74
+  },
+  {
+   "text": "The",
+   "start": 46.28,
+   "end": 46.38
+  },
+  {
+   "text": "code.",
+   "start": 46.38,
+   "end": 46.66
+  },
+  {
+   "text": "AI",
+   "start": 47.26,
+   "end": 47.54
+  },
+  {
+   "text": "writes",
+   "start": 47.54,
+   "end": 47.8
+  },
+  {
+   "text": "the",
+   "start": 47.8,
+   "end": 47.98
+  },
+  {
+   "text": "code",
+   "start": 47.98,
+   "end": 48.16
+  },
+  {
+   "text": "for",
+   "start": 48.16,
+   "end": 48.36
+  },
+  {
+   "text": "each",
+   "start": 48.36,
+   "end": 48.6
+  },
+  {
+   "text": "scene,",
+   "start": 48.6,
+   "end": 48.94
+  },
+  {
+   "text": "and",
+   "start": 49.26,
+   "end": 49.34
+  },
+  {
+   "text": "the",
+   "start": 49.34,
+   "end": 49.44
+  },
+  {
+   "text": "code",
+   "start": 49.44,
+   "end": 49.64
+  },
+  {
+   "text": "draws",
+   "start": 49.64,
+   "end": 49.94
+  },
+  {
+   "text": "every",
+   "start": 49.94,
+   "end": 50.5
+  },
+  {
+   "text": "frame,",
+   "start": 50.5,
+   "end": 50.84
+  },
+  {
+   "text": "thirty",
+   "start": 50.84,
+   "end": 51.56
+  },
+  {
+   "text": "times",
+   "start": 51.56,
+   "end": 51.88
+  },
+  {
+   "text": "a",
+   "start": 51.88,
+   "end": 52.02
+  },
+  {
+   "text": "second.",
+   "start": 52.02,
+   "end": 52.34
+  },
+  {
+   "text": "Six.",
+   "start": 52.88,
+   "end": 53.22
+  },
+  {
+   "text": "The",
+   "start": 53.82,
+   "end": 53.94
+  },
+  {
+   "text": "review.",
+   "start": 53.94,
+   "end": 54.22
+  },
+  {
+   "text": "I",
+   "start": 54.78,
+   "end": 54.98
+  },
+  {
+   "text": "check",
+   "start": 54.98,
+   "end": 55.12
+  },
+  {
+   "text": "the",
+   "start": 55.12,
+   "end": 55.3
+  },
+  {
+   "text": "frames,",
+   "start": 55.3,
+   "end": 55.54
+  },
+  {
+   "text": "ask",
+   "start": 56.0,
+   "end": 56.16
+  },
+  {
+   "text": "for",
+   "start": 56.16,
+   "end": 56.32
+  },
+  {
+   "text": "changes,",
+   "start": 56.32,
+   "end": 56.66
+  },
+  {
+   "text": "and",
+   "start": 56.66,
+   "end": 57.14
+  },
+  {
+   "text": "nothing",
+   "start": 57.14,
+   "end": 57.5
+  },
+  {
+   "text": "gets",
+   "start": 57.5,
+   "end": 57.7
+  },
+  {
+   "text": "posted",
+   "start": 57.7,
+   "end": 58.08
+  },
+  {
+   "text": "until",
+   "start": 58.08,
+   "end": 58.44
+  },
+  {
+   "text": "I",
+   "start": 58.44,
+   "end": 58.74
+  },
+  {
+   "text": "approve",
+   "start": 58.74,
+   "end": 59.06
+  },
+  {
+   "text": "it.",
+   "start": 59.06,
+   "end": 59.34
+  },
+  {
+   "text": "Why",
+   "start": 59.78,
+   "end": 59.98
+  },
+  {
+   "text": "build",
+   "start": 59.98,
+   "end": 60.22
+  },
+  {
+   "text": "it",
+   "start": 60.22,
+   "end": 60.32
+  },
+  {
+   "text": "this",
+   "start": 60.32,
+   "end": 60.5
+  },
+  {
+   "text": "way?",
+   "start": 60.5,
+   "end": 60.66
+  },
+  {
+   "text": "It's",
+   "start": 61.18,
+   "end": 61.34
+  },
+  {
+   "text": "precise.",
+   "start": 61.34,
+   "end": 61.66
+  },
+  {
+   "text": "A",
+   "start": 62.28,
+   "end": 62.36
+  },
+  {
+   "text": "number",
+   "start": 62.36,
+   "end": 62.6
+  },
+  {
+   "text": "on",
+   "start": 62.6,
+   "end": 62.78
+  },
+  {
+   "text": "screen",
+   "start": 62.78,
+   "end": 63.08
+  },
+  {
+   "text": "is",
+   "start": 63.08,
+   "end": 63.4
+  },
+  {
+   "text": "the",
+   "start": 63.4,
+   "end": 63.54
+  },
+  {
+   "text": "real",
+   "start": 63.54,
+   "end": 63.84
+  },
+  {
+   "text": "number.",
+   "start": 63.84,
+   "end": 64.18
+  },
+  {
+   "text": "It's",
+   "start": 64.7,
+   "end": 64.84
+  },
+  {
+   "text": "predictable.",
+   "start": 64.84,
+   "end": 65.28
+  },
+  {
+   "text": "Render",
+   "start": 65.78,
+   "end": 65.94
+  },
+  {
+   "text": "it",
+   "start": 65.94,
+   "end": 66.1
+  },
+  {
+   "text": "again,",
+   "start": 66.1,
+   "end": 66.36
+  },
+  {
+   "text": "and",
+   "start": 66.36,
+   "end": 66.7
+  },
+  {
+   "text": "you",
+   "start": 66.7,
+   "end": 66.8
+  },
+  {
+   "text": "get",
+   "start": 66.8,
+   "end": 66.9
+  },
+  {
+   "text": "the",
+   "start": 66.9,
+   "end": 67.04
+  },
+  {
+   "text": "same",
+   "start": 67.04,
+   "end": 67.34
+  },
+  {
+   "text": "video.",
+   "start": 67.34,
+   "end": 67.7
+  },
+  {
+   "text": "And",
+   "start": 68.18,
+   "end": 68.3
+  },
+  {
+   "text": "it",
+   "start": 68.3,
+   "end": 68.4
+  },
+  {
+   "text": "still",
+   "start": 68.4,
+   "end": 68.62
+  },
+  {
+   "text": "sounds",
+   "start": 68.62,
+   "end": 68.96
+  },
+  {
+   "text": "like",
+   "start": 68.96,
+   "end": 69.12
+  },
+  {
+   "text": "me,",
+   "start": 69.12,
+   "end": 69.32
+  },
+  {
+   "text": "because",
+   "start": 69.32,
+   "end": 69.72
+  },
+  {
+   "text": "I'm",
+   "start": 69.72,
+   "end": 70.1
+  },
+  {
+   "text": "in",
+   "start": 70.1,
+   "end": 70.16
+  },
+  {
+   "text": "the",
+   "start": 70.16,
+   "end": 70.26
+  },
+  {
+   "text": "loop.",
+   "start": 70.26,
+   "end": 70.44
+  },
+  {
+   "text": "This",
+   "start": 70.88,
+   "end": 71.06
+  },
+  {
+   "text": "video",
+   "start": 71.06,
+   "end": 71.38
+  },
+  {
+   "text": "was",
+   "start": 71.38,
+   "end": 71.56
+  },
+  {
+   "text": "made",
+   "start": 71.56,
+   "end": 71.7
+  },
+  {
+   "text": "the",
+   "start": 71.7,
+   "end": 71.86
+  },
+  {
+   "text": "same",
+   "start": 71.86,
+   "end": 72.04
+  },
+  {
+   "text": "way.",
+   "start": 72.04,
+   "end": 72.3
+  }
+ ]
+}
